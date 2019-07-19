@@ -64,16 +64,6 @@
   </url>
   
   <url>
-    <loc>/publication/finding-a-needle-in-a-field-of-haystacks-cell-systems-publishes-research-on-mantis-a-new-sequencing-search-tool/</loc>
-    <lastmod>2019-07-18T00:53:27-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-07-18T00:53:27-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/prashant-pandey/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
   </url>
@@ -136,6 +126,11 @@
     <loc>/publication_types/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
   </url>
   
   <url>
