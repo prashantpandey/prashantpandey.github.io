@@ -17,11 +17,30 @@
       <pubDate>Thu, 18 Jul 2019 00:46:09 -0400</pubDate>
       
       <guid>/authors/prashant-pandey/</guid>
-      <description>&lt;p&gt;My current research focuses on building efficient filter data structures for approximate membership testing and counting. I also work on building write-optimized data structures for online event-detection problem in streaming data sets. I am also a member of the team that developed &lt;a href=&#34;http://www.betrfs.org/&#34; target=&#34;_blank&#34;&gt;BetrFS&lt;/a&gt;, an in-kernel file system built on write-optimized indexes.&lt;/p&gt;
+      <description>&lt;!--My current research focuses on building efficient filter data structures for
+approximate membership testing and counting. I also work on building
+write-optimized data structures for online event-detection problem in streaming
+data sets. I am also a member of the team that developed
+[BetrFS](http://www.betrfs.org/), an in-kernel file system built on
+write-optimized indexes.--&gt;
 
-&lt;p&gt;Currently, I am a Postdoctoral Scholar at the School of Computer Science at &lt;a href=&#34;https://www.cs.cmu.edu/&#34; target=&#34;_blank&#34;&gt;Carnegie Mellon University&lt;/a&gt;. I work with &lt;a href=&#34;http://www.cs.cmu.edu/~ckingsf/&#34; target=&#34;_blank&#34;&gt;Prof. Carl Kingsford&lt;/a&gt; on building compact data structures for large-scale sequence-search and representation of de Bruijn graphs for DNA sequencing and transcriptomic analysis.&lt;/p&gt;
+&lt;p&gt;I am a Postdoctoral Scholar at the School of Computer Science at &lt;a href=&#34;https://www.cs.cmu.edu/&#34; target=&#34;_blank&#34;&gt;Carnegie
+Mellon University&lt;/a&gt; working with &lt;a href=&#34;http://www.cs.cmu.edu/~ckingsf/&#34; target=&#34;_blank&#34;&gt;Prof. Carl
+Kingsford&lt;/a&gt;. My research interests lie at the
+intersection of systems and algorithms. I design and build theoretically
+well-founded data structures for big data problems in computational biology,
+storage, and streaming.&lt;/p&gt;
 
-&lt;p&gt;Previously, I obtained my Ph.D. in Computer Science at &lt;a href=&#34;https://www.cs.stonybrook.edu/&#34; target=&#34;_blank&#34;&gt;Stony Brook University&lt;/a&gt;, and defended my dissertation, &lt;a href=&#34;files/prashant_pandey_thesis_2018_submitted.pdf&#34; target=&#34;_blank&#34;&gt;Fast and Space-Efficient Maps: Shrinking Big Data Down to Size&lt;/a&gt;. At Stony brook University, I was co-advised by &lt;a href=&#34;http://www3.cs.stonybrook.edu/~bender/&#34; target=&#34;_blank&#34;&gt;Prof. Michael Bender&lt;/a&gt; and &lt;a href=&#34;http://www3.cs.stonybrook.edu/~rob/&#34; target=&#34;_blank&#34;&gt;Prof. Rob Johnson&lt;/a&gt;. (Dissertation committee: &lt;a href=&#34;https://compas.cs.stonybrook.edu/~mferdman/&#34; target=&#34;_blank&#34;&gt;Mike Ferdman&lt;/a&gt;, &lt;a href=&#34;http://www.robpatro.com/redesign/&#34; target=&#34;_blank&#34;&gt;Rob Patro&lt;/a&gt;, &lt;a href=&#34;http://www.cs.cmu.edu/~guyb/&#34; target=&#34;_blank&#34;&gt;Guy Blelloch&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;Previously, I obtained my Ph.D. in Computer Science at &lt;a href=&#34;https://www.cs.stonybrook.edu/&#34; target=&#34;_blank&#34;&gt;Stony Brook
+University&lt;/a&gt;, and defended my dissertation, &lt;a href=&#34;files/prashant_pandey_thesis_2018_submitted.pdf&#34; target=&#34;_blank&#34;&gt;Fast
+and Space-Efficient Maps: Shrinking Big Data Down to
+Size&lt;/a&gt;. At Stony brook
+University, I was co-advised by &lt;a href=&#34;http://www3.cs.stonybrook.edu/~bender/&#34; target=&#34;_blank&#34;&gt;Prof. Michael
+Bender&lt;/a&gt; and &lt;a href=&#34;http://www3.cs.stonybrook.edu/~rob/&#34; target=&#34;_blank&#34;&gt;Prof. Rob
+Johnson&lt;/a&gt;. (Dissertation committee: &lt;a href=&#34;https://compas.cs.stonybrook.edu/~mferdman/&#34; target=&#34;_blank&#34;&gt;Mike
+Ferdman&lt;/a&gt;, &lt;a href=&#34;http://www.robpatro.com/redesign/&#34; target=&#34;_blank&#34;&gt;Rob
+Patro&lt;/a&gt;, &lt;a href=&#34;http://www.cs.cmu.edu/~guyb/&#34; target=&#34;_blank&#34;&gt;Guy
+Blelloch&lt;/a&gt;.)&lt;/p&gt;
 </description>
     </item>
     
