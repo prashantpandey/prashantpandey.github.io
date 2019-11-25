@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael A. Bender on Prashant Pandey</title>
+    <link>/authors/michael-a.-bender/</link>
+    <description>Recent content in Michael A. Bender on Prashant Pandey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2019 00:43:58 -0400</lastBuildDate>
+    
+	    <atom:link href="/authors/michael-a.-bender/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Online Event-Detection Problem</title>
+      <link>/publication/the-online-event-detection-problem/</link>
+      <pubDate>Thu, 18 Jul 2019 00:43:58 -0400</pubDate>
+      
+      <guid>/publication/the-online-event-detection-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index</title>
+      <link>/publication/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</link>
+      <pubDate>Thu, 18 Jul 2019 00:37:03 -0400</pubDate>
+      
+      <guid>/publication/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
+      <link>/publication/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</link>
+      <pubDate>Thu, 18 Jul 2019 00:32:54 -0400</pubDate>
+      
+      <guid>/publication/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squeakr: An Exact and Approximate K-Mer Counting System</title>
+      <link>/publication/squeakr-an-exact-and-approximate-k-mer-counting-system/</link>
+      <pubDate>Thu, 18 Jul 2019 00:31:15 -0400</pubDate>
+      
+      <guid>/publication/squeakr-an-exact-and-approximate-k-mer-counting-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-Purpose Counting Filter: Making Every Bit Count</title>
+      <link>/publication/a-general-purpose-counting-filter-making-every-bit-count/</link>
+      <pubDate>Thu, 18 Jul 2019 00:29:40 -0400</pubDate>
+      
+      <guid>/publication/a-general-purpose-counting-filter-making-every-bit-count/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast X86 Implementation of Select</title>
+      <link>/publication/a-fast-x86-implementation-of-select/</link>
+      <pubDate>Thu, 18 Jul 2019 00:27:49 -0400</pubDate>
+      
+      <guid>/publication/a-fast-x86-implementation-of-select/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BetrFS: Write-Optimization in a Kernel File System</title>
+      <link>/publication/betrfs-write-optimization-in-a-kernel-file-system/</link>
+      <pubDate>Thu, 18 Jul 2019 00:22:47 -0400</pubDate>
+      
+      <guid>/publication/betrfs-write-optimization-in-a-kernel-file-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BetrFS: A Right-Optimized Write-Optimized File System</title>
+      <link>/publication/betrfs-a-right-optimized-write-optimized-file-system/</link>
+      <pubDate>Thu, 18 Jul 2019 00:20:34 -0400</pubDate>
+      
+      <guid>/publication/betrfs-a-right-optimized-write-optimized-file-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

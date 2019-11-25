@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-07-18T02:42:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-07-18T02:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ausois/</loc>
+    <lastmod>2019-07-18T02:42:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/media/</loc>
+    <lastmod>2019-07-18T01:08:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/media/the-counting-quotient-filter-data-structure-featured-on-the-morning-paper/</loc>
+    <lastmod>2019-07-18T01:08:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/media/our-computational-biology-research-got-mentioned-on-vmware-research-blog/</loc>
+    <lastmod>2019-07-18T01:06:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/media/our-counting-quotient-file-paper-is-one-of-eight-acm-sigmod-2017-reproducible-paper/</loc>
+    <lastmod>2019-07-18T01:05:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/media/i-recently-received-the-catacosinos-fellowship-for-excellence-in-computer-science-at-stony-brook-university/</loc>
+    <lastmod>2019-07-18T01:03:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/media/finding-a-needle-in-a-field-of-haystacks-cell-systems-publishes-research-on-mantis-a-new-sequencing-search-tool/</loc>
+    <lastmod>2019-07-18T00:53:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/prashant-pandey/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alex-conway/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/donald-e.-porter/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/eric-knorr/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jun-yuan/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-farach-colton/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-bender/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nirjhar-mukherjee/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rob-johnson/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sara-mcallister/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/william-jannen/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yang-zhan/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yizheng-jiao/</loc>
+    <lastmod>2019-07-18T00:46:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/carl-kingsford/</loc>
+    <lastmod>2019-07-18T00:44:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dan-deblasio/</loc>
+    <lastmod>2019-07-18T00:44:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/guillaume-marcais/</loc>
+    <lastmod>2019-07-18T00:44:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/locality-sensitive-hashing-for-the-edit-distance/</loc>
+    <lastmod>2019-07-18T00:44:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/cynthia-a.-phillips/</loc>
+    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jonathan-w.-berry/</loc>
+    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-a.-bender/</loc>
+    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/shikha-singh/</loc>
+    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/the-online-event-detection-problem/</loc>
+    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-m.-kroeger/</loc>
+    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/an-efficient-scalable-and-exact-representation-of-high-dimensional-color-information-enabled-via-de-bruijn-graph-search-problem/</loc>
+    <lastmod>2019-07-18T00:40:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/fatemeh-almodaresi/</loc>
+    <lastmod>2019-07-18T00:40:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-ferdman/</loc>
+    <lastmod>2019-07-18T00:40:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rob-patro/</loc>
+    <lastmod>2019-07-18T00:40:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/buffered-count-min-sketch-on-ssd-theory-and-experiments/</loc>
+    <lastmod>2019-07-18T00:38:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dzejla-medjedovic/</loc>
+    <lastmod>2019-07-18T00:38:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emina-mekic/</loc>
+    <lastmod>2019-07-18T00:38:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mayank-goswami/</loc>
+    <lastmod>2019-07-18T00:38:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-07-18T00:37:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</loc>
+    <lastmod>2019-07-18T00:37:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/and-rob-patro/</loc>
+    <lastmod>2019-07-18T00:37:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/rainbowfish-a-succinct-colored-de-bruijn-graph-representation/</loc>
+    <lastmod>2019-07-18T00:34:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</loc>
+    <lastmod>2019-07-18T00:32:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/squeakr-an-exact-and-approximate-k-mer-counting-system/</loc>
+    <lastmod>2019-07-18T00:31:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/a-general-purpose-counting-filter-making-every-bit-count/</loc>
+    <lastmod>2019-07-18T00:29:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/a-fast-x86-implementation-of-select/</loc>
+    <lastmod>2019-07-18T00:27:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/and-rob-johnson/</loc>
+    <lastmod>2019-07-18T00:27:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/amogh-akshintala/</loc>
+    <lastmod>2019-07-18T00:26:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bradley-c.-kuszmaul/</loc>
+    <lastmod>2019-07-18T00:26:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kanchan-chandnani/</loc>
+    <lastmod>2019-07-18T00:26:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/pooja-deo/</loc>
+    <lastmod>2019-07-18T00:26:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/writes-wrought-right-and-other-adventures-in-file-system-optimization/</loc>
+    <lastmod>2019-07-18T00:26:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zardosht-kasheff/</loc>
+    <lastmod>2019-07-18T00:26:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/and-donald-e.-porter/</loc>
+    <lastmod>2019-07-18T00:26:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/optimizing-every-operation-in-a-write-optimized-file-system/</loc>
+    <lastmod>2019-07-18T00:24:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ankur-mittal/</loc>
+    <lastmod>2019-07-18T00:22:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/betrfs-write-optimization-in-a-kernel-file-system/</loc>
+    <lastmod>2019-07-18T00:22:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-esmet/</loc>
+    <lastmod>2019-07-18T00:22:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/leif-walsh/</loc>
+    <lastmod>2019-07-18T00:22:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/phaneendra-reddy/</loc>
+    <lastmod>2019-07-18T00:22:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/betrfs-a-right-optimized-write-optimized-file-system/</loc>
+    <lastmod>2019-07-18T00:20:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/spaa/</loc>
+    <lastmod>2019-06-24T02:48:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/defense/</loc>
+    <lastmod>2018-10-31T02:47:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/esa/</loc>
+    <lastmod>2018-08-22T02:46:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/recomb/</loc>
+    <lastmod>2018-04-22T02:44:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/berkeleylab/</loc>
+    <lastmod>2018-01-12T02:37:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/googlevmware/</loc>
+    <lastmod>2017-09-26T02:34:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ismb2017/</loc>
+    <lastmod>2017-07-25T02:32:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/sigmod2017/</loc>
+    <lastmod>2017-05-16T02:29:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/intel-software-guard-extensions-sgx/</loc>
+    <lastmod>2015-08-25T02:25:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+</urlset>
