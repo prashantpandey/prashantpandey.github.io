@@ -6,17 +6,17 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2019 02:42:41 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 12:29:23 -0800</lastBuildDate>
     
 	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Scheduling Problems in Write-Optimized Key-Value Stores</title>
-      <link>/talk/ausois/</link>
-      <pubDate>Thu, 18 Jul 2019 02:42:41 -0400</pubDate>
+      <title>Timely Reporting of Heavy Hitters using External Memory</title>
+      <link>/talk/itu_umd/</link>
+      <pubDate>Sat, 12 Oct 2019 12:29:23 -0800</pubDate>
       
-      <guid>/talk/ausois/</guid>
+      <guid>/talk/itu_umd/</guid>
       <description></description>
     </item>
     
@@ -53,6 +53,15 @@
       <pubDate>Sun, 22 Apr 2018 02:44:45 -0400</pubDate>
       
       <guid>/talk/recomb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Problems in Write-Optimized Key-Value Stores</title>
+      <link>/talk/ausois/</link>
+      <pubDate>Fri, 06 Apr 2018 12:36:40 -0800</pubDate>
+      
+      <guid>/talk/ausois/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in 3 on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2019 00:43:58 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 12:50:29 -0800</lastBuildDate>
     
 	    <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VariantStore: A Space-Efficient and Fast Variant Search Index</title>
+      <link>/publication/variantstore-a-space-efficient-and-fast-variant-search-index/</link>
+      <pubDate>Mon, 02 Dec 2019 12:50:29 -0800</pubDate>
+      
+      <guid>/publication/variantstore-a-space-efficient-and-fast-variant-search-index/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Online Event-Detection Problem</title>
@@ -23,7 +32,7 @@
     <item>
       <title>A Fast X86 Implementation of Select</title>
       <link>/publication/a-fast-x86-implementation-of-select/</link>
-      <pubDate>Thu, 18 Jul 2019 00:27:49 -0400</pubDate>
+      <pubDate>Tue, 18 Jul 2017 00:27:49 -0400</pubDate>
       
       <guid>/publication/a-fast-x86-implementation-of-select/</guid>
       <description></description>

@@ -6,10 +6,19 @@
     <description>Recent content in 1 on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2019 00:46:09 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 12:40:16 -0800</lastBuildDate>
     
 	    <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Timely Reporting of Heavy Hitters Using External Memory</title>
+      <link>/publication/timely-reporting-of-heavy-hitters-using-external-memory/</link>
+      <pubDate>Thu, 02 Jan 2020 12:40:16 -0800</pubDate>
+      
+      <guid>/publication/timely-reporting-of-heavy-hitters-using-external-memory/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design</title>
@@ -41,7 +50,7 @@
     <item>
       <title>Buffered Count-Min Sketch on SSD: Theory and Experiments</title>
       <link>/publication/buffered-count-min-sketch-on-ssd-theory-and-experiments/</link>
-      <pubDate>Thu, 18 Jul 2019 00:38:52 -0400</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:38:52 -0400</pubDate>
       
       <guid>/publication/buffered-count-min-sketch-on-ssd-theory-and-experiments/</guid>
       <description></description>
@@ -50,7 +59,7 @@
     <item>
       <title>Rainbowfish: A Succinct Colored de Bruijn Graph Representation</title>
       <link>/publication/rainbowfish-a-succinct-colored-de-bruijn-graph-representation/</link>
-      <pubDate>Thu, 18 Jul 2019 00:34:22 -0400</pubDate>
+      <pubDate>Tue, 18 Jul 2017 00:34:22 -0400</pubDate>
       
       <guid>/publication/rainbowfish-a-succinct-colored-de-bruijn-graph-representation/</guid>
       <description></description>
@@ -59,7 +68,7 @@
     <item>
       <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
       <link>/publication/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</link>
-      <pubDate>Thu, 18 Jul 2019 00:32:54 -0400</pubDate>
+      <pubDate>Tue, 18 Jul 2017 00:32:54 -0400</pubDate>
       
       <guid>/publication/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</guid>
       <description></description>
@@ -68,7 +77,7 @@
     <item>
       <title>A General-Purpose Counting Filter: Making Every Bit Count</title>
       <link>/publication/a-general-purpose-counting-filter-making-every-bit-count/</link>
-      <pubDate>Thu, 18 Jul 2019 00:29:40 -0400</pubDate>
+      <pubDate>Tue, 18 Jul 2017 00:29:40 -0400</pubDate>
       
       <guid>/publication/a-general-purpose-counting-filter-making-every-bit-count/</guid>
       <description></description>
@@ -77,7 +86,7 @@
     <item>
       <title>Optimizing Every Operation in a Write-Optimized File System</title>
       <link>/publication/optimizing-every-operation-in-a-write-optimized-file-system/</link>
-      <pubDate>Thu, 18 Jul 2019 00:24:37 -0400</pubDate>
+      <pubDate>Mon, 18 Jul 2016 00:24:37 -0400</pubDate>
       
       <guid>/publication/optimizing-every-operation-in-a-write-optimized-file-system/</guid>
       <description></description>
@@ -86,7 +95,7 @@
     <item>
       <title>BetrFS: A Right-Optimized Write-Optimized File System</title>
       <link>/publication/betrfs-a-right-optimized-write-optimized-file-system/</link>
-      <pubDate>Thu, 18 Jul 2019 00:20:34 -0400</pubDate>
+      <pubDate>Sat, 18 Jul 2015 00:20:34 -0400</pubDate>
       
       <guid>/publication/betrfs-a-right-optimized-write-optimized-file-system/</guid>
       <description></description>
