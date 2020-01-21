@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>/authors/prashant-pandey/</loc>
-    <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
     <priority>0</priority>
@@ -65,6 +60,12 @@
   </url>
   
   <url>
+    <loc>/authors/prashant-pandey%5C/</loc>
+    <lastmod>2020-01-02T12:40:16-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
     <priority>0</priority>
@@ -82,7 +83,7 @@
   </url>
   
   <url>
-    <loc>/authors/shikha-singh/</loc>
+    <loc>/authors/shikha-singh%5C/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -96,6 +97,11 @@
   <url>
     <loc>/publication/timely-reporting-of-heavy-hitters-using-external-memory/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/prashant-pandey/</loc>
+    <lastmod>2019-12-02T12:50:29-08:00</lastmod>
   </url>
   
   <url>
@@ -241,6 +247,12 @@
   <url>
     <loc>/publication/locality-sensitive-hashing-for-the-edit-distance/</loc>
     <lastmod>2019-07-18T00:44:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shikha-singh/</loc>
+    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
