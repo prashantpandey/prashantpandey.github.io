@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -18,56 +18,48 @@
   </url>
   
   <url>
-    <loc>/authors/prashant-pandey/</loc>
-    <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/cynthia-a.-phillips/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jonathan-w.-berry/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/martin-farach-colton/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/michael-a.-bender/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/prashant-pandey%5C/</loc>
+    <lastmod>2020-01-02T12:40:16-08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -78,19 +70,16 @@
   <url>
     <loc>/authors/rob-johnson/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/shikha-singh/</loc>
+    <loc>/authors/shikha-singh%5C/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/thomas-m.-kroeger/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -99,15 +88,18 @@
   </url>
   
   <url>
+    <loc>/authors/prashant-pandey/</loc>
+    <lastmod>2019-12-02T12:50:29-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2019-12-02T12:50:29-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/carl-kingsford/</loc>
     <lastmod>2019-12-02T12:50:29-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -118,7 +110,6 @@
   <url>
     <loc>/authors/yinjie-gao/</loc>
     <lastmod>2019-12-02T12:50:29-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -164,43 +155,36 @@
   <url>
     <loc>/authors/alex-conway/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/donald-e.-porter/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/eric-knorr/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jun-yuan/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/michael-bender/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/nirjhar-mukherjee/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sara-mcallister/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -211,36 +195,36 @@
   <url>
     <loc>/authors/william-jannen/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/yang-zhan/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/yizheng-jiao/</loc>
     <lastmod>2019-07-18T00:46:09-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/dan-deblasio/</loc>
     <lastmod>2019-07-18T00:44:46-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/guillaume-marcais/</loc>
     <lastmod>2019-07-18T00:44:46-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/locality-sensitive-hashing-for-the-edit-distance/</loc>
     <lastmod>2019-07-18T00:44:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shikha-singh/</loc>
+    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
   </url>
   
   <url>
@@ -256,19 +240,16 @@
   <url>
     <loc>/authors/fatemeh-almodaresi/</loc>
     <lastmod>2019-07-18T00:40:20-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/michael-ferdman/</loc>
     <lastmod>2019-07-18T00:40:20-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/rob-patro/</loc>
     <lastmod>2019-07-18T00:40:20-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -279,7 +260,6 @@
   <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -290,6 +270,31 @@
   <url>
     <loc>/talk/defense/</loc>
     <lastmod>2018-10-31T02:47:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/8/</loc>
+    <lastmod>2018-10-04T23:49:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/patent2/</loc>
+    <lastmod>2018-10-04T23:49:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/krystof-c.-zmudzinski/</loc>
+    <lastmod>2018-10-04T23:49:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mona-vij/</loc>
+    <lastmod>2018-10-04T23:49:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/somnath-chakrabarti/</loc>
+    <lastmod>2018-10-04T23:49:08-07:00</lastmod>
   </url>
   
   <url>
@@ -305,36 +310,31 @@
   <url>
     <loc>/authors/dzejla-medjedovic/</loc>
     <lastmod>2018-07-18T00:38:52-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/emina-mekic/</loc>
     <lastmod>2018-07-18T00:38:52-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/mayank-goswami/</loc>
     <lastmod>2018-07-18T00:38:52-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2018-07-18T00:37:03-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</loc>
     <lastmod>2018-07-18T00:37:03-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/and-rob-patro/</loc>
     <lastmod>2018-07-18T00:37:03-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</loc>
+    <lastmod>2018-07-18T00:37:03-04:00</lastmod>
   </url>
   
   <url>
@@ -350,6 +350,11 @@
   <url>
     <loc>/talk/berkeleylab/</loc>
     <lastmod>2018-01-12T02:37:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/patent1/</loc>
+    <lastmod>2018-01-04T23:45:16-07:00</lastmod>
   </url>
   
   <url>
@@ -390,7 +395,6 @@
   <url>
     <loc>/authors/and-rob-johnson/</loc>
     <lastmod>2017-07-18T00:27:49-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -401,25 +405,26 @@
   <url>
     <loc>/authors/amogh-akshintala/</loc>
     <lastmod>2016-07-18T00:26:27-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/and-donald-e.-porter/</loc>
+    <lastmod>2016-07-18T00:26:27-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/bradley-c.-kuszmaul/</loc>
     <lastmod>2016-07-18T00:26:27-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/kanchan-chandnani/</loc>
     <lastmod>2016-07-18T00:26:27-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/pooja-deo/</loc>
     <lastmod>2016-07-18T00:26:27-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -430,13 +435,6 @@
   <url>
     <loc>/authors/zardosht-kasheff/</loc>
     <lastmod>2016-07-18T00:26:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/and-donald-e.-porter/</loc>
-    <lastmod>2016-07-18T00:26:27-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -447,13 +445,11 @@
   <url>
     <loc>/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -469,13 +465,11 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -486,7 +480,6 @@
   <url>
     <loc>/authors/ankur-mittal/</loc>
     <lastmod>2015-07-18T00:22:47-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -497,19 +490,16 @@
   <url>
     <loc>/authors/john-esmet/</loc>
     <lastmod>2015-07-18T00:22:47-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/leif-walsh/</loc>
     <lastmod>2015-07-18T00:22:47-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/phaneendra-reddy/</loc>
     <lastmod>2015-07-18T00:22:47-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -519,7 +509,6 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
