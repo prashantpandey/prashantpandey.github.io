@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>and Rob Johnson on Prashant Pandey</title>
+    <link>/authors/and-rob-johnson/</link>
+    <description>Recent content in and Rob Johnson on Prashant Pandey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jul 2017 00:27:49 -0400</lastBuildDate>
+    
+	    <atom:link href="/authors/and-rob-johnson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Fast X86 Implementation of Select</title>
+      <link>/publication/a-fast-x86-implementation-of-select/</link>
+      <pubDate>Tue, 18 Jul 2017 00:27:49 -0400</pubDate>
+      
+      <guid>/publication/a-fast-x86-implementation-of-select/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carl Kingsford on Prashant Pandey</title>
+    <link>/authors/carl-kingsford/</link>
+    <description>Recent content in Carl Kingsford on Prashant Pandey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2019 12:50:29 -0800</lastBuildDate>
+    
+	    <atom:link href="/authors/carl-kingsford/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VariantStore: A Space-Efficient and Fast Variant Search Index</title>
+      <link>/publication/variantstore-a-space-efficient-and-fast-variant-search-index/</link>
+      <pubDate>Mon, 02 Dec 2019 12:50:29 -0800</pubDate>
+      
+      <guid>/publication/variantstore-a-space-efficient-and-fast-variant-search-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality Sensitive Hashing for the Edit Distance</title>
+      <link>/publication/locality-sensitive-hashing-for-the-edit-distance/</link>
+      <pubDate>Thu, 18 Jul 2019 00:44:46 -0400</pubDate>
+      
+      <guid>/publication/locality-sensitive-hashing-for-the-edit-distance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

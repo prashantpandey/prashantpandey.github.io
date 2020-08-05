@@ -6,10 +6,28 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Oct 2019 12:29:23 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 12:44:16 -0700</lastBuildDate>
     
 	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VariantStore: A Space-Efficient and Fast Variant Search Index</title>
+      <link>/talk/ismb2020/</link>
+      <pubDate>Mon, 13 Jul 2020 12:44:16 -0700</pubDate>
+      
+      <guid>/talk/ismb2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timely Reporting of Heavy Hitters using External Memory</title>
+      <link>/talk/sigmod2020/</link>
+      <pubDate>Thu, 18 Jun 2020 12:40:09 -0700</pubDate>
+      
+      <guid>/talk/sigmod2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Timely Reporting of Heavy Hitters using External Memory</title>
