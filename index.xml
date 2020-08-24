@@ -12,56 +12,616 @@
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/example/example1/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/example/example2/</guid>
+      <description>
+
+&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VariantStore: A Space-Efficient and Fast Variant Search Index</title>
+      <link>/talk/ismb2020/</link>
       <pubDate>Mon, 13 Jul 2020 12:44:16 -0700</pubDate>
       
-      <guid>/talk/</guid>
+      <guid>/talk/ismb2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Timely Reporting of Heavy Hitters using External Memory</title>
+      <link>/talk/sigmod2020/</link>
+      <pubDate>Thu, 18 Jun 2020 12:40:09 -0700</pubDate>
+      
+      <guid>/talk/sigmod2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timely Reporting of Heavy Hitters Using External Memory</title>
+      <link>/publication/timely-reporting-of-heavy-hitters-using-external-memory/</link>
       <pubDate>Thu, 02 Jan 2020 12:40:16 -0800</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>/publication/timely-reporting-of-heavy-hitters-using-external-memory/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Media</title>
-      <link>/media/</link>
+      <title>VariantStore: A Space-Efficient and Fast Variant Search Index</title>
+      <link>/publication/variantstore-a-space-efficient-and-fast-variant-search-index/</link>
+      <pubDate>Mon, 02 Dec 2019 12:50:29 -0800</pubDate>
+      
+      <guid>/publication/variantstore-a-space-efficient-and-fast-variant-search-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timely Reporting of Heavy Hitters using External Memory</title>
+      <link>/talk/itu_umd/</link>
+      <pubDate>Sat, 12 Oct 2019 12:29:23 -0800</pubDate>
+      
+      <guid>/talk/itu_umd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Counting Quotient Filter Data Structure Featured on the Morning Paper</title>
+      <link>/media/the-counting-quotient-filter-data-structure-featured-on-the-morning-paper/</link>
       <pubDate>Thu, 18 Jul 2019 01:08:30 -0400</pubDate>
       
-      <guid>/media/</guid>
+      <guid>/media/the-counting-quotient-filter-data-structure-featured-on-the-morning-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Computational Biology Research Got Mentioned on VMware Research Blog</title>
+      <link>/media/our-computational-biology-research-got-mentioned-on-vmware-research-blog/</link>
+      <pubDate>Thu, 18 Jul 2019 01:06:55 -0400</pubDate>
+      
+      <guid>/media/our-computational-biology-research-got-mentioned-on-vmware-research-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Counting Quotient File Paper Is One of Eight ACM SIGMOD 2017 Reproducible Paper</title>
+      <link>/media/our-counting-quotient-file-paper-is-one-of-eight-acm-sigmod-2017-reproducible-paper/</link>
+      <pubDate>Thu, 18 Jul 2019 01:05:14 -0400</pubDate>
+      
+      <guid>/media/our-counting-quotient-file-paper-is-one-of-eight-acm-sigmod-2017-reproducible-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Recently Received the Catacosinos Fellowship for Excellence in Computer Science at Stony Brook University</title>
+      <link>/media/i-recently-received-the-catacosinos-fellowship-for-excellence-in-computer-science-at-stony-brook-university/</link>
+      <pubDate>Thu, 18 Jul 2019 01:03:31 -0400</pubDate>
+      
+      <guid>/media/i-recently-received-the-catacosinos-fellowship-for-excellence-in-computer-science-at-stony-brook-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding a Needle in a Field of Haystacks: Cell Systems Publishes Research on Mantis, a New Sequencing Search Tool</title>
+      <link>/media/finding-a-needle-in-a-field-of-haystacks-cell-systems-publishes-research-on-mantis-a-new-sequencing-search-tool/</link>
+      <pubDate>Thu, 18 Jul 2019 00:53:55 -0400</pubDate>
+      
+      <guid>/media/finding-a-needle-in-a-field-of-haystacks-cell-systems-publishes-research-on-mantis-a-new-sequencing-search-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design</title>
+      <link>/publication/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/</link>
+      <pubDate>Thu, 18 Jul 2019 00:46:09 -0400</pubDate>
+      
+      <guid>/publication/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality Sensitive Hashing for the Edit Distance</title>
+      <link>/publication/locality-sensitive-hashing-for-the-edit-distance/</link>
+      <pubDate>Thu, 18 Jul 2019 00:44:46 -0400</pubDate>
+      
+      <guid>/publication/locality-sensitive-hashing-for-the-edit-distance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Online Event-Detection Problem</title>
+      <link>/publication/the-online-event-detection-problem/</link>
+      <pubDate>Thu, 18 Jul 2019 00:43:58 -0400</pubDate>
+      
+      <guid>/publication/the-online-event-detection-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient, Scalable and Exact Representation of High-Dimensional Color Information Enabled via de Bruijn Graph Search Problem</title>
+      <link>/publication/an-efficient-scalable-and-exact-representation-of-high-dimensional-color-information-enabled-via-de-bruijn-graph-search-problem/</link>
+      <pubDate>Thu, 18 Jul 2019 00:40:20 -0400</pubDate>
+      
+      <guid>/publication/an-efficient-scalable-and-exact-representation-of-high-dimensional-color-information-enabled-via-de-bruijn-graph-search-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design</title>
+      <link>/talk/spaa/</link>
+      <pubDate>Mon, 24 Jun 2019 02:48:29 -0400</pubDate>
+      
+      <guid>/talk/spaa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/slides/</guid>
+      <guid>/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast and Space-Efficient Maps: Shrinking Big Data Down to Size</title>
+      <link>/talk/defense/</link>
+      <pubDate>Wed, 31 Oct 2018 02:47:26 -0400</pubDate>
+      
+      <guid>/talk/defense/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Instructions that Facilitate the Implementation of the Fork System Call in Processes using Software Guard Extensions </title>
+      <link>/publication/patent2/</link>
+      <pubDate>Thu, 04 Oct 2018 23:49:08 -0700</pubDate>
+      
+      <guid>/publication/patent2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buffered Count-Min Sketch on SSD: Theory and Experiments</title>
+      <link>/talk/esa/</link>
+      <pubDate>Wed, 22 Aug 2018 02:46:16 -0400</pubDate>
+      
+      <guid>/talk/esa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buffered Count-Min Sketch on SSD: Theory and Experiments</title>
+      <link>/publication/buffered-count-min-sketch-on-ssd-theory-and-experiments/</link>
+      <pubDate>Wed, 18 Jul 2018 00:38:52 -0400</pubDate>
+      
+      <guid>/publication/buffered-count-min-sketch-on-ssd-theory-and-experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index</title>
+      <link>/publication/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</link>
+      <pubDate>Wed, 18 Jul 2018 00:37:03 -0400</pubDate>
+      
+      <guid>/publication/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index</title>
+      <link>/talk/recomb/</link>
+      <pubDate>Sun, 22 Apr 2018 02:44:45 -0400</pubDate>
+      
+      <guid>/talk/recomb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Problems in Write-Optimized Key-Value Stores</title>
+      <link>/talk/ausois/</link>
+      <pubDate>Fri, 06 Apr 2018 12:36:40 -0800</pubDate>
+      
+      <guid>/talk/ausois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact Representation of Annotated de Bruijn Graph</title>
+      <link>/talk/berkeleylab/</link>
+      <pubDate>Fri, 12 Jan 2018 02:37:09 -0400</pubDate>
+      
+      <guid>/talk/berkeleylab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and Method For Implementing a Forked System Call in a System with a Protected Region</title>
+      <link>/publication/patent1/</link>
+      <pubDate>Thu, 04 Jan 2018 23:45:16 -0700</pubDate>
+      
+      <guid>/publication/patent1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
+      <link>/talk/googlevmware/</link>
+      <pubDate>Tue, 26 Sep 2017 02:34:59 -0400</pubDate>
+      
+      <guid>/talk/googlevmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
+      <link>/talk/ismb2017/</link>
+      <pubDate>Tue, 25 Jul 2017 02:32:45 -0400</pubDate>
+      
+      <guid>/talk/ismb2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rainbowfish: A Succinct Colored de Bruijn Graph Representation</title>
+      <link>/publication/rainbowfish-a-succinct-colored-de-bruijn-graph-representation/</link>
+      <pubDate>Tue, 18 Jul 2017 00:34:22 -0400</pubDate>
+      
+      <guid>/publication/rainbowfish-a-succinct-colored-de-bruijn-graph-representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
+      <link>/publication/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</link>
+      <pubDate>Tue, 18 Jul 2017 00:32:54 -0400</pubDate>
+      
+      <guid>/publication/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squeakr: An Exact and Approximate K-Mer Counting System</title>
+      <link>/publication/squeakr-an-exact-and-approximate-k-mer-counting-system/</link>
+      <pubDate>Tue, 18 Jul 2017 00:31:15 -0400</pubDate>
+      
+      <guid>/publication/squeakr-an-exact-and-approximate-k-mer-counting-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-Purpose Counting Filter: Making Every Bit Count</title>
+      <link>/publication/a-general-purpose-counting-filter-making-every-bit-count/</link>
+      <pubDate>Tue, 18 Jul 2017 00:29:40 -0400</pubDate>
+      
+      <guid>/publication/a-general-purpose-counting-filter-making-every-bit-count/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast X86 Implementation of Select</title>
+      <link>/publication/a-fast-x86-implementation-of-select/</link>
+      <pubDate>Tue, 18 Jul 2017 00:27:49 -0400</pubDate>
+      
+      <guid>/publication/a-fast-x86-implementation-of-select/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-Purpose Counting Filter: Making Every Bit Count</title>
+      <link>/talk/sigmod2017/</link>
+      <pubDate>Tue, 16 May 2017 02:29:48 -0400</pubDate>
+      
+      <guid>/talk/sigmod2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writes Wrought Right, and Other Adventures in File System Optimization</title>
+      <link>/publication/writes-wrought-right-and-other-adventures-in-file-system-optimization/</link>
+      <pubDate>Mon, 18 Jul 2016 00:26:27 -0400</pubDate>
+      
+      <guid>/publication/writes-wrought-right-and-other-adventures-in-file-system-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Every Operation in a Write-Optimized File System</title>
+      <link>/publication/optimizing-every-operation-in-a-write-optimized-file-system/</link>
+      <pubDate>Mon, 18 Jul 2016 00:24:37 -0400</pubDate>
+      
+      <guid>/publication/optimizing-every-operation-in-a-write-optimized-file-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Courses</title>
-      <link>/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/courses/</guid>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intel Software Guard Extensions (SGX)</title>
+      <link>/talk/intel-software-guard-extensions-sgx/</link>
+      <pubDate>Tue, 25 Aug 2015 02:25:10 -0400</pubDate>
+      
+      <guid>/talk/intel-software-guard-extensions-sgx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BetrFS: Write-Optimization in a Kernel File System</title>
+      <link>/publication/betrfs-write-optimization-in-a-kernel-file-system/</link>
+      <pubDate>Sat, 18 Jul 2015 00:22:47 -0400</pubDate>
+      
+      <guid>/publication/betrfs-write-optimization-in-a-kernel-file-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BetrFS: A Right-Optimized Write-Optimized File System</title>
+      <link>/publication/betrfs-a-right-optimized-write-optimized-file-system/</link>
+      <pubDate>Sat, 18 Jul 2015 00:20:34 -0400</pubDate>
+      
+      <guid>/publication/betrfs-a-right-optimized-write-optimized-file-system/</guid>
       <description></description>
     </item>
     
