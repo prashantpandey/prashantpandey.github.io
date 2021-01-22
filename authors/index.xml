@@ -17,8 +17,12 @@
       <pubDate>Wed, 20 Jan 2021 22:25:54 -0800</pubDate>
       
       <guid>/authors/prashant-pandey/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;!--My current research focuses on building efficient filter data structures for
+approximate membership testing and counting. I also work on building
+write-optimized data structures for online event-detection problem in streaming
+data sets. I am also a member of the team that developed
+[BetrFS](http://www.betrfs.org/), an in-kernel file system built on
+write-optimized indexes.--&gt;
 &lt;p&gt;I am a postdoctoral research fellow in the Computer Science Department at
 &lt;a href=&#34;https://crd.lbl.gov/departments/computer-science/PAR/&#34;&gt;Berkeley Lab&lt;/a&gt; working
 with &lt;a href=&#34;https://people.eecs.berkeley.edu/~aydin/&#34;&gt;Prof.  Aydin Buluc&lt;/a&gt; and &lt;a href=&#34;https://people.eecs.berkeley.edu/~yelick/&#34;&gt;Prof.
@@ -38,11 +42,11 @@ Johnson&lt;/a&gt;. (Dissertation committee: &lt;a href=&#34;https://compas.cs.st
 Ferdman&lt;/a&gt;, &lt;a href=&#34;http://www.robpatro.com/redesign/&#34;&gt;Rob
 Patro&lt;/a&gt;, &lt;a href=&#34;http://www.cs.cmu.edu/~guyb/&#34;&gt;Guy
 Blelloch&lt;/a&gt;.)&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt; I am currently applying for faculty
+&lt;p&gt;&lt;span style=&#34;background-color: #E76E4D&#34;&gt; I am currently applying for faculty
 positions. I am interested in positions both in the US and abroad.
 &lt;a href=&#34;files/JobMaterialCombined.pdf&#34;&gt;Here&lt;/a&gt; is my material. Please reach out to me if
 you think I would be a good addition to your department or research group!
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;I love outdoors and occasionally like to scribble my experience in a
 &lt;a href=&#34;https://hikingscribbles.wordpress.com/&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
 </description>
