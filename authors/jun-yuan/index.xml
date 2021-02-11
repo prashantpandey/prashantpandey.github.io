@@ -6,10 +6,19 @@
     <description>Recent content in Jun Yuan on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2019 00:46:09 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 21:04:44 -0800</lastBuildDate>
     
 	    <atom:link href="/authors/jun-yuan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>External-Memory Dictionaries in the Affine and PDAM Models</title>
+      <link>/publication/topc/</link>
+      <pubDate>Wed, 10 Feb 2021 21:04:44 -0800</pubDate>
+      
+      <guid>/publication/topc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design</title>

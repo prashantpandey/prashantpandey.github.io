@@ -6,10 +6,28 @@
     <description>Recent content on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2021 22:25:54 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 21:04:51 -0800</lastBuildDate>
     
 	    <atom:link href="/authors/prashant-pandey/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Incrementally Updatable and Scalable System for Large-Scale Sequence Search using LSM Trees</title>
+      <link>/publication/lsm-mantis/</link>
+      <pubDate>Wed, 10 Feb 2021 21:04:51 -0800</pubDate>
+      
+      <guid>/publication/lsm-mantis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External-Memory Dictionaries in the Affine and PDAM Models</title>
+      <link>/publication/topc/</link>
+      <pubDate>Wed, 10 Feb 2021 21:04:44 -0800</pubDate>
+      
+      <guid>/publication/topc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distributed-Memory k-mer Counting on GPUs</title>
@@ -32,7 +50,7 @@
     <item>
       <title>VariantStore: A Space-Efficient and Fast Variant Search Index</title>
       <link>/publication/variantstore-a-space-efficient-and-fast-variant-search-index/</link>
-      <pubDate>Mon, 02 Dec 2019 12:50:29 -0800</pubDate>
+      <pubDate>Thu, 02 Jan 2020 12:50:29 -0800</pubDate>
       
       <guid>/publication/variantstore-a-space-efficient-and-fast-variant-search-index/</guid>
       <description></description>

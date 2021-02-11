@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Data Science at Scale: Scaling Up by Scaling Down and Out (to Disk)</title>
+      <link>/talk/iisc/</link>
+      <pubDate>Mon, 11 Jan 2021 21:16:17 -0800</pubDate>
+      
+      <guid>/talk/iisc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>VariantStore: A Space-Efficient and Fast Variant Search Index</title>
       <link>/talk/ismb2020/</link>
       <pubDate>Mon, 13 Jul 2020 12:44:16 -0700</pubDate>
