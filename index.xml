@@ -6,7 +6,7 @@
     <description>Recent content on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 21:04:51 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 21:30:54 -0800</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Publications</title>
       <link>/publication/</link>
-      <pubDate>Wed, 10 Feb 2021 21:04:51 -0800</pubDate>
+      <pubDate>Thu, 11 Mar 2021 21:30:54 -0800</pubDate>
       
       <guid>/publication/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
-      <pubDate>Thu, 21 Jan 2021 09:00:00 -0800</pubDate>
+      <pubDate>Tue, 02 Mar 2021 21:35:38 -0800</pubDate>
       
       <guid>/talk/</guid>
       <description></description>
@@ -35,6 +35,15 @@
       <pubDate>Thu, 18 Jul 2019 01:08:30 -0400</pubDate>
       
       <guid>/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/</guid>
       <description></description>
     </item>
     
@@ -53,15 +62,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/courses/</guid>
       <description></description>
     </item>
     

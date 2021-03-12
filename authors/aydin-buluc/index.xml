@@ -6,10 +6,19 @@
     <description>Recent content in Aydin Buluc on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2021 22:25:54 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 21:30:54 -0800</lastBuildDate>
     
 	    <atom:link href="/authors/aydin-buluc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Terrace:  A Hierarchical Graph Container for Skewed Dynamic Graphs</title>
+      <link>/publication/terrace/</link>
+      <pubDate>Thu, 11 Mar 2021 21:30:54 -0800</pubDate>
+      
+      <guid>/publication/terrace/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distributed-Memory k-mer Counting on GPUs</title>

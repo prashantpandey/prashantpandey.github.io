@@ -6,15 +6,33 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2021 09:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 21:35:38 -0800</lastBuildDate>
     
 	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Data Systems at Scale: Scaling Up by Scaling Down and Out</title>
+      <link>/talk/vrg/</link>
+      <pubDate>Tue, 02 Mar 2021 21:35:38 -0800</pubDate>
+      
+      <guid>/talk/vrg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Systems at Scale: Scaling Up by Scaling Down and Out</title>
+      <link>/talk/ua/</link>
+      <pubDate>Tue, 23 Feb 2021 21:35:33 -0800</pubDate>
+      
+      <guid>/talk/ua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Methods for Indexing and Searching Large-Scale Genomic Data</title>
       <link>/talk/northeastern/</link>
-      <pubDate>Thu, 21 Jan 2021 09:00:00 -0800</pubDate>
+      <pubDate>Thu, 21 Jan 2021 21:43:11 -0800</pubDate>
       
       <guid>/talk/northeastern/</guid>
       <description></description>
