@@ -18,6 +18,26 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2021-06-21T21:16:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2021-06-21T21:16:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/terrace/</loc>
+    <lastmod>2021-06-21T21:16:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/vqf/</loc>
+    <lastmod>2021-06-20T21:16:17-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/prashant-pandey/</loc>
     <lastmod>2021-03-11T21:30:54-08:00</lastmod>
   </url>
@@ -48,11 +68,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-03-11T21:30:54-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/</loc>
     <lastmod>2021-03-11T21:30:54-08:00</lastmod>
   </url>
@@ -65,6 +80,16 @@
   <url>
     <loc>/publication/terrace/</loc>
     <lastmod>2021-03-11T21:30:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/jobtalk/</loc>
+    <lastmod>2021-02-22T21:16:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/metagnn/</loc>
+    <lastmod>2021-02-11T21:16:17-08:00</lastmod>
   </url>
   
   <url>
@@ -208,11 +233,6 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-07-13T12:44:16-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/ismb2020/</loc>
     <lastmod>2020-07-13T12:44:16-07:00</lastmod>
   </url>
@@ -345,6 +365,11 @@
   <url>
     <loc>/talk/spaa/</loc>
     <lastmod>2019-06-24T02:48:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -594,10 +619,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
   </url>
   
 </urlset>

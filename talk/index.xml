@@ -6,10 +6,46 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 12:44:16 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 21:16:17 -0800</lastBuildDate>
     
 	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Terrace: A Hierarchical Graph Container for Skewed Dynamic Graphs</title>
+      <link>/talk/terrace/</link>
+      <pubDate>Mon, 21 Jun 2021 21:16:17 -0800</pubDate>
+      
+      <guid>/talk/terrace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector Quotient Filters: Overcoming the Time/Space Trade-Off in Filter Design</title>
+      <link>/talk/vqf/</link>
+      <pubDate>Sun, 20 Jun 2021 21:16:17 -0800</pubDate>
+      
+      <guid>/talk/vqf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Systems at Scale: Scaling Up by Scaling Down and Out</title>
+      <link>/talk/jobtalk/</link>
+      <pubDate>Mon, 22 Feb 2021 21:16:17 -0800</pubDate>
+      
+      <guid>/talk/jobtalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Graph Neural Networks to Metagenomics</title>
+      <link>/talk/metagnn/</link>
+      <pubDate>Thu, 11 Feb 2021 21:16:17 -0800</pubDate>
+      
+      <guid>/talk/metagnn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VariantStore: A Space-Efficient and Fast Variant Search Index</title>
