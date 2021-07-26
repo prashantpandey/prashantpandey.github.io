@@ -6,10 +6,19 @@
     <description>Recent content on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Mar 2021 21:30:54 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 18:34:13 -0700</lastBuildDate>
     
 	    <atom:link href="/authors/prashant-pandey/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VariantStore: an index for large-scale genomic variant search</title>
+      <link>/publication/variantstore/</link>
+      <pubDate>Sun, 25 Jul 2021 18:34:13 -0700</pubDate>
+      
+      <guid>/publication/variantstore/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Terrace:  A Hierarchical Graph Container for Skewed Dynamic Graphs</title>

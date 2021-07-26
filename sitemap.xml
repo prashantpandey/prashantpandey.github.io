@@ -18,8 +18,48 @@
   </url>
   
   <url>
+    <loc>/authors/prashant-pandey/</loc>
+    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/carl-kingsford/</loc>
+    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2021-06-21T21:16:17-08:00</lastmod>
+    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/variantstore/</loc>
+    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yinjie-gao/</loc>
+    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
   </url>
   
   <url>
@@ -38,17 +78,7 @@
   </url>
   
   <url>
-    <loc>/authors/prashant-pandey/</loc>
-    <lastmod>2021-03-11T21:30:54-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2021-03-11T21:30:54-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2021-03-11T21:30:54-08:00</lastmod>
   </url>
   
@@ -64,16 +94,6 @@
   
   <url>
     <loc>/authors/helen-xu/</loc>
-    <lastmod>2021-03-11T21:30:54-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-03-11T21:30:54-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2021-03-11T21:30:54-08:00</lastmod>
   </url>
   
@@ -130,11 +150,6 @@
   <url>
     <loc>/authors/sergey-madaminov/</loc>
     <lastmod>2021-02-10T21:04:51-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2021-02-10T21:04:44-08:00</lastmod>
   </url>
   
   <url>
@@ -243,17 +258,7 @@
   </url>
   
   <url>
-    <loc>/authors/carl-kingsford/</loc>
-    <lastmod>2020-01-02T12:50:29-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/variantstore-a-space-efficient-and-fast-variant-search-index/</loc>
-    <lastmod>2020-01-02T12:50:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yinjie-gao/</loc>
     <lastmod>2020-01-02T12:50:29-08:00</lastmod>
   </url>
   
@@ -365,11 +370,6 @@
   <url>
     <loc>/talk/spaa/</loc>
     <lastmod>2019-06-24T02:48:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -619,6 +619,10 @@
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
   </url>
   
 </urlset>
