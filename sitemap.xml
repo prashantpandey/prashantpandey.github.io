@@ -258,11 +258,6 @@
   </url>
   
   <url>
-    <loc>/publication/variantstore-a-space-efficient-and-fast-variant-search-index/</loc>
-    <lastmod>2020-01-02T12:50:29-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/cynthia-a.-phillips/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
   </url>
@@ -279,6 +274,11 @@
   
   <url>
     <loc>/authors/prashant-pandey%5C/</loc>
+    <lastmod>2020-01-02T12:40:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shikha-singh/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
   </url>
   
@@ -353,11 +353,6 @@
   </url>
   
   <url>
-    <loc>/authors/shikha-singh/</loc>
-    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/the-online-event-detection-problem/</loc>
     <lastmod>2019-07-18T00:43:58-04:00</lastmod>
   </url>
@@ -370,6 +365,11 @@
   <url>
     <loc>/talk/spaa/</loc>
     <lastmod>2019-06-24T02:48:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -619,10 +619,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
   </url>
   
 </urlset>
