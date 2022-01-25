@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shikha Singh on Prashant Pandey</title>
-    <link>/authors/shikha-singh/</link>
-    <description>Recent content in Shikha Singh on Prashant Pandey</description>
+    <title>Eric D. Thomas &amp; Thomas M. Kroeger on Prashant Pandey</title>
+    <link>/authors/eric-d.-thomas-thomas-m.-kroeger/</link>
+    <description>Recent content in Eric D. Thomas &amp; Thomas M. Kroeger on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jan 2022 10:09:25 -0800</lastBuildDate>
     
-	    <atom:link href="/authors/shikha-singh/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/eric-d.-thomas-thomas-m.-kroeger/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Tue, 25 Jan 2022 10:09:25 -0800</pubDate>
       
       <guid>/publication/cluster-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Online Event-Detection Problem</title>
-      <link>/publication/the-online-event-detection-problem/</link>
-      <pubDate>Thu, 18 Jul 2019 00:43:58 -0400</pubDate>
-      
-      <guid>/publication/the-online-event-detection-problem/</guid>
       <description></description>
     </item>
     

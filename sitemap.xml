@@ -19,36 +19,111 @@
   
   <url>
     <loc>/authors/prashant-pandey/</loc>
-    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/carl-kingsford/</loc>
-    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+    <loc>/authors/cynthia-a.-phillips/</loc>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-r.-delayo/</loc>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/eric-d.-thomas-thomas-m.-kroeger/</loc>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/janet-vorobyeva/</loc>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-farach-colton/</loc>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-a.-bender/</loc>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2021-07-25T18:34:13-07:00</lastmod>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shikha-singh/</loc>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cluster-computing/</loc>
+    <lastmod>2022-01-25T10:09:25-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lsm-mantis/</loc>
+    <lastmod>2022-01-10T21:04:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/fatemeh-almodaresi/</loc>
+    <lastmod>2022-01-10T21:04:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jamshed-khan/</loc>
+    <lastmod>2022-01-10T21:04:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-ferdman/</loc>
+    <lastmod>2022-01-10T21:04:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rob-johnson/</loc>
+    <lastmod>2022-01-10T21:04:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rob-patro/</loc>
+    <lastmod>2022-01-10T21:04:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sergey-madaminov/</loc>
+    <lastmod>2022-01-10T21:04:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/carl-kingsford/</loc>
     <lastmod>2021-07-25T18:34:13-07:00</lastmod>
   </url>
   
@@ -113,46 +188,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2021-02-10T21:04:51-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/lsm-mantis/</loc>
-    <lastmod>2021-02-10T21:04:51-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/fatemeh-almodaresi/</loc>
-    <lastmod>2021-02-10T21:04:51-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jamshed-khan/</loc>
-    <lastmod>2021-02-10T21:04:51-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/michael-ferdman/</loc>
-    <lastmod>2021-02-10T21:04:51-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rob-johnson/</loc>
-    <lastmod>2021-02-10T21:04:51-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rob-patro/</loc>
-    <lastmod>2021-02-10T21:04:51-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sergey-madaminov/</loc>
-    <lastmod>2021-02-10T21:04:51-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/alex-conway/</loc>
     <lastmod>2021-02-10T21:04:44-08:00</lastmod>
   </url>
@@ -174,11 +209,6 @@
   
   <url>
     <loc>/authors/jun-yuan/</loc>
-    <lastmod>2021-02-10T21:04:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/martin-farach-colton/</loc>
     <lastmod>2021-02-10T21:04:44-08:00</lastmod>
   </url>
   
@@ -258,27 +288,12 @@
   </url>
   
   <url>
-    <loc>/authors/cynthia-a.-phillips/</loc>
-    <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/jonathan-w.-berry/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/michael-a.-bender/</loc>
-    <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/prashant-pandey%5C/</loc>
-    <lastmod>2020-01-02T12:40:16-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/shikha-singh/</loc>
     <lastmod>2020-01-02T12:40:16-08:00</lastmod>
   </url>
   
@@ -350,6 +365,11 @@
   <url>
     <loc>/publication/locality-sensitive-hashing-for-the-edit-distance/</loc>
     <lastmod>2019-07-18T00:44:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-07-18T00:43:58-04:00</lastmod>
   </url>
   
   <url>

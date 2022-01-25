@@ -6,10 +6,19 @@
     <description>Recent content in Michael A. Bender on Prashant Pandey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jan 2020 12:40:16 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jan 2022 10:09:25 -0800</lastBuildDate>
     
 	    <atom:link href="/authors/michael-a.-bender/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Advanced Data Structures to Enable Responsive Security Monitoring</title>
+      <link>/publication/cluster-computing/</link>
+      <pubDate>Tue, 25 Jan 2022 10:09:25 -0800</pubDate>
+      
+      <guid>/publication/cluster-computing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Timely Reporting of Heavy Hitters Using External Memory</title>
