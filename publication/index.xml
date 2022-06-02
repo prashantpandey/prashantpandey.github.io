@@ -1,238 +1,214 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Prashant Pandey</title>
+    <title>Publications | Prashant Pandey</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Prashant Pandey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 10:09:25 -0800</lastBuildDate>
-    
-	    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 10:09:25 -0800</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
     
     <item>
       <title>Using Advanced Data Structures to Enable Responsive Security Monitoring</title>
-      <link>/publication/cluster-computing/</link>
+      <link>/publication/cc22/</link>
       <pubDate>Tue, 25 Jan 2022 10:09:25 -0800</pubDate>
-      
-      <guid>/publication/cluster-computing/</guid>
+      <guid>/publication/cc22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Incrementally Updatable and Scalable System for Large-Scale Sequence Search using the Bentley-Saxe Transformation</title>
-      <link>/publication/lsm-mantis/</link>
+      <link>/publication/bioinfo22/</link>
       <pubDate>Mon, 10 Jan 2022 21:04:51 -0800</pubDate>
-      
-      <guid>/publication/lsm-mantis/</guid>
+      <guid>/publication/bioinfo22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VariantStore: an index for large-scale genomic variant search</title>
-      <link>/publication/variantstore/</link>
+      <link>/publication/gb21/</link>
       <pubDate>Sun, 25 Jul 2021 18:34:13 -0700</pubDate>
-      
-      <guid>/publication/variantstore/</guid>
+      <guid>/publication/gb21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terrace:  A Hierarchical Graph Container for Skewed Dynamic Graphs</title>
-      <link>/publication/terrace/</link>
+      <link>/publication/sigmod21_terrace/</link>
       <pubDate>Thu, 11 Mar 2021 21:30:54 -0800</pubDate>
-      
-      <guid>/publication/terrace/</guid>
+      <guid>/publication/sigmod21_terrace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External-Memory Dictionaries in the Affine and PDAM Models</title>
-      <link>/publication/topc/</link>
+      <link>/publication/topc21/</link>
       <pubDate>Wed, 10 Feb 2021 21:04:44 -0800</pubDate>
-      
-      <guid>/publication/topc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed-Memory k-mer Counting on GPUs</title>
-      <link>/publication/kmer-gpu/</link>
-      <pubDate>Wed, 20 Jan 2021 22:25:54 -0800</pubDate>
-      
-      <guid>/publication/kmer-gpu/</guid>
+      <guid>/publication/topc21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vector Quotient Filters:  Overcoming the Time/Space Trade-Off in Filter Design</title>
-      <link>/publication/vector-quotient-filter/</link>
+      <link>/publication/sigmod21_vqf/</link>
       <pubDate>Wed, 20 Jan 2021 22:23:01 -0800</pubDate>
-      
-      <guid>/publication/vector-quotient-filter/</guid>
+      <guid>/publication/sigmod21_vqf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed-Memory k-mer Counting on GPUs</title>
+      <link>/publication/ipdps22/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ipdps22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timely Reporting of Heavy Hitters Using External Memory</title>
-      <link>/publication/timely-reporting-of-heavy-hitters-using-external-memory/</link>
+      <link>/publication/sigmod20/</link>
       <pubDate>Thu, 02 Jan 2020 12:40:16 -0800</pubDate>
-      
-      <guid>/publication/timely-reporting-of-heavy-hitters-using-external-memory/</guid>
+      <guid>/publication/sigmod20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design</title>
-      <link>/publication/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/</link>
+      <link>/publication/spaa19/</link>
       <pubDate>Thu, 18 Jul 2019 00:46:09 -0400</pubDate>
-      
-      <guid>/publication/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/</guid>
+      <guid>/publication/spaa19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Locality Sensitive Hashing for the Edit Distance</title>
-      <link>/publication/locality-sensitive-hashing-for-the-edit-distance/</link>
+      <link>/publication/ismb19/</link>
       <pubDate>Thu, 18 Jul 2019 00:44:46 -0400</pubDate>
-      
-      <guid>/publication/locality-sensitive-hashing-for-the-edit-distance/</guid>
+      <guid>/publication/ismb19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Online Event-Detection Problem</title>
-      <link>/publication/the-online-event-detection-problem/</link>
+      <link>/publication/arxiv19/</link>
       <pubDate>Thu, 18 Jul 2019 00:43:58 -0400</pubDate>
-      
-      <guid>/publication/the-online-event-detection-problem/</guid>
+      <guid>/publication/arxiv19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Efficient, Scalable and Exact Representation of High-Dimensional Color Information Enabled via de Bruijn Graph Search Problem</title>
-      <link>/publication/an-efficient-scalable-and-exact-representation-of-high-dimensional-color-information-enabled-via-de-bruijn-graph-search-problem/</link>
+      <link>/publication/recomb19/</link>
       <pubDate>Thu, 18 Jul 2019 00:40:20 -0400</pubDate>
-      
-      <guid>/publication/an-efficient-scalable-and-exact-representation-of-high-dimensional-color-information-enabled-via-de-bruijn-graph-search-problem/</guid>
+      <guid>/publication/recomb19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instructions that Facilitate the Implementation of the Fork System Call in Processes using Software Guard Extensions </title>
-      <link>/publication/patent2/</link>
+      <link>/publication/patent18_1/</link>
       <pubDate>Thu, 04 Oct 2018 23:49:08 -0700</pubDate>
-      
-      <guid>/publication/patent2/</guid>
+      <guid>/publication/patent18_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buffered Count-Min Sketch on SSD: Theory and Experiments</title>
-      <link>/publication/buffered-count-min-sketch-on-ssd-theory-and-experiments/</link>
+      <link>/publication/esa18/</link>
       <pubDate>Wed, 18 Jul 2018 00:38:52 -0400</pubDate>
-      
-      <guid>/publication/buffered-count-min-sketch-on-ssd-theory-and-experiments/</guid>
+      <guid>/publication/esa18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index</title>
-      <link>/publication/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</link>
+      <link>/publication/recomb18/</link>
       <pubDate>Wed, 18 Jul 2018 00:37:03 -0400</pubDate>
-      
-      <guid>/publication/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</guid>
+      <guid>/publication/recomb18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apparatus and Method For Implementing a Forked System Call in a System with a Protected Region</title>
-      <link>/publication/patent1/</link>
+      <link>/publication/patent18/</link>
       <pubDate>Thu, 04 Jan 2018 23:45:16 -0700</pubDate>
-      
-      <guid>/publication/patent1/</guid>
+      <guid>/publication/patent18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rainbowfish: A Succinct Colored de Bruijn Graph Representation</title>
-      <link>/publication/rainbowfish-a-succinct-colored-de-bruijn-graph-representation/</link>
+      <link>/publication/wabi17/</link>
       <pubDate>Tue, 18 Jul 2017 00:34:22 -0400</pubDate>
-      
-      <guid>/publication/rainbowfish-a-succinct-colored-de-bruijn-graph-representation/</guid>
+      <guid>/publication/wabi17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
-      <link>/publication/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</link>
+      <link>/publication/ismb17/</link>
       <pubDate>Tue, 18 Jul 2017 00:32:54 -0400</pubDate>
-      
-      <guid>/publication/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</guid>
+      <guid>/publication/ismb17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Squeakr: An Exact and Approximate K-Mer Counting System</title>
-      <link>/publication/squeakr-an-exact-and-approximate-k-mer-counting-system/</link>
+      <link>/publication/bioinfo17/</link>
       <pubDate>Tue, 18 Jul 2017 00:31:15 -0400</pubDate>
-      
-      <guid>/publication/squeakr-an-exact-and-approximate-k-mer-counting-system/</guid>
+      <guid>/publication/bioinfo17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A General-Purpose Counting Filter: Making Every Bit Count</title>
-      <link>/publication/a-general-purpose-counting-filter-making-every-bit-count/</link>
+      <link>/publication/sigmod17/</link>
       <pubDate>Tue, 18 Jul 2017 00:29:40 -0400</pubDate>
-      
-      <guid>/publication/a-general-purpose-counting-filter-making-every-bit-count/</guid>
+      <guid>/publication/sigmod17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Fast X86 Implementation of Select</title>
-      <link>/publication/a-fast-x86-implementation-of-select/</link>
+      <link>/publication/arxiv17/</link>
       <pubDate>Tue, 18 Jul 2017 00:27:49 -0400</pubDate>
-      
-      <guid>/publication/a-fast-x86-implementation-of-select/</guid>
+      <guid>/publication/arxiv17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writes Wrought Right, and Other Adventures in File System Optimization</title>
-      <link>/publication/writes-wrought-right-and-other-adventures-in-file-system-optimization/</link>
+      <link>/publication/tos16/</link>
       <pubDate>Mon, 18 Jul 2016 00:26:27 -0400</pubDate>
-      
-      <guid>/publication/writes-wrought-right-and-other-adventures-in-file-system-optimization/</guid>
+      <guid>/publication/tos16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Every Operation in a Write-Optimized File System</title>
-      <link>/publication/optimizing-every-operation-in-a-write-optimized-file-system/</link>
+      <link>/publication/fast16/</link>
       <pubDate>Mon, 18 Jul 2016 00:24:37 -0400</pubDate>
-      
-      <guid>/publication/optimizing-every-operation-in-a-write-optimized-file-system/</guid>
+      <guid>/publication/fast16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BetrFS: Write-Optimization in a Kernel File System</title>
-      <link>/publication/betrfs-write-optimization-in-a-kernel-file-system/</link>
-      <pubDate>Sat, 18 Jul 2015 00:22:47 -0400</pubDate>
-      
-      <guid>/publication/betrfs-write-optimization-in-a-kernel-file-system/</guid>
+      <link>/publication/tos15/</link>
+      <pubDate>Wed, 01 Jul 2015 22:29:09 -0700</pubDate>
+      <guid>/publication/tos15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BetrFS: A Right-Optimized Write-Optimized File System</title>
-      <link>/publication/betrfs-a-right-optimized-write-optimized-file-system/</link>
-      <pubDate>Sat, 18 Jul 2015 00:20:34 -0400</pubDate>
-      
-      <guid>/publication/betrfs-a-right-optimized-write-optimized-file-system/</guid>
+      <link>/publication/fast15/</link>
+      <pubDate>Sun, 01 Mar 2015 22:23:13 -0700</pubDate>
+      <guid>/publication/fast15/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Prashant Pandey</title>
+    <link>/event/</link>
+      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2022 00:29:04 -0700</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/event/</link>
+    </image>
+    
+    <item>
+      <title>Data Systems at Scale: Scaling Up by Scaling Down and Out</title>
+      <link>/talk/data-systems-at-scale-scaling-up-by-scaling-down-and-out/</link>
+      <pubDate>Wed, 02 Mar 2022 00:29:04 -0700</pubDate>
+      <guid>/talk/data-systems-at-scale-scaling-up-by-scaling-down-and-out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time to Change Your Filter</title>
+      <link>/talk/time-to-change-your-filter/</link>
+      <pubDate>Fri, 11 Feb 2022 13:00:00 +0000</pubDate>
+      <guid>/talk/time-to-change-your-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector Quotient Filters: Overcoming the Time/Space Trade-Off in Filter Design</title>
+      <link>/talk/vector-quotient-filters-overcoming-the-time/space-trade-off-in-filter-design/</link>
+      <pubDate>Wed, 02 Jun 2021 00:19:44 -0700</pubDate>
+      <guid>/talk/vector-quotient-filters-overcoming-the-time/space-trade-off-in-filter-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Systems at Scale: Scaling Up by Scaling Down and Out</title>
+      <link>/talk/data-systems-at-scale-scaling-up-by-scaling-down-and-out/</link>
+      <pubDate>Mon, 22 Feb 2021 21:16:17 -0800</pubDate>
+      <guid>/talk/data-systems-at-scale-scaling-up-by-scaling-down-and-out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Graph Neural Networks to Metagenomics</title>
+      <link>/talk/applying-graph-neural-networks-to-metagenomics/</link>
+      <pubDate>Thu, 11 Feb 2021 21:16:17 -0800</pubDate>
+      <guid>/talk/applying-graph-neural-networks-to-metagenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VariantStore: A Space-Efficient and Fast Variant Search Index</title>
+      <link>/talk/variantstore-a-space-efficient-and-fast-variant-search-index/</link>
+      <pubDate>Mon, 13 Jul 2020 12:44:16 -0700</pubDate>
+      <guid>/talk/variantstore-a-space-efficient-and-fast-variant-search-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timely Reporting of Heavy Hitters using External Memory</title>
+      <link>/talk/timely-reporting-of-heavy-hitters-using-external-memory/</link>
+      <pubDate>Thu, 18 Jun 2020 12:40:09 -0700</pubDate>
+      <guid>/talk/timely-reporting-of-heavy-hitters-using-external-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timely Reporting of Heavy Hitters using External Memory</title>
+      <link>/talk/timely-reporting-of-heavy-hitters-using-external-memory/</link>
+      <pubDate>Sat, 12 Oct 2019 12:29:23 -0800</pubDate>
+      <guid>/talk/timely-reporting-of-heavy-hitters-using-external-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design</title>
+      <link>/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/</link>
+      <pubDate>Mon, 24 Jun 2019 02:48:29 -0400</pubDate>
+      <guid>/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Space-Efficient Maps: Shrinking Big Data Down to Size</title>
+      <link>/talk/fast-and-space-efficient-maps-shrinking-big-data-down-to-size/</link>
+      <pubDate>Wed, 31 Oct 2018 02:47:26 -0400</pubDate>
+      <guid>/talk/fast-and-space-efficient-maps-shrinking-big-data-down-to-size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buffered Count-Min Sketch on SSD: Theory and Experiments</title>
+      <link>/talk/buffered-count-min-sketch-on-ssd-theory-and-experiments/</link>
+      <pubDate>Wed, 22 Aug 2018 02:46:16 -0400</pubDate>
+      <guid>/talk/buffered-count-min-sketch-on-ssd-theory-and-experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index</title>
+      <link>/talk/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</link>
+      <pubDate>Sun, 22 Apr 2018 02:44:45 -0400</pubDate>
+      <guid>/talk/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Problems in Write-Optimized Key-Value Stores</title>
+      <link>/talk/scheduling-problems-in-write-optimized-key-value-stores/</link>
+      <pubDate>Fri, 06 Apr 2018 12:36:40 -0800</pubDate>
+      <guid>/talk/scheduling-problems-in-write-optimized-key-value-stores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact Representation of Annotated de Bruijn Graph</title>
+      <link>/talk/compact-representation-of-annotated-de-bruijn-graph/</link>
+      <pubDate>Fri, 12 Jan 2018 02:37:09 -0400</pubDate>
+      <guid>/talk/compact-representation-of-annotated-de-bruijn-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
+      <link>/talk/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</link>
+      <pubDate>Tue, 26 Sep 2017 02:34:59 -0400</pubDate>
+      <guid>/talk/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
+      <link>/talk/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</link>
+      <pubDate>Tue, 25 Jul 2017 02:32:45 -0400</pubDate>
+      <guid>/talk/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-Purpose Counting Filter: Making Every Bit Count</title>
+      <link>/talk/a-general-purpose-counting-filter-making-every-bit-count/</link>
+      <pubDate>Tue, 16 May 2017 02:29:48 -0400</pubDate>
+      <guid>/talk/a-general-purpose-counting-filter-making-every-bit-count/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intel Software Guard Extensions (SGX)</title>
+      <link>/talk/intel-software-guard-extensions-sgx/</link>
+      <pubDate>Tue, 25 Aug 2015 02:25:10 -0400</pubDate>
+      <guid>/talk/intel-software-guard-extensions-sgx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terrace: A Hierarchical Graph Container for Skewed Dynamic Graphs</title>
+      <link>/talk/terrace-a-hierarchical-graph-container-for-skewed-dynamic-graphs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/terrace-a-hierarchical-graph-container-for-skewed-dynamic-graphs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

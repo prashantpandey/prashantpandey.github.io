@@ -3,65 +3,650 @@
   <channel>
     <title>Prashant Pandey</title>
     <link>/</link>
-    <description>Recent content on Prashant Pandey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 19:34:22 -0700</lastBuildDate>
-    
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prashant Pandey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 20:54:24 -0700</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
+      <title>Prashant Pandey</title>
+      <link>/</link>
+    </image>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-      <pubDate>Fri, 18 Mar 2022 19:34:22 -0700</pubDate>
-      
-      <guid>/talk/</guid>
+      <title>Terrace</title>
+      <link>/project/graphs/</link>
+      <pubDate>Wed, 01 Jun 2022 20:54:24 -0700</pubDate>
+      <guid>/project/graphs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Indexing whole SRA</title>
+      <link>/project/comp-bio/</link>
+      <pubDate>Wed, 01 Jun 2022 20:49:06 -0700</pubDate>
+      <guid>/project/comp-bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filters</title>
+      <link>/project/filter/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/project/filter/</guid>
+      <description>&lt;p&gt;High performance data analytics problems often use
+filters to approximately store or count a set of items while trading
+off accuracy for space-efficiency. Filters can also address the limited
+memory available on accelerators, such as GPUs. We present GQF, a
+feature-rich, GPU-optimized counting quotient filter, which provides
+both individual and bulk insertions, with different locking strategies
+to maximize performance and ensure correctness for each usage
+scenario. GQF has all the benefits of a standard counting quotient
+filter: good cache locality, high speed, and support for counting,
+deletions, and associating small values with items&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Systems at Scale: Scaling Up by Scaling Down and Out</title>
+      <link>/talk/data-systems-at-scale-scaling-up-by-scaling-down-and-out/</link>
+      <pubDate>Wed, 02 Mar 2022 00:29:04 -0700</pubDate>
+      <guid>/talk/data-systems-at-scale-scaling-up-by-scaling-down-and-out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time to Change Your Filter</title>
+      <link>/talk/time-to-change-your-filter/</link>
+      <pubDate>Fri, 11 Feb 2022 13:00:00 +0000</pubDate>
+      <guid>/talk/time-to-change-your-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Advanced Data Structures to Enable Responsive Security Monitoring</title>
+      <link>/publication/cc22/</link>
       <pubDate>Tue, 25 Jan 2022 10:09:25 -0800</pubDate>
-      
-      <guid>/publication/</guid>
+      <guid>/publication/cc22/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Media</title>
-      <link>/media/</link>
+      <title>An Incrementally Updatable and Scalable System for Large-Scale Sequence Search using the Bentley-Saxe Transformation</title>
+      <link>/publication/bioinfo22/</link>
+      <pubDate>Mon, 10 Jan 2022 21:04:51 -0800</pubDate>
+      <guid>/publication/bioinfo22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VariantStore: an index for large-scale genomic variant search</title>
+      <link>/publication/gb21/</link>
+      <pubDate>Sun, 25 Jul 2021 18:34:13 -0700</pubDate>
+      <guid>/publication/gb21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector Quotient Filters: Overcoming the Time/Space Trade-Off in Filter Design</title>
+      <link>/talk/vector-quotient-filters-overcoming-the-time/space-trade-off-in-filter-design/</link>
+      <pubDate>Wed, 02 Jun 2021 00:19:44 -0700</pubDate>
+      <guid>/talk/vector-quotient-filters-overcoming-the-time/space-trade-off-in-filter-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terrace:  A Hierarchical Graph Container for Skewed Dynamic Graphs</title>
+      <link>/publication/sigmod21_terrace/</link>
+      <pubDate>Thu, 11 Mar 2021 21:30:54 -0800</pubDate>
+      <guid>/publication/sigmod21_terrace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Systems at Scale: Scaling Up by Scaling Down and Out</title>
+      <link>/talk/data-systems-at-scale-scaling-up-by-scaling-down-and-out/</link>
+      <pubDate>Mon, 22 Feb 2021 21:16:17 -0800</pubDate>
+      <guid>/talk/data-systems-at-scale-scaling-up-by-scaling-down-and-out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Graph Neural Networks to Metagenomics</title>
+      <link>/talk/applying-graph-neural-networks-to-metagenomics/</link>
+      <pubDate>Thu, 11 Feb 2021 21:16:17 -0800</pubDate>
+      <guid>/talk/applying-graph-neural-networks-to-metagenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External-Memory Dictionaries in the Affine and PDAM Models</title>
+      <link>/publication/topc21/</link>
+      <pubDate>Wed, 10 Feb 2021 21:04:44 -0800</pubDate>
+      <guid>/publication/topc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector Quotient Filters:  Overcoming the Time/Space Trade-Off in Filter Design</title>
+      <link>/publication/sigmod21_vqf/</link>
+      <pubDate>Wed, 20 Jan 2021 22:23:01 -0800</pubDate>
+      <guid>/publication/sigmod21_vqf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed-Memory k-mer Counting on GPUs</title>
+      <link>/publication/ipdps22/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ipdps22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VariantStore: A Space-Efficient and Fast Variant Search Index</title>
+      <link>/talk/variantstore-a-space-efficient-and-fast-variant-search-index/</link>
+      <pubDate>Mon, 13 Jul 2020 12:44:16 -0700</pubDate>
+      <guid>/talk/variantstore-a-space-efficient-and-fast-variant-search-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timely Reporting of Heavy Hitters using External Memory</title>
+      <link>/talk/timely-reporting-of-heavy-hitters-using-external-memory/</link>
+      <pubDate>Thu, 18 Jun 2020 12:40:09 -0700</pubDate>
+      <guid>/talk/timely-reporting-of-heavy-hitters-using-external-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timely Reporting of Heavy Hitters Using External Memory</title>
+      <link>/publication/sigmod20/</link>
+      <pubDate>Thu, 02 Jan 2020 12:40:16 -0800</pubDate>
+      <guid>/publication/sigmod20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timely Reporting of Heavy Hitters using External Memory</title>
+      <link>/talk/timely-reporting-of-heavy-hitters-using-external-memory/</link>
+      <pubDate>Sat, 12 Oct 2019 12:29:23 -0800</pubDate>
+      <guid>/talk/timely-reporting-of-heavy-hitters-using-external-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Counting Quotient Filter Data Structure Featured on the Morning Paper</title>
+      <link>/media/the-counting-quotient-filter-data-structure-featured-on-the-morning-paper/</link>
       <pubDate>Thu, 18 Jul 2019 01:08:30 -0400</pubDate>
-      
-      <guid>/media/</guid>
+      <guid>/media/the-counting-quotient-filter-data-structure-featured-on-the-morning-paper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Courses</title>
-      <link>/courses/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/courses/</guid>
+      <title>Our Computational Biology Research Got Mentioned on VMware Research Blog</title>
+      <link>/media/our-computational-biology-research-got-mentioned-on-vmware-research-blog/</link>
+      <pubDate>Thu, 18 Jul 2019 01:06:55 -0400</pubDate>
+      <guid>/media/our-computational-biology-research-got-mentioned-on-vmware-research-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Counting Quotient File Paper Is One of Eight ACM SIGMOD 2017 Reproducible Paper</title>
+      <link>/media/our-counting-quotient-file-paper-is-one-of-eight-acm-sigmod-2017-reproducible-paper/</link>
+      <pubDate>Thu, 18 Jul 2019 01:05:14 -0400</pubDate>
+      <guid>/media/our-counting-quotient-file-paper-is-one-of-eight-acm-sigmod-2017-reproducible-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Recently Received the Catacosinos Fellowship for Excellence in Computer Science at Stony Brook University</title>
+      <link>/media/i-recently-received-the-catacosinos-fellowship-for-excellence-in-computer-science-at-stony-brook-university/</link>
+      <pubDate>Thu, 18 Jul 2019 01:03:31 -0400</pubDate>
+      <guid>/media/i-recently-received-the-catacosinos-fellowship-for-excellence-in-computer-science-at-stony-brook-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding a Needle in a Field of Haystacks: Cell Systems Publishes Research on Mantis, a New Sequencing Search Tool</title>
+      <link>/media/finding-a-needle-in-a-field-of-haystacks-cell-systems-publishes-research-on-mantis-a-new-sequencing-search-tool/</link>
+      <pubDate>Thu, 18 Jul 2019 00:53:55 -0400</pubDate>
+      <guid>/media/finding-a-needle-in-a-field-of-haystacks-cell-systems-publishes-research-on-mantis-a-new-sequencing-search-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design</title>
+      <link>/publication/spaa19/</link>
+      <pubDate>Thu, 18 Jul 2019 00:46:09 -0400</pubDate>
+      <guid>/publication/spaa19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality Sensitive Hashing for the Edit Distance</title>
+      <link>/publication/ismb19/</link>
+      <pubDate>Thu, 18 Jul 2019 00:44:46 -0400</pubDate>
+      <guid>/publication/ismb19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Online Event-Detection Problem</title>
+      <link>/publication/arxiv19/</link>
+      <pubDate>Thu, 18 Jul 2019 00:43:58 -0400</pubDate>
+      <guid>/publication/arxiv19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient, Scalable and Exact Representation of High-Dimensional Color Information Enabled via de Bruijn Graph Search Problem</title>
+      <link>/publication/recomb19/</link>
+      <pubDate>Thu, 18 Jul 2019 00:40:20 -0400</pubDate>
+      <guid>/publication/recomb19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design</title>
+      <link>/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/</link>
+      <pubDate>Mon, 24 Jun 2019 02:48:29 -0400</pubDate>
+      <guid>/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
       
-      <guid>/slides/</guid>
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast and Space-Efficient Maps: Shrinking Big Data Down to Size</title>
+      <link>/talk/fast-and-space-efficient-maps-shrinking-big-data-down-to-size/</link>
+      <pubDate>Wed, 31 Oct 2018 02:47:26 -0400</pubDate>
+      <guid>/talk/fast-and-space-efficient-maps-shrinking-big-data-down-to-size/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/</guid>
+      <title>Instructions that Facilitate the Implementation of the Fork System Call in Processes using Software Guard Extensions </title>
+      <link>/publication/patent18_1/</link>
+      <pubDate>Thu, 04 Oct 2018 23:49:08 -0700</pubDate>
+      <guid>/publication/patent18_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buffered Count-Min Sketch on SSD: Theory and Experiments</title>
+      <link>/talk/buffered-count-min-sketch-on-ssd-theory-and-experiments/</link>
+      <pubDate>Wed, 22 Aug 2018 02:46:16 -0400</pubDate>
+      <guid>/talk/buffered-count-min-sketch-on-ssd-theory-and-experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buffered Count-Min Sketch on SSD: Theory and Experiments</title>
+      <link>/publication/esa18/</link>
+      <pubDate>Wed, 18 Jul 2018 00:38:52 -0400</pubDate>
+      <guid>/publication/esa18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index</title>
+      <link>/publication/recomb18/</link>
+      <pubDate>Wed, 18 Jul 2018 00:37:03 -0400</pubDate>
+      <guid>/publication/recomb18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index</title>
+      <link>/talk/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</link>
+      <pubDate>Sun, 22 Apr 2018 02:44:45 -0400</pubDate>
+      <guid>/talk/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Problems in Write-Optimized Key-Value Stores</title>
+      <link>/talk/scheduling-problems-in-write-optimized-key-value-stores/</link>
+      <pubDate>Fri, 06 Apr 2018 12:36:40 -0800</pubDate>
+      <guid>/talk/scheduling-problems-in-write-optimized-key-value-stores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact Representation of Annotated de Bruijn Graph</title>
+      <link>/talk/compact-representation-of-annotated-de-bruijn-graph/</link>
+      <pubDate>Fri, 12 Jan 2018 02:37:09 -0400</pubDate>
+      <guid>/talk/compact-representation-of-annotated-de-bruijn-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and Method For Implementing a Forked System Call in a System with a Protected Region</title>
+      <link>/publication/patent18/</link>
+      <pubDate>Thu, 04 Jan 2018 23:45:16 -0700</pubDate>
+      <guid>/publication/patent18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
+      <link>/talk/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</link>
+      <pubDate>Tue, 26 Sep 2017 02:34:59 -0400</pubDate>
+      <guid>/talk/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
+      <link>/talk/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</link>
+      <pubDate>Tue, 25 Jul 2017 02:32:45 -0400</pubDate>
+      <guid>/talk/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rainbowfish: A Succinct Colored de Bruijn Graph Representation</title>
+      <link>/publication/wabi17/</link>
+      <pubDate>Tue, 18 Jul 2017 00:34:22 -0400</pubDate>
+      <guid>/publication/wabi17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph</title>
+      <link>/publication/ismb17/</link>
+      <pubDate>Tue, 18 Jul 2017 00:32:54 -0400</pubDate>
+      <guid>/publication/ismb17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squeakr: An Exact and Approximate K-Mer Counting System</title>
+      <link>/publication/bioinfo17/</link>
+      <pubDate>Tue, 18 Jul 2017 00:31:15 -0400</pubDate>
+      <guid>/publication/bioinfo17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-Purpose Counting Filter: Making Every Bit Count</title>
+      <link>/publication/sigmod17/</link>
+      <pubDate>Tue, 18 Jul 2017 00:29:40 -0400</pubDate>
+      <guid>/publication/sigmod17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast X86 Implementation of Select</title>
+      <link>/publication/arxiv17/</link>
+      <pubDate>Tue, 18 Jul 2017 00:27:49 -0400</pubDate>
+      <guid>/publication/arxiv17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-Purpose Counting Filter: Making Every Bit Count</title>
+      <link>/talk/a-general-purpose-counting-filter-making-every-bit-count/</link>
+      <pubDate>Tue, 16 May 2017 02:29:48 -0400</pubDate>
+      <guid>/talk/a-general-purpose-counting-filter-making-every-bit-count/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writes Wrought Right, and Other Adventures in File System Optimization</title>
+      <link>/publication/tos16/</link>
+      <pubDate>Mon, 18 Jul 2016 00:26:27 -0400</pubDate>
+      <guid>/publication/tos16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Every Operation in a Write-Optimized File System</title>
+      <link>/publication/fast16/</link>
+      <pubDate>Mon, 18 Jul 2016 00:24:37 -0400</pubDate>
+      <guid>/publication/fast16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intel Software Guard Extensions (SGX)</title>
+      <link>/talk/intel-software-guard-extensions-sgx/</link>
+      <pubDate>Tue, 25 Aug 2015 02:25:10 -0400</pubDate>
+      <guid>/talk/intel-software-guard-extensions-sgx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BetrFS: Write-Optimization in a Kernel File System</title>
+      <link>/publication/tos15/</link>
+      <pubDate>Wed, 01 Jul 2015 22:29:09 -0700</pubDate>
+      <guid>/publication/tos15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BetrFS: A Right-Optimized Write-Optimized File System</title>
+      <link>/publication/fast15/</link>
+      <pubDate>Sun, 01 Mar 2015 22:23:13 -0700</pubDate>
+      <guid>/publication/fast15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terrace: A Hierarchical Graph Container for Skewed Dynamic Graphs</title>
+      <link>/talk/terrace-a-hierarchical-graph-container-for-skewed-dynamic-graphs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/terrace-a-hierarchical-graph-container-for-skewed-dynamic-graphs/</guid>
       <description></description>
     </item>
     

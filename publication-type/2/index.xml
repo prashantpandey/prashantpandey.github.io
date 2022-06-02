@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Prashant Pandey</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 10:09:25 -0800</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Using Advanced Data Structures to Enable Responsive Security Monitoring</title>
+      <link>/publication/cc22/</link>
+      <pubDate>Tue, 25 Jan 2022 10:09:25 -0800</pubDate>
+      <guid>/publication/cc22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Incrementally Updatable and Scalable System for Large-Scale Sequence Search using the Bentley-Saxe Transformation</title>
+      <link>/publication/bioinfo22/</link>
+      <pubDate>Mon, 10 Jan 2022 21:04:51 -0800</pubDate>
+      <guid>/publication/bioinfo22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VariantStore: an index for large-scale genomic variant search</title>
+      <link>/publication/gb21/</link>
+      <pubDate>Sun, 25 Jul 2021 18:34:13 -0700</pubDate>
+      <guid>/publication/gb21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External-Memory Dictionaries in the Affine and PDAM Models</title>
+      <link>/publication/topc21/</link>
+      <pubDate>Wed, 10 Feb 2021 21:04:44 -0800</pubDate>
+      <guid>/publication/topc21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index</title>
+      <link>/publication/recomb18/</link>
+      <pubDate>Wed, 18 Jul 2018 00:37:03 -0400</pubDate>
+      <guid>/publication/recomb18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squeakr: An Exact and Approximate K-Mer Counting System</title>
+      <link>/publication/bioinfo17/</link>
+      <pubDate>Tue, 18 Jul 2017 00:31:15 -0400</pubDate>
+      <guid>/publication/bioinfo17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writes Wrought Right, and Other Adventures in File System Optimization</title>
+      <link>/publication/tos16/</link>
+      <pubDate>Mon, 18 Jul 2016 00:26:27 -0400</pubDate>
+      <guid>/publication/tos16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BetrFS: Write-Optimization in a Kernel File System</title>
+      <link>/publication/tos15/</link>
+      <pubDate>Wed, 01 Jul 2015 22:29:09 -0700</pubDate>
+      <guid>/publication/tos15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

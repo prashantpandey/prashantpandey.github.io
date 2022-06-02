@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Structure | Prashant Pandey</title>
+    <link>/tag/data-structure/</link>
+      <atom:link href="/tag/data-structure/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Structure</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
+      <title>Data Structure</title>
+      <link>/tag/data-structure/</link>
+    </image>
+    
+    <item>
+      <title>Filters</title>
+      <link>/project/filter/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/project/filter/</guid>
+      <description>&lt;p&gt;High performance data analytics problems often use
+filters to approximately store or count a set of items while trading
+off accuracy for space-efficiency. Filters can also address the limited
+memory available on accelerators, such as GPUs. We present GQF, a
+feature-rich, GPU-optimized counting quotient filter, which provides
+both individual and bulk insertions, with different locking strategies
+to maximize performance and ensure correctness for each usage
+scenario. GQF has all the benefits of a standard counting quotient
+filter: good cache locality, high speed, and support for counting,
+deletions, and associating small values with items&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

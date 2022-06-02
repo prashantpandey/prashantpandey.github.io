@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comp Bio | Prashant Pandey</title>
+    <link>/tag/comp-bio/</link>
+      <atom:link href="/tag/comp-bio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Comp Bio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 20:49:06 -0700</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
+      <title>Comp Bio</title>
+      <link>/tag/comp-bio/</link>
+    </image>
+    
+    <item>
+      <title>Indexing whole SRA</title>
+      <link>/project/comp-bio/</link>
+      <pubDate>Wed, 01 Jun 2022 20:49:06 -0700</pubDate>
+      <guid>/project/comp-bio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
