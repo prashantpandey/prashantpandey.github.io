@@ -154,18 +154,6 @@
   <url>
     <loc>/talk/timely-reporting-of-heavy-hitters-using-external-memory/</loc><lastmod>2019-10-12T12:29:23-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/media/</loc><lastmod>2019-07-18T01:08:30-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/media/the-counting-quotient-filter-data-structure-featured-on-the-morning-paper/</loc><lastmod>2019-07-18T01:08:30-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/media/our-computational-biology-research-got-mentioned-on-vmware-research-blog/</loc><lastmod>2019-07-18T01:06:55-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/media/our-counting-quotient-file-paper-is-one-of-eight-acm-sigmod-2017-reproducible-paper/</loc><lastmod>2019-07-18T01:05:14-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/media/i-recently-received-the-catacosinos-fellowship-for-excellence-in-computer-science-at-stony-brook-university/</loc><lastmod>2019-07-18T01:03:31-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/media/finding-a-needle-in-a-field-of-haystacks-cell-systems-publishes-research-on-mantis-a-new-sequencing-search-tool/</loc><lastmod>2019-07-18T00:53:55-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/publication/spaa19/</loc><lastmod>2019-07-18T00:46:09-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2019-07-18T00:44:46-04:00</lastmod><changefreq>weekly</changefreq></url>
@@ -200,6 +188,14 @@
   <url>
     <loc>/talk/buffered-count-min-sketch-on-ssd-theory-and-experiments/</loc><lastmod>2018-08-22T02:46:16-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/media/</loc><lastmod>2018-07-18T01:06:55-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/media/comp-bio-vmware-18/</loc><lastmod>2018-07-18T01:06:55-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/media/catacosinos18/</loc><lastmod>2018-07-18T01:03:31-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/media/mantis18/</loc><lastmod>2018-07-18T00:53:55-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/publication/esa18/</loc><lastmod>2018-07-18T00:38:52-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2018-07-18T00:38:52-04:00</lastmod><changefreq>weekly</changefreq></url>
@@ -224,6 +220,10 @@
   <url>
     <loc>/talk/debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph/</loc><lastmod>2017-07-25T02:32:45-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/media/cqf-morning17/</loc><lastmod>2017-07-18T01:08:30-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/media/cqf-repro17/</loc><lastmod>2017-07-18T01:05:14-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/publication/wabi17/</loc><lastmod>2017-07-18T00:34:22-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/ismb17/</loc><lastmod>2017-07-18T00:32:54-04:00</lastmod><changefreq>weekly</changefreq></url>
@@ -237,6 +237,8 @@
     <loc></loc><lastmod>2017-07-18T00:27:49-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/talk/a-general-purpose-counting-filter-making-every-bit-count/</loc><lastmod>2017-05-16T02:29:48-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/media/fast16/</loc><lastmod>2016-07-18T01:05:14-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2016-07-18T00:26:27-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -255,6 +257,8 @@
     <loc>/publication/fast16/</loc><lastmod>2016-07-18T00:24:37-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/talk/intel-software-guard-extensions-sgx/</loc><lastmod>2015-08-25T02:25:10-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/media/fast15/</loc><lastmod>2015-07-18T01:05:14-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2015-07-01T22:29:09-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
