@@ -95,6 +95,14 @@ deletions, and associating small values with items&lt;/p&gt;
     </item>
     
     <item>
+      <title>Terrace: A Hierarchical Graph Container for Skewed Dynamic Graphs</title>
+      <link>/talk/terrace-a-hierarchical-graph-container-for-skewed-dynamic-graphs/</link>
+      <pubDate>Wed, 02 Jun 2021 00:23:33 -0700</pubDate>
+      <guid>/talk/terrace-a-hierarchical-graph-container-for-skewed-dynamic-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vector Quotient Filters: Overcoming the Time/Space Trade-Off in Filter Design</title>
       <link>/talk/vector-quotient-filters-overcoming-the-time/space-trade-off-in-filter-design/</link>
       <pubDate>Wed, 02 Jun 2021 00:19:44 -0700</pubDate>
@@ -663,14 +671,6 @@ $$&lt;/p&gt;
       <link>/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Terrace: A Hierarchical Graph Container for Skewed Dynamic Graphs</title>
-      <link>/talk/terrace-a-hierarchical-graph-container-for-skewed-dynamic-graphs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/terrace-a-hierarchical-graph-container-for-skewed-dynamic-graphs/</guid>
       <description></description>
     </item>
     
