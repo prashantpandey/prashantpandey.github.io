@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 10:09:25 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 23:37:08 -0600</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>IcebergHT: High Performance PMEM Hash Tables Through Stability and Low Associativity</title>
+      <link>/publication/sigmod23_iceberg/</link>
+      <pubDate>Thu, 25 Aug 2022 23:37:08 -0600</pubDate>
+      <guid>/publication/sigmod23_iceberg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Advanced Data Structures to Enable Responsive Security Monitoring</title>

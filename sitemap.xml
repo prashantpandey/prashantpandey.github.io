@@ -4,7 +4,15 @@
   
   
   <url>
-    <loc>/</loc><lastmod>2022-06-03T13:18:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication-type/1/</loc><lastmod>2022-08-25T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/sigmod23_iceberg/</loc><lastmod>2022-08-25T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/</loc><lastmod>2022-08-25T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication_types/</loc><lastmod>2022-08-25T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/</loc><lastmod>2022-08-25T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/</loc><lastmod>2022-06-03T13:18:37-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -32,10 +40,6 @@
   <url>
     <loc>/publication-type/2/</loc><lastmod>2022-01-25T10:09:25-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication_types/</loc><lastmod>2022-01-25T10:09:25-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication/</loc><lastmod>2022-01-25T10:09:25-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/publication/cc22/</loc><lastmod>2022-01-25T10:09:25-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/bioinfo22/</loc><lastmod>2022-01-10T21:04:51-08:00</lastmod><changefreq>weekly</changefreq></url>
@@ -45,8 +49,6 @@
     <loc>/talk/terrace-a-hierarchical-graph-container-for-skewed-dynamic-graphs/</loc><lastmod>2021-06-02T00:23:33-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/talk/vector-quotient-filters-overcoming-the-time/space-trade-off-in-filter-design/</loc><lastmod>2021-06-02T00:19:44-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication-type/1/</loc><lastmod>2021-03-11T21:30:54-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/sigmod21_terrace/</loc><lastmod>2021-03-11T21:30:54-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
