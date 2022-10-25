@@ -5,12 +5,44 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Prashant Pandey</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Aug 2022 23:37:08 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 00:02:07 -0600</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Prashant Pandey</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Distance and Time Sensitive Filters for Similarity Search in Trajectory Datasets</title>
+      <link>/publication/apocs22/</link>
+      <pubDate>Tue, 25 Oct 2022 00:02:07 -0600</pubDate>
+      <guid>/publication/apocs22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing High-Performance and Feature Rich GPU Filters For Exascale Computing</title>
+      <link>/talk/designing-high-performance-and-feature-rich-gpu-filters-for-exascale-computing/</link>
+      <pubDate>Thu, 29 Sep 2022 23:50:06 -0600</pubDate>
+      <guid>/talk/designing-high-performance-and-feature-rich-gpu-filters-for-exascale-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalability Challenges in Large-Scale Sequence Search</title>
+      <link>/talk/scalability-challenges-in-large-scale-sequence-search/</link>
+      <pubDate>Wed, 28 Sep 2022 23:50:01 -0600</pubDate>
+      <guid>/talk/scalability-challenges-in-large-scale-sequence-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector Quotient Filters: Overcoming the Time/Space Trade-Off in Filter Design</title>
+      <link>/talk/vector-quotient-filters-overcoming-the-time/space-trade-off-in-filter-design/</link>
+      <pubDate>Tue, 06 Sep 2022 23:49:52 -0600</pubDate>
+      <guid>/talk/vector-quotient-filters-overcoming-the-time/space-trade-off-in-filter-design/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IcebergHT: High Performance PMEM Hash Tables Through Stability and Low Associativity</title>
