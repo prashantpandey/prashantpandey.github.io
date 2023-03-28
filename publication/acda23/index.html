@@ -80,7 +80,7 @@
   <meta name="description" content="" />
 
   
-  <link rel="alternate" hreflang="en-us" href="/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/" />
+  <link rel="alternate" hreflang="en-us" href="/publication/acda23/" />
 
   
   
@@ -319,7 +319,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/" />
+  <link rel="canonical" href="/publication/acda23/" />
 
   
   
@@ -345,26 +345,29 @@
     <meta property="twitter:creator" content="@wowchemy" />
   
   <meta property="og:site_name" content="Prashant Pandey" />
-  <meta property="og:url" content="/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/" />
-  <meta property="og:title" content="Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design | Prashant Pandey" />
+  <meta property="og:url" content="/publication/acda23/" />
+  <meta property="og:title" content="Singleton Sieving: Overcoming the Memory/Speed Trade-Off in Exascale k-mer Analysis | Prashant Pandey" />
   <meta property="og:description" content="" /><meta property="og:image" content="/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2019-07-18T02:48:29-04:00"
+        content="2023-03-28T17:08:05-06:00"
       />
     
-    <meta property="article:modified_time" content="2019-06-24T02:48:29-04:00">
+    <meta property="article:modified_time" content="2023-03-28T17:08:05-06:00">
   
 
   
 
 
-
-  
     
+
+
+
+
+
 
 
 
@@ -372,29 +375,29 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/"
+    "@id": "/publication/acda23/"
   },
-  "name": "Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design",
+  "headline": "Singleton Sieving: Overcoming the Memory/Speed Trade-Off in Exascale k-mer Analysis",
   
-  "location": {
-    "@type": "Place",
-    "name": "SPA 2019, Phoenix, AZ"
-  },
+  "datePublished": "2023-03-28T17:08:05-06:00",
+  "dateModified": "2023-03-28T17:08:05-06:00",
   
-  
-  "startDate": "2019-06-24T02:48:29-04:00",
-  
-  "endDate": "2019-07-18T02:48:29-04:00",
-  
-  
-  "performer": {
+  "author": {
     "@type": "Person",
-    "name": "Prashant Pandey"
+    "name": "Hunter McCoy"
   },
   
+  "publisher": {
+    "@type": "Organization",
+    "name": "Prashant Pandey",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_192x192_fill_lanczos_center_3.png"
+    }
+  },
   "description": ""
 }
 </script>
@@ -403,8 +406,10 @@
 
   
 
+  
 
-  <title>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design | Prashant Pandey</title>
+
+  <title>Singleton Sieving: Overcoming the Memory/Speed Trade-Off in Exascale k-mer Analysis | Prashant Pandey</title>
 
   
   
@@ -423,7 +428,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="51a939a23854cc5fda7d76f26e26628d" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="9100b1286646e4f2626431b4686ce5a7" >
 
   
   
@@ -860,7 +865,16 @@
     
     
 
-    <div class="pub">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
 
   
 
@@ -881,7 +895,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design</h1>
+  <h1>Singleton Sieving: Overcoming the Memory/Speed Trade-Off in Exascale k-mer Analysis</h1>
 
   
 
@@ -893,7 +907,28 @@
 
   
   
+  
+  
+  <div>
+    
 
+  <span >
+      Hunter McCoy</span>, <span >
+      Steven Hofmeyr</span>, <span >
+      Katherine Yelick</span>, <span >
+      Prashant Pandey</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    March, 2023
+  </span>
   
 
   
@@ -914,47 +949,6 @@
 
 
 
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="/uploads/spaa_talk_2019.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-</div>
 
 
   
@@ -965,23 +959,24 @@
   <div class="article-container">
 
     
-      <br>
-    
 
+    
+    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            Jun 24, 2019 &mdash; Jul 18, 2019
+            <a href="/publication/#1">
+              Conference paper
+            </a>
           </div>
         </div>
       </div>
       <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
-
     
 
     
@@ -989,9 +984,8 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">SPA 2019, Phoenix, AZ</div>
-          
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">ACDA 23</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -1001,9 +995,7 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style">
-      
-    </div>
+    <div class="article-style"></div>
 
     
 
@@ -1024,7 +1016,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/&amp;text=Small%20Refinements%20to%20the%20DAM%20Can%20Have%20Big%20Consequences%20for%20Data-Structure%20Design" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/acda23/&amp;text=Singleton%20Sieving:%20Overcoming%20the%20Memory/Speed%20Trade-Off%20in%20Exascale%20k-mer%20Analysis" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1037,7 +1029,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/&amp;t=Small%20Refinements%20to%20the%20DAM%20Can%20Have%20Big%20Consequences%20for%20Data-Structure%20Design" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/acda23/&amp;t=Singleton%20Sieving:%20Overcoming%20the%20Memory/Speed%20Trade-Off%20in%20Exascale%20k-mer%20Analysis" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1050,7 +1042,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Small%20Refinements%20to%20the%20DAM%20Can%20Have%20Big%20Consequences%20for%20Data-Structure%20Design&amp;body=/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Singleton%20Sieving:%20Overcoming%20the%20Memory/Speed%20Trade-Off%20in%20Exascale%20k-mer%20Analysis&amp;body=/publication/acda23/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1063,7 +1055,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/&amp;title=Small%20Refinements%20to%20the%20DAM%20Can%20Have%20Big%20Consequences%20for%20Data-Structure%20Design" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/acda23/&amp;title=Singleton%20Sieving:%20Overcoming%20the%20Memory/Speed%20Trade-Off%20in%20Exascale%20k-mer%20Analysis" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1076,7 +1068,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Small%20Refinements%20to%20the%20DAM%20Can%20Have%20Big%20Consequences%20for%20Data-Structure%20Design%20/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Singleton%20Sieving:%20Overcoming%20the%20Memory/Speed%20Trade-Off%20in%20Exascale%20k-mer%20Analysis%20/publication/acda23/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1089,7 +1081,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/talk/small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design/&amp;title=Small%20Refinements%20to%20the%20DAM%20Can%20Have%20Big%20Consequences%20for%20Data-Structure%20Design" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/acda23/&amp;title=Singleton%20Sieving:%20Overcoming%20the%20Memory/Speed%20Trade-Off%20in%20Exascale%20k-mer%20Analysis" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1109,117 +1101,30 @@
 
   
   
+    
+
 
 
 
   
-  
-  
-    
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-      
-      <a href="/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hue4456b4359b6aa1650dc6ac63363d0d4_2198564_270x270_fill_q75_lanczos_center.jpeg" alt="Prashant Pandey"></a>
     
 
-    <div class="media-body">
-      <h5 class="card-title"><a href="/">Prashant Pandey</a></h5>
-      <h6 class="card-subtitle">Assistant Professor</h6>
-      <p class="card-text">My research interests lie at the intersection of Systems and Algorithms. I design and build theoretically well-founded data structures for big data problems in computational biology, streaming, and file systems.</p>
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/#contact" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/ppandey0825" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=VO62HkEAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="fas fa-graduation-cap"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/prashantpandey" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/uploads/cv.pdf" >
-        <i class="ai ai-cv"></i>
-      </a>
-    </li>
-  
-</ul>
-
-    </div>
-  </div>
 
 
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 

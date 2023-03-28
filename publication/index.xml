@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Dec 2022 08:42:39 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Mar 2023 17:08:05 -0600</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Communication Optimization for Distributed Execution of Graph Neural Networks</title>
-      <link>/publication/ipdps23/</link>
-      <pubDate>Sun, 25 Dec 2022 08:42:39 -0700</pubDate>
-      <guid>/publication/ipdps23/</guid>
+      <title>Singleton Sieving: Overcoming the Memory/Speed Trade-Off in Exascale k-mer Analysis</title>
+      <link>/publication/acda23/</link>
+      <pubDate>Tue, 28 Mar 2023 17:08:05 -0600</pubDate>
+      <guid>/publication/acda23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Performance Filters for GPUs</title>
       <link>/publication/ppopp23/</link>
-      <pubDate>Tue, 08 Nov 2022 17:31:30 -0700</pubDate>
+      <pubDate>Tue, 28 Feb 2023 17:08:05 -0600</pubDate>
       <guid>/publication/ppopp23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication Optimization for Distributed Execution of Graph Neural Networks</title>
+      <link>/publication/ipdps23/</link>
+      <pubDate>Sun, 25 Dec 2022 08:42:39 -0700</pubDate>
+      <guid>/publication/ipdps23/</guid>
       <description></description>
     </item>
     
