@@ -5,12 +5,20 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Mar 2023 17:08:05 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Mar 2023 23:37:08 -0600</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>IcebergHT: High Performance PMEM Hash Tables Through Stability and Low Associativity</title>
+      <link>/publication/sigmod23_iceberg/</link>
+      <pubDate>Tue, 28 Mar 2023 23:37:08 -0600</pubDate>
+      <guid>/publication/sigmod23_iceberg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Singleton Sieving: Overcoming the Memory/Speed Trade-Off in Exascale k-mer Analysis</title>
@@ -31,7 +39,7 @@
     <item>
       <title>Communication Optimization for Distributed Execution of Graph Neural Networks</title>
       <link>/publication/ipdps23/</link>
-      <pubDate>Sun, 25 Dec 2022 08:42:39 -0700</pubDate>
+      <pubDate>Sun, 26 Feb 2023 08:42:39 -0700</pubDate>
       <guid>/publication/ipdps23/</guid>
       <description></description>
     </item>
@@ -39,16 +47,8 @@
     <item>
       <title>Distance and Time Sensitive Filters for Similarity Search in Trajectory Datasets</title>
       <link>/publication/apocs22/</link>
-      <pubDate>Tue, 25 Oct 2022 00:02:07 -0600</pubDate>
+      <pubDate>Wed, 25 Jan 2023 00:02:07 -0600</pubDate>
       <guid>/publication/apocs22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IcebergHT: High Performance PMEM Hash Tables Through Stability and Low Associativity</title>
-      <link>/publication/sigmod23_iceberg/</link>
-      <pubDate>Thu, 25 Aug 2022 23:37:08 -0600</pubDate>
-      <guid>/publication/sigmod23_iceberg/</guid>
       <description></description>
     </item>
     

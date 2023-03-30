@@ -4,21 +4,23 @@
   
   
   <url>
-    <loc>/publication-type/1/</loc><lastmod>2023-03-28T17:08:05-06:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication-type/1/</loc><lastmod>2023-03-28T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/</loc><lastmod>2023-03-28T17:08:05-06:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication/sigmod23_iceberg/</loc><lastmod>2023-03-28T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication_types/</loc><lastmod>2023-03-28T17:08:05-06:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/</loc><lastmod>2023-03-28T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/</loc><lastmod>2023-03-28T17:08:05-06:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication_types/</loc><lastmod>2023-03-28T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/</loc><lastmod>2023-03-28T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/acda23/</loc><lastmod>2023-03-28T17:08:05-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/ppopp23/</loc><lastmod>2023-02-28T17:08:05-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/ipdps23/</loc><lastmod>2022-12-25T08:42:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication/ipdps23/</loc><lastmod>2023-02-26T08:42:39-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/apocs22/</loc><lastmod>2022-10-25T00:02:07-06:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication/apocs22/</loc><lastmod>2023-01-25T00:02:07-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/talk/designing-high-performance-and-feature-rich-gpu-filters-for-exascale-computing/</loc><lastmod>2022-09-29T23:50:06-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -27,8 +29,6 @@
     <loc>/talk/scalability-challenges-in-large-scale-sequence-search/</loc><lastmod>2022-09-28T23:50:01-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/talk/vector-quotient-filters-overcoming-the-time/space-trade-off-in-filter-design/</loc><lastmod>2022-09-06T23:49:52-06:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication/sigmod23_iceberg/</loc><lastmod>2022-08-25T23:37:08-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/</loc><lastmod>2022-06-03T13:18:37-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
