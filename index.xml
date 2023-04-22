@@ -563,6 +563,45 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Workshop on Filter Data Structures (SPAA 2023)</title>
+      <link>/workshop/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/workshop/</guid>
+      <description>&lt;p&gt;Filters, such as Bloom [1970], quotient [2009, 2012] and cuckoo filters [2014],
+maintain an approximate representation of a set or a multiset. Filters are
+widely used in networks, storage systems, databases, machine learning,
+computational biology, and other areas.&lt;/p&gt;
+&lt;p&gt;The primary goal of the workshop is to bring together the researchers who are at
+the forefront of filter data structure research and make the community (both
+theory and applications) aware of the recent developments. This will further
+help uncover the open research questions and increase interaction among
+researchers to tackle those questions.&lt;/p&gt;
+&lt;p&gt;Some topics that will be covered include recent advancements in the theory and
+practice of filters such as static filters, infinitely-resizeable filters,
+maplets, and adaptive filters. Furthermore, the workshop will include talks from
+the experts who use filters to build modern large-scale data analysis
+applications such as Filters+Bioinformatics and Filters+ML.&lt;/p&gt;
+&lt;p&gt;The workshop will take place on Friday, June 16th from 2–6pm. Please see the
+&lt;a href=&#34;https://spaa.acm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPAA site&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview of recent advances in filters&lt;/li&gt;
+&lt;li&gt;Application of filters in computational biology&lt;/li&gt;
+&lt;li&gt;Application of filters in machine learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Organized by: &lt;a href=&#34;https://prashantpandey.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prashant Pandey&lt;/a&gt; and &lt;a href=&#34;https://research.vmware.com/researchers/rob-johnson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob
+Johnson&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;schedule-and-speaker-list&#34;&gt;Schedule and Speaker List&lt;/h2&gt;
+&lt;p&gt;Coming soon!&lt;/p&gt;
+&lt;h2 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h2&gt;
+&lt;p&gt;Coming soon!&lt;/p&gt;
+&lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
+&lt;p&gt;The workshop follows the &lt;a href=&#34;https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Policy on Harassment and
+Discrimination&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index</title>
       <link>/talk/mantis-a-fast-small-and-exact-large-scale-sequence-search-index/</link>
       <pubDate>Sun, 22 Apr 2018 02:44:45 -0400</pubDate>
