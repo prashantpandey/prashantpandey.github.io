@@ -921,22 +921,47 @@ Lemire</a></li>
 Dayan</a></li>
 <li>3:15 – 3:45 — SplinterDB and Maplets, <a href="https://ajhconway.com/" target="_blank" rel="noopener">Alex Conway</a></li>
 <li>3:50 – 4:20 — Break</li>
-<li>4:20 – 4:45 — Bloom Filters, Adaptivity, and the Dictionary Problem, <a href="http://dept.cs.williams.edu/~sam/index.html" target="_blank" rel="noopener">Sam
+<li>4:20 – 4:45 — Theory and Practice of Adaptive Filters, <a href="http://dept.cs.williams.edu/~sam/index.html" target="_blank" rel="noopener">Sam
 McCauley</a></li>
 <li>4:45 – 5:10 — Application of Filters in Computatioal Biology, <a href="https://combine-lab.github.io/" target="_blank" rel="noopener">Rob
 Patro</a></li>
 </ul>
 <h2 id="abstracts">Abstracts</h2>
 <p><strong>Title</strong>: Binary Fuse Filters: Fast and Tiny Immutable Filters (<em>Daniel Lemire</em>)</p>
-<p><strong>Abstract</strong>: Conventional Bloom filters provide fast approximate set membership while using
-little memory. Engineers use them to avoid expensive disk and network accesses.
-We recently introduced the binary fuse filters that are faster and smaller
-at query time while saving at least 30% in memory usage compared to the Bloom filters.
-The result is an immutable filter, and the construction is slightly slower (e.g., by 50%).</p>
-<p>We review some performance issues related to our binary fuse filters, but also to
-probabilistic filters in general: e.g., how does the query time performance scale with respect
-to the number of random accesses ? For network transmission, the filters are often compressed:
-how well do different filters compress ?</p>
+<p><strong>Abstract</strong>: Conventional Bloom filters provide fast approximate set membership
+while using little memory. Engineers use them to avoid expensive disk and
+network accesses.  We recently introduced the binary fuse filters that are
+faster and smaller at query time while saving at least 30% in memory usage
+compared to the Bloom filters.  The result is an immutable filter, and the
+construction is slightly slower (e.g., by 50%).</p>
+<p>We review some performance issues related to our binary fuse filters, but also
+to probabilistic filters in general: e.g., how does the query time performance
+scale with respect to the number of random accesses ? For network transmission,
+the filters are often compressed: how well do different filters compress ?</p>
+<p><strong>Title</strong>: InfiniFilter: Expanding Filters to Infinity and Beyond (<em>Niv Dayan</em>)</p>
+<p><strong>Abstract</strong>: Filter data structures have been used ubiquitously since the
+1970s to answer approximate set-membership queries in various areas of computer
+science including architecture, networks, operating systems, and databases. Such
+filters need to be allocated with a given capacity in advance to provide a
+guarantee over the false positive rate. In many applications, however, the data
+size is not known in advance, requiring filters to dynamically expand.  This
+paper shows that  existing methods for expanding filters exhibit at least one of
+the following flaws: (1) they entail an expensive scan over the whole data set,
+(2) they require a lavish memory footprint, (3) their query, delete and/or
+insertion performance plummets, (4) their false positive rate skyrockets, and/or
+(5)~they cannot expand indefinitely.</p>
+<p>We introduce InfiniFilter, a new method for expanding filters that addresses
+these shortcomings. InfiniFilter is a hash table that stores a fingerprint for
+each entry. It doubles in size when it reaches capacity, and it sacrifices one
+bit from each fingerprint to map it to the expanded hash table. The core novelty
+is a new and flexible hash slot format that sets longer fingerprints to newer
+entries. This keeps the average fingerprint length long and thus the false
+positive rate stable. At the same time, InfiniFilter provides stable
+insertion/query/delete performance as it is comprised of a unified hash table.
+We implement InfiniFilter on top of Quotient Filter, and we demonstrate
+theoretically and empirically that it offers superior cost properties compared
+to  existing methods: it better scales performance, the false positive rate, and
+the memory footprint, all at the same time.</p>
 <p><strong>Title</strong>: SplinterDB and Maplets: Improving the Tradeoffs in Key-Value Store
 Compaction Policy (<em>Alex Conway</em>)</p>
 <p><strong>Abstract</strong>: A maplet is a fundamental data structure, which extends the notion of
@@ -947,6 +972,21 @@ SplinterDB, an enterprise-grade key-value store deployed in VMware products.
 Maplets allow SplinterDB to compact data lazily, which improves write
 performance, while compacting maplets aggressively, which improves read
 performance.</p>
+<p><strong>Title</strong>: Theory and Practice of Adaptive Filters (<em>Sam McCauley</em>)</p>
+<p><strong>Abstract</strong>: Classic filter analysis gives the error performance on a single
+query.  If there is a false positive error on one element, then repeated queries
+to that element will always result in a false positive.  This leads to several
+issues.  First, this means that an adversary can repeat false positive queries,
+leading to arbitrarily poor filter performance; this is a problem from a
+security standpoint.  Second, the single-query analysis leaves performance on
+the table due to repeated queries. Many practical datasets have elements that
+are queried many times; reducing the false positive rate on these repeated
+queries can lead to improved performance.</p>
+<p>In this talk I will discuss several recent data structures that close this gap,
+fixing false positives so that subsequent queries to these fixed elements are
+guaranteed to be answered correctly.  We will look at upper and lower bounds
+from a theoretical standpoint, as well as discussing opportunities to make these
+theoretical ideas implementable in practice.</p>
 <h2 id="code-of-conduct">Code of Conduct</h2>
 <p>The workshop follows the <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener">ACM Policy on Harassment and
 Discrimination</a>.</p>

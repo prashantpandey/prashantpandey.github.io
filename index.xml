@@ -600,22 +600,47 @@ Lemire&lt;/a&gt;&lt;/li&gt;
 Dayan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;3:15 – 3:45 — SplinterDB and Maplets, &lt;a href=&#34;https://ajhconway.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Conway&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;3:50 – 4:20 — Break&lt;/li&gt;
-&lt;li&gt;4:20 – 4:45 — Bloom Filters, Adaptivity, and the Dictionary Problem, &lt;a href=&#34;http://dept.cs.williams.edu/~sam/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sam
+&lt;li&gt;4:20 – 4:45 — Theory and Practice of Adaptive Filters, &lt;a href=&#34;http://dept.cs.williams.edu/~sam/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sam
 McCauley&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;4:45 – 5:10 — Application of Filters in Computatioal Biology, &lt;a href=&#34;https://combine-lab.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob
 Patro&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Binary Fuse Filters: Fast and Tiny Immutable Filters (&lt;em&gt;Daniel Lemire&lt;/em&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Conventional Bloom filters provide fast approximate set membership while using
-little memory. Engineers use them to avoid expensive disk and network accesses.
-We recently introduced the binary fuse filters that are faster and smaller
-at query time while saving at least 30% in memory usage compared to the Bloom filters.
-The result is an immutable filter, and the construction is slightly slower (e.g., by 50%).&lt;/p&gt;
-&lt;p&gt;We review some performance issues related to our binary fuse filters, but also to
-probabilistic filters in general: e.g., how does the query time performance scale with respect
-to the number of random accesses ? For network transmission, the filters are often compressed:
-how well do different filters compress ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Conventional Bloom filters provide fast approximate set membership
+while using little memory. Engineers use them to avoid expensive disk and
+network accesses.  We recently introduced the binary fuse filters that are
+faster and smaller at query time while saving at least 30% in memory usage
+compared to the Bloom filters.  The result is an immutable filter, and the
+construction is slightly slower (e.g., by 50%).&lt;/p&gt;
+&lt;p&gt;We review some performance issues related to our binary fuse filters, but also
+to probabilistic filters in general: e.g., how does the query time performance
+scale with respect to the number of random accesses ? For network transmission,
+the filters are often compressed: how well do different filters compress ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: InfiniFilter: Expanding Filters to Infinity and Beyond (&lt;em&gt;Niv Dayan&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Filter data structures have been used ubiquitously since the
+1970s to answer approximate set-membership queries in various areas of computer
+science including architecture, networks, operating systems, and databases. Such
+filters need to be allocated with a given capacity in advance to provide a
+guarantee over the false positive rate. In many applications, however, the data
+size is not known in advance, requiring filters to dynamically expand.  This
+paper shows that  existing methods for expanding filters exhibit at least one of
+the following flaws: (1) they entail an expensive scan over the whole data set,
+(2) they require a lavish memory footprint, (3) their query, delete and/or
+insertion performance plummets, (4) their false positive rate skyrockets, and/or
+(5)~they cannot expand indefinitely.&lt;/p&gt;
+&lt;p&gt;We introduce InfiniFilter, a new method for expanding filters that addresses
+these shortcomings. InfiniFilter is a hash table that stores a fingerprint for
+each entry. It doubles in size when it reaches capacity, and it sacrifices one
+bit from each fingerprint to map it to the expanded hash table. The core novelty
+is a new and flexible hash slot format that sets longer fingerprints to newer
+entries. This keeps the average fingerprint length long and thus the false
+positive rate stable. At the same time, InfiniFilter provides stable
+insertion/query/delete performance as it is comprised of a unified hash table.
+We implement InfiniFilter on top of Quotient Filter, and we demonstrate
+theoretically and empirically that it offers superior cost properties compared
+to  existing methods: it better scales performance, the false positive rate, and
+the memory footprint, all at the same time.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: SplinterDB and Maplets: Improving the Tradeoffs in Key-Value Store
 Compaction Policy (&lt;em&gt;Alex Conway&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: A maplet is a fundamental data structure, which extends the notion of
@@ -626,6 +651,21 @@ SplinterDB, an enterprise-grade key-value store deployed in VMware products.
 Maplets allow SplinterDB to compact data lazily, which improves write
 performance, while compacting maplets aggressively, which improves read
 performance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Theory and Practice of Adaptive Filters (&lt;em&gt;Sam McCauley&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Classic filter analysis gives the error performance on a single
+query.  If there is a false positive error on one element, then repeated queries
+to that element will always result in a false positive.  This leads to several
+issues.  First, this means that an adversary can repeat false positive queries,
+leading to arbitrarily poor filter performance; this is a problem from a
+security standpoint.  Second, the single-query analysis leaves performance on
+the table due to repeated queries. Many practical datasets have elements that
+are queried many times; reducing the false positive rate on these repeated
+queries can lead to improved performance.&lt;/p&gt;
+&lt;p&gt;In this talk I will discuss several recent data structures that close this gap,
+fixing false positives so that subsequent queries to these fixed elements are
+guaranteed to be answered correctly.  We will look at upper and lower bounds
+from a theoretical standpoint, as well as discussing opportunities to make these
+theoretical ideas implementable in practice.&lt;/p&gt;
 &lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
 &lt;p&gt;The workshop follows the &lt;a href=&#34;https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Policy on Harassment and
 Discrimination&lt;/a&gt;.&lt;/p&gt;
