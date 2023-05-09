@@ -592,9 +592,40 @@ applications such as Filters+Bioinformatics and Filters+ML.&lt;/p&gt;
 &lt;p&gt;Organized by: &lt;a href=&#34;https://prashantpandey.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prashant Pandey&lt;/a&gt; and &lt;a href=&#34;https://research.vmware.com/researchers/rob-johnson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob
 Johnson&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule-and-speaker-list&#34;&gt;Schedule and Speaker List&lt;/h2&gt;
-&lt;p&gt;Coming soon!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2:00 –2:25  — Introduction&lt;/li&gt;
+&lt;li&gt;2:25 –2:50  — Binary Fuse Filters: Fast and Tiny Immutable Filters, &lt;a href=&#34;https://lemire.me/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel
+Lemire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2:50 – 3:15 — InfiniFilter: Expanding Filters to Infinity and Beyond, &lt;a href=&#34;https://www.nivdayan.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niv
+Dayan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;3:15 – 3:45 — SplinterDB and Maplets, &lt;a href=&#34;https://ajhconway.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Conway&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;3:50 – 4:20 — Break&lt;/li&gt;
+&lt;li&gt;4:20 – 4:45 — Bloom Filters, Adaptivity, and the Dictionary Problem, &lt;a href=&#34;http://dept.cs.williams.edu/~sam/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sam
+McCauley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;4:45 – 5:10 — Application of Filters in Computatioal Biology, &lt;a href=&#34;https://combine-lab.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob
+Patro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h2&gt;
-&lt;p&gt;Coming soon!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Binary Fuse Filters: Fast and Tiny Immutable Filters (&lt;em&gt;Daniel Lemire&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Conventional Bloom filters provide fast approximate set membership while using
+little memory. Engineers use them to avoid expensive disk and network accesses.
+We recently introduced the binary fuse filters that are faster and smaller
+at query time while saving at least 30% in memory usage compared to the Bloom filters.
+The result is an immutable filter, and the construction is slightly slower (e.g., by 50%).&lt;/p&gt;
+&lt;p&gt;We review some performance issues related to our binary fuse filters, but also to
+probabilistic filters in general: e.g., how does the query time performance scale with respect
+to the number of random accesses ? For network transmission, the filters are often compressed:
+how well do different filters compress ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: SplinterDB and Maplets: Improving the Tradeoffs in Key-Value Store
+Compaction Policy (&lt;em&gt;Alex Conway&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: A maplet is a fundamental data structure, which extends the notion of
+a filter to include values. It turns out that many applications which rely on
+filters are better served using maplets. In this talk, I&amp;rsquo;ll show how maplets can
+be used to improve the tradeoffs in LSM-based key-value stores, such as
+SplinterDB, an enterprise-grade key-value store deployed in VMware products.
+Maplets allow SplinterDB to compact data lazily, which improves write
+performance, while compacting maplets aggressively, which improves read
+performance.&lt;/p&gt;
 &lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
 &lt;p&gt;The workshop follows the &lt;a href=&#34;https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Policy on Harassment and
 Discrimination&lt;/a&gt;.&lt;/p&gt;

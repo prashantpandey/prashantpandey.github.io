@@ -913,9 +913,40 @@ applications such as Filters+Bioinformatics and Filters+ML.</p>
 <p>Organized by: <a href="https://prashantpandey.github.io/" target="_blank" rel="noopener">Prashant Pandey</a> and <a href="https://research.vmware.com/researchers/rob-johnson" target="_blank" rel="noopener">Rob
 Johnson</a></p>
 <h2 id="schedule-and-speaker-list">Schedule and Speaker List</h2>
-<p>Coming soon!</p>
+<ul>
+<li>2:00 –2:25  — Introduction</li>
+<li>2:25 –2:50  — Binary Fuse Filters: Fast and Tiny Immutable Filters, <a href="https://lemire.me/en/" target="_blank" rel="noopener">Daniel
+Lemire</a></li>
+<li>2:50 – 3:15 — InfiniFilter: Expanding Filters to Infinity and Beyond, <a href="https://www.nivdayan.net/" target="_blank" rel="noopener">Niv
+Dayan</a></li>
+<li>3:15 – 3:45 — SplinterDB and Maplets, <a href="https://ajhconway.com/" target="_blank" rel="noopener">Alex Conway</a></li>
+<li>3:50 – 4:20 — Break</li>
+<li>4:20 – 4:45 — Bloom Filters, Adaptivity, and the Dictionary Problem, <a href="http://dept.cs.williams.edu/~sam/index.html" target="_blank" rel="noopener">Sam
+McCauley</a></li>
+<li>4:45 – 5:10 — Application of Filters in Computatioal Biology, <a href="https://combine-lab.github.io/" target="_blank" rel="noopener">Rob
+Patro</a></li>
+</ul>
 <h2 id="abstracts">Abstracts</h2>
-<p>Coming soon!</p>
+<p><strong>Title</strong>: Binary Fuse Filters: Fast and Tiny Immutable Filters (<em>Daniel Lemire</em>)</p>
+<p><strong>Abstract</strong>: Conventional Bloom filters provide fast approximate set membership while using
+little memory. Engineers use them to avoid expensive disk and network accesses.
+We recently introduced the binary fuse filters that are faster and smaller
+at query time while saving at least 30% in memory usage compared to the Bloom filters.
+The result is an immutable filter, and the construction is slightly slower (e.g., by 50%).</p>
+<p>We review some performance issues related to our binary fuse filters, but also to
+probabilistic filters in general: e.g., how does the query time performance scale with respect
+to the number of random accesses ? For network transmission, the filters are often compressed:
+how well do different filters compress ?</p>
+<p><strong>Title</strong>: SplinterDB and Maplets: Improving the Tradeoffs in Key-Value Store
+Compaction Policy (<em>Alex Conway</em>)</p>
+<p><strong>Abstract</strong>: A maplet is a fundamental data structure, which extends the notion of
+a filter to include values. It turns out that many applications which rely on
+filters are better served using maplets. In this talk, I&rsquo;ll show how maplets can
+be used to improve the tradeoffs in LSM-based key-value stores, such as
+SplinterDB, an enterprise-grade key-value store deployed in VMware products.
+Maplets allow SplinterDB to compact data lazily, which improves write
+performance, while compacting maplets aggressively, which improves read
+performance.</p>
 <h2 id="code-of-conduct">Code of Conduct</h2>
 <p>The workshop follows the <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener">ACM Policy on Harassment and
 Discrimination</a>.</p>
