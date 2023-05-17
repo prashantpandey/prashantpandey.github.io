@@ -593,8 +593,9 @@ applications such as Filters+Bioinformatics and Filters+ML.&lt;/p&gt;
 Johnson&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule-and-speaker-list&#34;&gt;Schedule and Speaker List&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;2:00 –2:25  — Introduction&lt;/li&gt;
-&lt;li&gt;2:25 –2:50  — Binary Fuse Filters: Fast and Tiny Immutable Filters, &lt;a href=&#34;https://lemire.me/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel
+&lt;li&gt;2:00 – 2:25 — Introduction to Filters, &lt;a href=&#34;https://www3.cs.stonybrook.edu/~bender/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael
+Bender&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2:25 – 2:50 — Binary Fuse Filters: Fast and Tiny Immutable Filters, &lt;a href=&#34;https://lemire.me/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel
 Lemire&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;2:50 – 3:15 — InfiniFilter: Expanding Filters to Infinity and Beyond, &lt;a href=&#34;https://www.nivdayan.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niv
 Dayan&lt;/a&gt;&lt;/li&gt;
@@ -604,6 +605,8 @@ Dayan&lt;/a&gt;&lt;/li&gt;
 McCauley&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;4:35 – 5:00 — Application of Filters in Computatioal Biology, &lt;a href=&#34;https://combine-lab.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob
 Patro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;5:00 – 5:25 — High-Performance Filters for GPUs, &lt;a href=&#34;https://prashantpandey.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prashant
+Pandey&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Binary Fuse Filters: Fast and Tiny Immutable Filters (&lt;em&gt;Daniel Lemire&lt;/em&gt;)&lt;/p&gt;
@@ -666,6 +669,26 @@ fixing false positives so that subsequent queries to these fixed elements are
 guaranteed to be answered correctly.  We will look at upper and lower bounds
 from a theoretical standpoint, as well as discussing opportunities to make these
 theoretical ideas implementable in practice.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: High-Performance Filters for GPUs (&lt;em&gt;Prashant Pandey&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Filters approximately store a set of items while trading off
+accuracy for space-efficiency and can address the limited
+memory on accelerators, such as GPUs. However, there is a
+lack of high-performance and feature-rich GPU filters as most
+advancements in filter research has focused on CPUs.&lt;/p&gt;
+&lt;p&gt;In this talk, we explore the design space of filters with a goal to develop
+massively parallel, high performance, and feature rich filters for GPUs. We
+evaluate various filter designs in terms of performance, usability, and
+supported features and identify two filter designs that offer the right trade
+off in terms of performance, features, and usability.
+We present two new GPU-based filters, the TCF and GQF, that can be employed in
+various high performance data analytics applications. The TCF is a set
+membership filter and supports faster inserts and queries, whereas the GQF
+supports counting which comes at an additional performance cost. Both the GQF
+and TCF provide point and bulk insertion API and are designed to exploit the
+massive parallelism in the GPU without sacrificing usability and necessary
+features. The TCF and GQF are up to 4.4× and 1.4× faster than the previous GPU
+filters in our benchmarks and at the same time overcome the fundamental
+constraints in performance and usability in current GPU filters.&lt;/p&gt;
 &lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
 &lt;p&gt;The workshop follows the &lt;a href=&#34;https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Policy on Harassment and
 Discrimination&lt;/a&gt;.&lt;/p&gt;

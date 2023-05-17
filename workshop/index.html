@@ -914,8 +914,9 @@ applications such as Filters+Bioinformatics and Filters+ML.</p>
 Johnson</a></p>
 <h2 id="schedule-and-speaker-list">Schedule and Speaker List</h2>
 <ul>
-<li>2:00 –2:25  — Introduction</li>
-<li>2:25 –2:50  — Binary Fuse Filters: Fast and Tiny Immutable Filters, <a href="https://lemire.me/en/" target="_blank" rel="noopener">Daniel
+<li>2:00 – 2:25 — Introduction to Filters, <a href="https://www3.cs.stonybrook.edu/~bender/" target="_blank" rel="noopener">Michael
+Bender</a></li>
+<li>2:25 – 2:50 — Binary Fuse Filters: Fast and Tiny Immutable Filters, <a href="https://lemire.me/en/" target="_blank" rel="noopener">Daniel
 Lemire</a></li>
 <li>2:50 – 3:15 — InfiniFilter: Expanding Filters to Infinity and Beyond, <a href="https://www.nivdayan.net/" target="_blank" rel="noopener">Niv
 Dayan</a></li>
@@ -925,6 +926,8 @@ Dayan</a></li>
 McCauley</a></li>
 <li>4:35 – 5:00 — Application of Filters in Computatioal Biology, <a href="https://combine-lab.github.io/" target="_blank" rel="noopener">Rob
 Patro</a></li>
+<li>5:00 – 5:25 — High-Performance Filters for GPUs, <a href="https://prashantpandey.github.io/" target="_blank" rel="noopener">Prashant
+Pandey</a></li>
 </ul>
 <h2 id="abstracts">Abstracts</h2>
 <p><strong>Title</strong>: Binary Fuse Filters: Fast and Tiny Immutable Filters (<em>Daniel Lemire</em>)</p>
@@ -987,6 +990,26 @@ fixing false positives so that subsequent queries to these fixed elements are
 guaranteed to be answered correctly.  We will look at upper and lower bounds
 from a theoretical standpoint, as well as discussing opportunities to make these
 theoretical ideas implementable in practice.</p>
+<p><strong>Title</strong>: High-Performance Filters for GPUs (<em>Prashant Pandey</em>)</p>
+<p><strong>Abstract</strong>: Filters approximately store a set of items while trading off
+accuracy for space-efficiency and can address the limited
+memory on accelerators, such as GPUs. However, there is a
+lack of high-performance and feature-rich GPU filters as most
+advancements in filter research has focused on CPUs.</p>
+<p>In this talk, we explore the design space of filters with a goal to develop
+massively parallel, high performance, and feature rich filters for GPUs. We
+evaluate various filter designs in terms of performance, usability, and
+supported features and identify two filter designs that offer the right trade
+off in terms of performance, features, and usability.
+We present two new GPU-based filters, the TCF and GQF, that can be employed in
+various high performance data analytics applications. The TCF is a set
+membership filter and supports faster inserts and queries, whereas the GQF
+supports counting which comes at an additional performance cost. Both the GQF
+and TCF provide point and bulk insertion API and are designed to exploit the
+massive parallelism in the GPU without sacrificing usability and necessary
+features. The TCF and GQF are up to 4.4× and 1.4× faster than the previous GPU
+filters in our benchmarks and at the same time overcome the fundamental
+constraints in performance and usability in current GPU filters.</p>
 <h2 id="code-of-conduct">Code of Conduct</h2>
 <p>The workshop follows the <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment" target="_blank" rel="noopener">ACM Policy on Harassment and
 Discrimination</a>.</p>
