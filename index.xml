@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Prashant Pandey</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Mar 2023 23:37:08 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 08:53:37 -0600</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Prashant Pandey</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees</title>
+      <link>/publication/vldb23/</link>
+      <pubDate>Fri, 19 May 2023 08:53:37 -0600</pubDate>
+      <guid>/publication/vldb23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IcebergHT: High Performance PMEM Hash Tables Through Stability and Low Associativity</title>
@@ -593,7 +601,7 @@ applications such as Filters+Bioinformatics and Filters+ML.&lt;/p&gt;
 Johnson&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;schedule-and-speaker-list&#34;&gt;Schedule and Speaker List&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;2:00 – 2:25 — Introduction to Filters, &lt;a href=&#34;https://www3.cs.stonybrook.edu/~bender/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael
+&lt;li&gt;2:00 – 2:25 — Welcome to Filters, &lt;a href=&#34;https://www3.cs.stonybrook.edu/~bender/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael
 Bender&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;2:25 – 2:50 — Binary Fuse Filters: Fast and Tiny Immutable Filters, &lt;a href=&#34;https://lemire.me/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel
 Lemire&lt;/a&gt;&lt;/li&gt;
@@ -609,6 +617,11 @@ Patro&lt;/a&gt;&lt;/li&gt;
 Pandey&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Welcome to Filters (&lt;em&gt;Michael Bender&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: In this talk, I&amp;rsquo;ll present the basic definitions for Filters and
+Maplets, including the different set of operations they support and their
+evaluation criteria.  I’ll cover the state of the art and some important
+historical developments.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Binary Fuse Filters: Fast and Tiny Immutable Filters (&lt;em&gt;Daniel Lemire&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Conventional Bloom filters provide fast approximate set membership
 while using little memory. Engineers use them to avoid expensive disk and
