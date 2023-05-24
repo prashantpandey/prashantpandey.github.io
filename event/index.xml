@@ -5,12 +5,36 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Sep 2022 23:50:06 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jun 2023 09:28:28 -0600</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>IcebergHT: High Performance Hash Tables Through Stability and Low Associativity</title>
+      <link>/talk/iceberght-high-performance-hash-tables-through-stability-and-low-associativity/</link>
+      <pubDate>Sat, 24 Jun 2023 09:28:28 -0600</pubDate>
+      <guid>/talk/iceberght-high-performance-hash-tables-through-stability-and-low-associativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Performance Filters for GPUs</title>
+      <link>/talk/high-performance-filters-for-gpus/</link>
+      <pubDate>Sat, 24 Jun 2023 09:26:20 -0600</pubDate>
+      <guid>/talk/high-performance-filters-for-gpus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IcebergHT: High Performance Hash Tables Through Stability and Low Associativity</title>
+      <link>/talk/iceberght-high-performance-hash-tables-through-stability-and-low-associativity/</link>
+      <pubDate>Fri, 24 Feb 2023 09:17:45 -0600</pubDate>
+      <guid>/talk/iceberght-high-performance-hash-tables-through-stability-and-low-associativity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Designing High-Performance and Feature Rich GPU Filters For Exascale Computing</title>

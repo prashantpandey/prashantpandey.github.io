@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Prashant Pandey</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 08:53:37 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jun 2023 09:28:28 -0600</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Prashant Pandey</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>IcebergHT: High Performance Hash Tables Through Stability and Low Associativity</title>
+      <link>/talk/iceberght-high-performance-hash-tables-through-stability-and-low-associativity/</link>
+      <pubDate>Sat, 24 Jun 2023 09:28:28 -0600</pubDate>
+      <guid>/talk/iceberght-high-performance-hash-tables-through-stability-and-low-associativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Performance Filters for GPUs</title>
+      <link>/talk/high-performance-filters-for-gpus/</link>
+      <pubDate>Sat, 24 Jun 2023 09:26:20 -0600</pubDate>
+      <guid>/talk/high-performance-filters-for-gpus/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees</title>
@@ -49,6 +65,14 @@
       <link>/publication/ipdps23/</link>
       <pubDate>Sun, 26 Feb 2023 08:42:39 -0700</pubDate>
       <guid>/publication/ipdps23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IcebergHT: High Performance Hash Tables Through Stability and Low Associativity</title>
+      <link>/talk/iceberght-high-performance-hash-tables-through-stability-and-low-associativity/</link>
+      <pubDate>Fri, 24 Feb 2023 09:17:45 -0600</pubDate>
+      <guid>/talk/iceberght-high-performance-hash-tables-through-stability-and-low-associativity/</guid>
       <description></description>
     </item>
     
@@ -682,6 +706,20 @@ fixing false positives so that subsequent queries to these fixed elements are
 guaranteed to be answered correctly.  We will look at upper and lower bounds
 from a theoretical standpoint, as well as discussing opportunities to make these
 theoretical ideas implementable in practice.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: Breaking Bloom: The success of the Bloom filter in Bioinformatics, and
+how to move beyond it (&lt;em&gt;Rob Patro&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Despite the substantial and rapidly advancing development of filter
+data structures — providing both fundamentally new capabilities and improved
+practical performance — the Bloom filter still remains the most prevalent AMQ
+for many applications in Bioinformatics.  Why is this the case?  In this talk, I
+will highlight some of the most common uses of the AMQ ADT in Bioinformatics
+and Computational Biology applications. I will describe how the Bloom filter
+has been used, and how it has, in several cases, been specialized for the
+type of sequencing data that arises in high-throughput genomics.  I will
+attempt to identify ongoing challenges where filter data structures may
+prove instrumental, describe the properties that successful approaches to
+these problems might have, and argue that characteristics beyond those
+provided by the Bloom filter may be useful, or even essential.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt;: High-Performance Filters for GPUs (&lt;em&gt;Prashant Pandey&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Filters approximately store a set of items while trading off
 accuracy for space-efficiency and can address the limited
