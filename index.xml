@@ -5,12 +5,23 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Prashant Pandey</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jun 2023 09:28:28 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 10:23:43 -0600</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Prashant Pandey</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>In Memory Indexes</title>
+      <link>/project/inmemoryindexes/</link>
+      <pubDate>Fri, 30 Jun 2023 10:23:43 -0600</pubDate>
+      <guid>/project/inmemoryindexes/</guid>
+      <description>&lt;p&gt;Modern in-memory indexes such as hash tables and B-trees have been critical for building high-performance data systems over the past few decades. However, given the rapid rise in data sizes and changing hardware we need to rethink the designs of these traditional data structures to keep up with the challenges.
+For example, hash tables strive to minimize space while maximizing speed. The most important factor in speed is the number of cache lines accessed during updates and queries. This is especially important on PMEM, which is slower than DRAM and in which writes are more expensive than reads.
+Similarly, B-trees are the go-to data structure for in-memory indexes in storage systems and databases. B-trees support both point operations (i.e., inserts and finds) and range operations (i.e., iterators and maps). However, there is an inherent tradeoff between point and range operations since the optimal node size for point operations is much smaller than the optimal node size for range operations. Existing implementations use a relatively small node size in all nodes of the tree to achieve fast point operations at the cost of range operation throughput.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IcebergHT: High Performance Hash Tables Through Stability and Low Associativity</title>
@@ -592,6 +603,63 @@ $$&lt;/p&gt;
       <pubDate>Wed, 18 Jul 2018 00:37:03 -0400</pubDate>
       <guid>/publication/recomb18/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Service</title>
+      <link>/service/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/service/</guid>
+      <description>&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PC: SIGMOD 2024, PPoPP 2024&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Organizer: &lt;a href=&#34;../workshop/&#34;&gt;Workshop of Filter Data Structures (SPAA 2023)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PC: ESA 2023, IEEE BigData 2023, HOPC (SPAA) 2023&lt;/li&gt;
+&lt;li&gt;PC: VLDB 2023, SIGMOD ARC 2023, SPAA 2023, IPDPS 2023&lt;/li&gt;
+&lt;li&gt;External Reviewer: SODA 2023, SC 2023&lt;/li&gt;
+&lt;li&gt;Journal of Computational Biology (2023)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PC: IEEE BigData 2022, ACM BCB 2022, APOCS 2022, IPDPS 2022&lt;/li&gt;
+&lt;li&gt;External Reviewer: FAST 2022&lt;/li&gt;
+&lt;li&gt;Oxford BIOINFORMATICS (2022)&lt;/li&gt;
+&lt;li&gt;Journal of Computational Biology (2022)&lt;/li&gt;
+&lt;li&gt;Transactions on Knowledge and Data Engineering (TKDE) (2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PC: ACDA 2021, RECOMB-Seq 2021, IPDPS 2021, ALENEX 2021&lt;/li&gt;
+&lt;li&gt;Subreviewer: ISMB 2021, STACS 2021, HPEC 2021&lt;/li&gt;
+&lt;li&gt;Session Chair: ALENEX 2021&lt;/li&gt;
+&lt;li&gt;Journal of Computational Biology (2021)&lt;/li&gt;
+&lt;li&gt;Transactions on Knowledge and Data Engineering (TKDE) (2021)&lt;/li&gt;
+&lt;li&gt;IEEE Access (2021)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PC: EUROPAR 2020, RECOMB-Seq 2020&lt;/li&gt;
+&lt;li&gt;Subreviewer: RECOMB 2020&lt;/li&gt;
+&lt;li&gt;Oxford BIOINFORMATICS (2020)&lt;/li&gt;
+&lt;li&gt;Transactions on Parallel and Distributed Systems (TPDS) (2020)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2019&#34;&gt;2019&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PC: ESA 2019&lt;/li&gt;
+&lt;li&gt;Subreviewer: WABI 2019, CIAC 2019&lt;/li&gt;
+&lt;li&gt;IEEE Access (2019)&lt;/li&gt;
+&lt;li&gt;Oxford BIOINFORMATICS (2019)&lt;/li&gt;
+&lt;li&gt;Journal of Experimental Algorithms (JEA) (2019)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2018&#34;&gt;2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Oxford BIOINFORMATICS (2018)&lt;/li&gt;
+&lt;li&gt;Transactions on Databases (TODS) (2018)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>

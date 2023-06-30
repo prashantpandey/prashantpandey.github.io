@@ -5,12 +5,23 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 13:18:37 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 10:23:43 -0600</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>In Memory Indexes</title>
+      <link>/project/inmemoryindexes/</link>
+      <pubDate>Fri, 30 Jun 2023 10:23:43 -0600</pubDate>
+      <guid>/project/inmemoryindexes/</guid>
+      <description>&lt;p&gt;Modern in-memory indexes such as hash tables and B-trees have been critical for building high-performance data systems over the past few decades. However, given the rapid rise in data sizes and changing hardware we need to rethink the designs of these traditional data structures to keep up with the challenges.
+For example, hash tables strive to minimize space while maximizing speed. The most important factor in speed is the number of cache lines accessed during updates and queries. This is especially important on PMEM, which is slower than DRAM and in which writes are more expensive than reads.
+Similarly, B-trees are the go-to data structure for in-memory indexes in storage systems and databases. B-trees support both point operations (i.e., inserts and finds) and range operations (i.e., iterators and maps). However, there is an inherent tradeoff between point and range operations since the optimal node size for point operations is much smaller than the optimal node size for range operations. Existing implementations use a relatively small node size in all nodes of the tree to achieve fast point operations at the cost of range operation throughput.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Streaming</title>
