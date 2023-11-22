@@ -20,7 +20,11 @@
   <url>
     <loc>/project/gpu/</loc><lastmod>2023-11-17T19:31:15-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/tag/data-structure/</loc><lastmod>2023-11-17T19:31:15-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/project/</loc><lastmod>2023-11-17T19:31:15-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tags/</loc><lastmod>2023-11-17T19:31:15-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/inmemoryindexes/</loc><lastmod>2023-06-30T10:23:43-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -50,17 +54,15 @@
   <url>
     <loc>/project/streaming/</loc><lastmod>2022-06-03T13:18:37-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tag/graphs/</loc><lastmod>2022-06-01T20:54:24-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/tags/</loc><lastmod>2022-06-01T20:54:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/tag/stream-processing/</loc><lastmod>2022-06-03T13:18:37-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/graphs/</loc><lastmod>2022-06-01T20:54:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/graphs/</loc><lastmod>2022-06-01T20:54:24-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/comp-bio/</loc><lastmod>2022-06-01T20:49:06-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/comp-bio/</loc><lastmod>2022-06-01T20:49:06-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/tag/data-structure/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/filter/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>GPUs</title>
+      <title>A Compact, Dynamic, and Distributed GPU Data Structure Library</title>
       <link>/project/gpu/</link>
       <pubDate>Fri, 17 Nov 2023 19:31:15 -0700</pubDate>
       <guid>/project/gpu/</guid>
@@ -37,14 +37,11 @@
     </item>
     
     <item>
-      <title>In Memory Indexes</title>
+      <title>Fast and Space-Efficient In-Memory Indexes (Hash Tables, B-trees)</title>
       <link>/project/inmemoryindexes/</link>
       <pubDate>Fri, 30 Jun 2023 10:23:43 -0600</pubDate>
       <guid>/project/inmemoryindexes/</guid>
-      <description>&lt;p&gt;Modern in-memory indexes such as hash tables and B-trees have been critical for building high-performance data systems over the past few decades. However, given the rapid rise in data sizes and changing hardware we need to rethink the designs of these traditional data structures to keep up with the challenges.
-For example, hash tables strive to minimize space while maximizing speed. The most important factor in speed is the number of cache lines accessed during updates and queries. This is especially important on PMEM, which is slower than DRAM and in which writes are more expensive than reads.
-Similarly, B-trees are the go-to data structure for in-memory indexes in storage systems and databases. B-trees support both point operations (i.e., inserts and finds) and range operations (i.e., iterators and maps). However, there is an inherent tradeoff between point and range operations since the optimal node size for point operations is much smaller than the optimal node size for range operations. Existing implementations use a relatively small node size in all nodes of the tree to achieve fast point operations at the cost of range operation throughput.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -144,7 +141,7 @@ Similarly, B-trees are the go-to data structure for in-memory indexes in storage
     </item>
     
     <item>
-      <title>Streaming</title>
+      <title>Scalable and Real-Time Stream Monitoring using External Memnory</title>
       <link>/project/streaming/</link>
       <pubDate>Fri, 03 Jun 2022 13:18:37 -0700</pubDate>
       <guid>/project/streaming/</guid>
@@ -152,7 +149,7 @@ Similarly, B-trees are the go-to data structure for in-memory indexes in storage
     </item>
     
     <item>
-      <title>Terrace</title>
+      <title>A Comprehensive Dynamic-Graph System for Modern Applications</title>
       <link>/project/graphs/</link>
       <pubDate>Wed, 01 Jun 2022 20:54:24 -0700</pubDate>
       <guid>/project/graphs/</guid>
@@ -160,7 +157,7 @@ Similarly, B-trees are the go-to data structure for in-memory indexes in storage
     </item>
     
     <item>
-      <title>Indexing whole SRA</title>
+      <title>Scalable, Real-Time, and Information-Rich Sequence Search Over SRA</title>
       <link>/project/comp-bio/</link>
       <pubDate>Wed, 01 Jun 2022 20:49:06 -0700</pubDate>
       <guid>/project/comp-bio/</guid>
@@ -168,21 +165,11 @@ Similarly, B-trees are the go-to data structure for in-memory indexes in storage
     </item>
     
     <item>
-      <title>Filters</title>
+      <title>High-performance Filters for Modern Hardware (GPUs) and Workloads (Adaptive).</title>
       <link>/project/filter/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/project/filter/</guid>
-      <description>&lt;p&gt;High performance data analytics problems often use
-filters to approximately store or count a set of items while trading
-off accuracy for space-efficiency. Filters can also address the limited
-memory available on accelerators, such as GPUs. We present GQF, a
-feature-rich, GPU-optimized counting quotient filter, which provides
-both individual and bulk insertions, with different locking strategies
-to maximize performance and ensure correctness for each usage
-scenario. GQF has all the benefits of a standard counting quotient
-filter: good cache locality, high speed, and support for counting,
-deletions, and associating small values with items&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
