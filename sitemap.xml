@@ -4,15 +4,19 @@
   
   
   <url>
+    <loc>/publication-type/2/</loc><lastmod>2024-03-12T22:41:53-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/fast24/</loc><lastmod>2024-03-12T22:41:53-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/</loc><lastmod>2024-03-12T22:41:53-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication_types/</loc><lastmod>2024-03-12T22:41:53-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/</loc><lastmod>2024-03-12T22:41:53-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/publication-type/1/</loc><lastmod>2024-03-12T19:26:39-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/ppopp24/</loc><lastmod>2024-03-12T19:26:39-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/</loc><lastmod>2024-03-12T19:26:39-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication_types/</loc><lastmod>2024-03-12T19:26:39-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication/</loc><lastmod>2024-03-12T19:26:39-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/talk/bp-tree-overcoming-the-point-range-operation-tradeoff-for-in-memory-b-trees/</loc><lastmod>2023-11-17T19:35:35-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -69,8 +73,6 @@
     <loc>/talk/data-systems-at-scale-scaling-up-by-scaling-down-and-out/</loc><lastmod>2022-03-02T00:29:04-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/talk/time-to-change-your-filter/</loc><lastmod>2022-02-11T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication-type/2/</loc><lastmod>2022-01-25T10:09:25-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/cc22/</loc><lastmod>2022-01-25T10:09:25-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

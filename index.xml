@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Prashant Pandey</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 19:26:39 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 22:41:53 -0700</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Prashant Pandey</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>IONIA: Efficient Replication for SSD-based Write-Optimized KV Stores</title>
+      <link>/publication/fast24/</link>
+      <pubDate>Tue, 12 Mar 2024 22:41:53 -0700</pubDate>
+      <guid>/publication/fast24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gallatin: A General-Purpose GPU Memory Manager</title>
@@ -597,7 +605,11 @@ $$&lt;/p&gt;
       <link>/service/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>/service/</guid>
-      <description>&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PC: SIGMOD 2025, EDBT 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;PC: SIGMOD 2024, VLDB 2024, PPoPP 2024, IPDPS 2024&lt;/li&gt;
 &lt;li&gt;External Reviewer: SODA 2024&lt;/li&gt;
