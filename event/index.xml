@@ -5,12 +5,20 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Nov 2023 19:35:35 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jan 2024 11:46:08 -0700</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>Overview of Computational Biology Research in the Lab</title>
+      <link>/talk/overview-of-computational-biology-research-in-the-lab/</link>
+      <pubDate>Wed, 10 Jan 2024 11:46:08 -0700</pubDate>
+      <guid>/talk/overview-of-computational-biology-research-in-the-lab/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees</title>
