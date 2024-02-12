@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 22:41:53 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 10:10:58 -0700</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>IONIA: Efficient Replication for SSD-based Write-Optimized KV Stores</title>
+      <title>Beyond Bloom: A Tutorial on Future Feature-Rich Filters</title>
+      <link>/publication/sigmod24_tutorial/</link>
+      <pubDate>Wed, 12 Jun 2024 10:10:58 -0700</pubDate>
+      <guid>/publication/sigmod24_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IONIA: High-Performance Replication for Modern Disk-based KV Stores</title>
       <link>/publication/fast24/</link>
       <pubDate>Tue, 12 Mar 2024 22:41:53 -0700</pubDate>
       <guid>/publication/fast24/</guid>
