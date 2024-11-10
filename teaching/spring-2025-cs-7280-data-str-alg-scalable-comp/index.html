@@ -1,0 +1,1702 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Prashant Pandey" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Lectures: MoWe / 02:50AM-04:30PM ET at WVH 366
+Instructor: Prashant Pandey
+Email: p.pandey [at] northeastern.edu Office Hours: MoWe / 01:30PM-02:30PM ET Teaching Assistant: TBD
+Email: Office Hours: We will use Piazza for all Q&amp;A: TBD" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#3f51b5" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.3c70c7493e1af19a6b56a99323c6a4ff.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KFGREFB3G2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-KFGREFB3G2', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="Prashant Pandey" />
+  <meta property="og:url" content="/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/" />
+  <meta property="og:title" content="Spring 2025: CS 7280 Data Str &amp; Alg Scalable Comp | Prashant Pandey" />
+  <meta property="og:description" content="Lectures: MoWe / 02:50AM-04:30PM ET at WVH 366
+Instructor: Prashant Pandey
+Email: p.pandey [at] northeastern.edu Office Hours: MoWe / 01:30PM-02:30PM ET Teaching Assistant: TBD
+Email: Office Hours: We will use Piazza for all Q&amp;A: TBD" /><meta property="og:image" content="/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2024-11-09T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2024-11-09T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+
+  <title>Spring 2025: CS 7280 Data Str &amp; Alg Scalable Comp | Prashant Pandey</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="06296f555d7352c2164925dce013375f" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.14a0ed61c6dbd594b9c75193b25be179.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Prashant Pandey</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Prashant Pandey</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#media"><span>Awards</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#students"><span>Students</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/service/"><span>Service</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Spring 2025: CS 7280 Data Str &amp; Alg Scalable Comp</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 9, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p><strong>Lectures</strong>: MoWe / 02:50AM-04:30PM ET at WVH 366</p>
+<p><strong>Instructor</strong>: <a href="http://prashantpandey.github.io" target="_blank" rel="noopener">Prashant Pandey</a></p>
+<ul>
+<li>Email: p.pandey [at] northeastern.edu</li>
+<li>Office Hours: MoWe / 01:30PM-02:30PM ET</li>
+</ul>
+<p><strong>Teaching Assistant</strong>: TBD</p>
+<ul>
+<li>Email:</li>
+<li>Office Hours:</li>
+</ul>
+<p><strong>We will use Piazza for all Q&amp;A</strong>: TBD</p>
+<p><a href="#schedule">Course Schedule</a></p>
+<h2 id="course-overview">Course Overview</h2>
+<p>This course studies advanced data structures and algorithms for handling scalability challenges in large-scale data analysis and machine learning pipelines. It will cover modern hashing techniques, filters and sketching algorithms, locality-sensitive hashing, succinct data structures, string algorithms, graph algorithms, external memory algorithms, and ML-based learned indexes. This course is appropriate for both undergraduate and graduate students with intermediate data structure and algorithm skills. The course will also require intermediate programming skills in C/C++.</p>
+<h3 id="prerequisites">Prerequisites</h3>
+<p>Official Prerequisites:</p>
+<ul>
+<li>For undergrads:
+<ul>
+<li>CS 3000 Algorithms</li>
+<li>CS 3500 Object-Oriented Design or DS 3500 Advanced Programming with Data</li>
+</ul>
+</li>
+<li>For grads: CS 6150 (Grad algorithms)</li>
+</ul>
+<h3 id="course-topics">Course Topics</h3>
+<ul>
+<li>Compact trees</li>
+<li>Succinct data structures</li>
+<li>String algorithms</li>
+<li>Hashing techniques</li>
+<li>Filters and sketches</li>
+<li>Locality sensitive hashing (LSH)</li>
+<li>(Approximate) Nearest neighbor search</li>
+<li>Graph algorithms</li>
+<li>External memory algorithms</li>
+<li>Distributed data structures</li>
+</ul>
+<h3 id="assignments">Assignments</h3>
+<ul>
+<li><strong>Assignments</strong>: There will be two assignments, including theoretical problems and/or programming tasks, completed individually.</li>
+</ul>
+<h3 id="projects">Projects</h3>
+<ul>
+<li><strong>Final project</strong>: The main component of the grade is the final group project, where students will:
+<ul>
+<li>Work in groups of three,</li>
+<li>Implement a project relevant to course material,</li>
+<li>Ensure the project is unique and requires a significant theoretical or programming effort from all team members.
+The instructor will provide topic suggestions if needed.</li>
+</ul>
+</li>
+</ul>
+<h3 id="paper-reading">Paper Reading</h3>
+<p>A set of assigned paper readings is included in the course. Each student is required to pick five papers and submit a one-paragraph synopsis for each. There will be five deadlines throughout the semester. <strong>Late submissions will not be accepted without prior approval</strong>.</p>
+<p>Each review must include:</p>
+<ul>
+<li>What is the problem and why is it hard? (Three sentences)</li>
+<li>An overview of the main idea and contributions (Three sentences)</li>
+<li>How the authors evaluate their solution (Two sentences)</li>
+</ul>
+<h3 id="scribing">Scribing</h3>
+<ul>
+<li>Use <a href="files/lec-template.tex">this template</a> for scribing.</li>
+<li>Each student may scribe 1-2 lectures depending on class size.</li>
+<li>Send your choice to scribe to the TA on a first-come, first-served basis.</li>
+<li>Submit scribe notes (pdf + source) to the TA.</li>
+<li>Scribe notes are due by 9pm the day after the lecture.</li>
+</ul>
+<h2 id="useful-resources">Useful Resources</h2>
+<ul>
+<li><a href="http://web.mit.edu/broder/Public/asymptotics-cheatsheet.pdf" target="_blank" rel="noopener">The Asymptotic Cheat Sheet</a> for theoretical analyses.</li>
+<li>Assignments, scribe notes, and projects must be typeset in LaTeX. If you’re unfamiliar with LaTeX, refer to <a href="http://www.ctan.org/tex-archive/info/lshort/english/lshort.pdf" target="_blank" rel="noopener">this introduction</a> and <a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes" target="_blank" rel="noopener">this Overleaf tutorial</a>.</li>
+</ul>
+<h2 id="grading">Grading</h2>
+<ul>
+<li>Assignments: 20%</li>
+<li>Final Project: 40%</li>
+<li>Paper Reports: 10%</li>
+<li>Class participation: 20%</li>
+<li>Final Exam: 10%</li>
+</ul>
+<h3 id="late-submission-policy">Late Submission Policy</h3>
+<ul>
+<li>No late submissions are allowed. Please plan accordingly.</li>
+<li>For emergencies, prior permission from the instructor is required.</li>
+</ul>
+<h3 id="collaboration-and-plagiarism">Collaboration and Plagiarism</h3>
+<ul>
+<li>Review the <a href="https://www.cs.utah.edu/docs/misc/cheating_policy.pdf" target="_blank" rel="noopener">SoC Policy on Academic Misconduct</a>.</li>
+<li>You may discuss assignment approaches with others but avoid sharing or copying solutions.</li>
+<li>Declare any collaboration upfront.</li>
+<li>Do not share your code or make it public.</li>
+<li>Using tools like Github Copilot, ChatGPT, or copying code from websites constitutes cheating.
+Cheating will result in an E in the course and referral to the University Student Behavior Committee.</li>
+</ul>
+<p><strong>Note</strong>: Any attempt to subvert the grading process is considered cheating. If in doubt, ask.</p>
+<h3 id="schedule">Schedule</h3>
+<ul>
+<li>
+<p>This course schedule is subject to change through the semester.</p>
+</li>
+<li>
+<p>Lecture notes/scribe notes will be uploaded here after each lecture.</p>
+</li>
+<li>
+<p>Lectures will not be recorded.</p>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"><div style="width:75px">Date</div></th>
+<th style="text-align:left"><div style="width:250px">Topic</div></th>
+<th style="text-align:left"><div style="width:80px">Reading List</div></th>
+<th style="text-align:left"><div style="width:100px">Scribe Notes</div></th>
+<th style="text-align:left">Deadlines</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Jan 06</td>
+<td style="text-align:left">Course Introduction and Logistics</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Jan 08</td>
+<td style="text-align:left">Van Emde Boas Tree</td>
+<td style="text-align:left"><a href="papers/veb.pdf">Paper 1</a> <a href="papers/yfast.pdf">Paper 2</a> <a href="papers/fusiontree.pdf">Paper 3</a></td>
+<td style="text-align:left">Instructor <a href="notes/vEBTree.pdf">Lecture notes</a> Scribe:</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Jan 13</td>
+<td style="text-align:left">X-fast tree and Y-fast tree</td>
+<td style="text-align:left"><a href="papers/fusion.pdf">Paper 1</a> <a href="papers/pred.pdf">Paper 2</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"><strong>Assignment 1 release</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Jan 15</td>
+<td style="text-align:left">Succinct binary tries (Rank &amp; Select)</td>
+<td style="text-align:left"><a href="papers/succinctmembership.pdf">Paper 1</a> <a href="papers/suffixtree.pdf">Paper 2</a></td>
+<td style="text-align:left">Instructor <a href="notes/SuccinctDS.pdf">Lecture notes</a></td>
+<td style="text-align:left"><strong>Paper report 1 Due</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Jan 22</td>
+<td style="text-align:left">Tries, Suffix Tree, Suffix Array</td>
+<td style="text-align:left"><a href="papers/suffixarray.pdf">Paper 1</a> <a href="papers/suffixtreeconst.pdf">Paper 2</a> <a href="papers/optsuffixtree.pdf">Paper 3</a> <a href="papers/salm.pdf">Paper 4</a></td>
+<td style="text-align:left">Instructor <a href="notes/SuffixTree.pdf">Lecture notes</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Jan 27</td>
+<td style="text-align:left">BWT &amp; FM-index</td>
+<td style="text-align:left"><a href="papers/bwjacm.pdf">Paper 1</a> <a href="papers/fmindex.pdf">Paper 2</a> <a href="papers/lisa.pdf">Paper 3</a></td>
+<td style="text-align:left">Instructor <a href="notes/bwt-fmindex.pdf">Lecture notes</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Jan 29</td>
+<td style="text-align:left">Hashing (Balls and Bins)</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Instructor <a href="notes/BallsnBins.pdf">Lecture notes</a></td>
+<td style="text-align:left"><strong>Assignment 1 due</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Feb 03</td>
+<td style="text-align:left">Hashing (Hash functions/Chaining/Perfect hashing)</td>
+<td style="text-align:left"><a href="papers/linearprobing.pdf">Paper 1</a> <a href="papers/cuckoo-jour.pdf">Paper 2</a> <a href="papers/hashtablerandom.pdf">Paper 3</a> <a href="papers/iceberg.pdf">Paper 4</a></td>
+<td style="text-align:left">Instructor <a href="notes/Hashing.pdf">Lecture notes</a></td>
+<td style="text-align:left"><strong>Assignment 2 release</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Feb 05</td>
+<td style="text-align:left">Hashing (Linear prob./Cuckoo/Two-choice/Iceberg)</td>
+<td style="text-align:left"><a href="papers/cuckoo.pdf">Paper 1</a> <a href="papers/clht.pdf">Paper 2</a> <a href="papers/memc3.pdf">Paper 3</a> <br> <a href="papers/faster.pdf">Paper 4</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"><strong>Paper report 2 Due</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Feb 10</td>
+<td style="text-align:left">Misra-Gries, Count Sketch, Count-Min Sketch</td>
+<td style="text-align:left"><a href="papers/cms.pdf">Paper 1</a> <a href="papers/frequent.pdf">Paper 2</a> <a href="papers/mg.pdf">Paper 3</a> <br> <a href="papers/heavyhitters.pdf">Paper 4</a></td>
+<td style="text-align:left">Instructor <a href="notes/FreqEst.pdf">Lecture notes</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Feb 12</td>
+<td style="text-align:left">Locality Sensitive Hashing</td>
+<td style="text-align:left"><a href="papers/omh">Paper 1</a> <a href="papers/lsh.pdf">Paper 2</a> <a href="papers/cms-class.pdf">Paper 3</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Feb 19</td>
+<td style="text-align:left">Filters (Bloom/Quotient/Cuckoo)</td>
+<td style="text-align:left"><a href="papers/cqf.pdf">Paper 1</a> <a href="papers/vqf.pdf">Paper 2</a> <a href="papers/cf.pdf">Paper 3</a> <br> <a href="papers/xor.pdf">Paper 4</a></td>
+<td style="text-align:left">Instructor <a href="notes/filters.pdf">Lecture notes</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Feb 24</td>
+<td style="text-align:left">NN Search</td>
+<td style="text-align:left"><a href="papers/ann.pdf">Paper 1</a> <a href="papers/sshds.pdf">Paper 2</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"><strong>Assignment 2 due</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Feb 26</td>
+<td style="text-align:left">Approximate Nearest Neighbor Search</td>
+<td style="text-align:left"><a href="papers/diskann.pdf">Paper 1</a> <a href="papers/freshdiskann.pdf.pdf">Paper 2</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"><strong>Paper report 3 Due</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Mar 10</td>
+<td style="text-align:left">Bloom filters (Continued)</td>
+<td style="text-align:left"><a href="papers/ribbon.pdf">Paper 1</a> <a href="papers/prefix.pdf">Paper 2</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Mar 12</td>
+<td style="text-align:left">Quotient filters</td>
+<td style="text-align:left"><a href="papers/infinifilter.pdf">Paper 1</a> <a href="papers/broom.pdf">Paper 2</a> <a href="papers/bloomierDL.pdf">Paper 3</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Mar 17</td>
+<td style="text-align:left">Min Hashing &amp; Similarity Search</td>
+<td style="text-align:left"><a href="papers/minhash.pdf">Paper 1</a> <a href="papers/similaritysearch.pdf">Paper 2</a> <a href="papers/weightedminhash.pdf">Paper 3</a> <a href="papers/oneperm.pdf">Paper 4</a></td>
+<td style="text-align:left">Instructor <a href="notes/LSH_NN.pdf">Lecture notes</a></td>
+<td style="text-align:left"><strong>Final project proposal Due</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Mar 24</td>
+<td style="text-align:left">Cardinality Estimation (HyperLogLog)</td>
+<td style="text-align:left"><a href="papers/mash.pdf">Paper 1</a> <a href="papers/dashing.pdf">Paper 2</a> <a href="papers/dashing2.pdf">Paper 3</a></td>
+<td style="text-align:left">Instructor <a href="notes/hyperloglog.pdf">Lecture notes</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Mar 26</td>
+<td style="text-align:left">Graphs Representation &amp; Computations</td>
+<td style="text-align:left"><a href="papers/ligra.pdf">Paper 1</a> <a href="papers/gap.pdf">Paper 2</a></td>
+<td style="text-align:left">Instructor <a href="notes/Graphs.pdf">Lecture notes</a></td>
+<td style="text-align:left"><strong>Paper report 4 Due</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Mar 31</td>
+<td style="text-align:left">Streaming Graphs &amp; Incremental Computations</td>
+<td style="text-align:left"><a href="papers/aspen.pdf">Paper 1</a> <a href="papers/terrace.pdf">Paper 2</a></td>
+<td style="text-align:left">Instructor <a href="notes/StreamingGraphs.pdf">Lecture notes</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Apr 02</td>
+<td style="text-align:left">Genomic Assembly Graphs</td>
+<td style="text-align:left"><a href="papers/dbg.pdf">Paper 1</a> <a href="papers/overlap-dbg.pdf">Paper 2</a> <a href="papers/pangenome.pdf">Paper 3</a> <a href="papers/dbgfm.pdf">Paper 4</a></td>
+<td style="text-align:left">Instructor <a href="notes/AssemblyGraphs.pdf">Lecture notes</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Apr 07</td>
+<td style="text-align:left">High-Dimensional Vector Compression</td>
+<td style="text-align:left"><a href="papers/cdbg.pdf">Paper 1</a></td>
+<td style="text-align:left"><a href="notes/CDBG.pdf">Lecture notes</a></td>
+<td style="text-align:left"><strong>Final project mid-point report Due</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Apr 09</td>
+<td style="text-align:left">Distributed Hash Tables</td>
+<td style="text-align:left"><a href="papers/chord.pdf">Paper 1</a></td>
+<td style="text-align:left">Instructor <a href="notes/DHT.pdf">Lecture notes</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Apr 14</td>
+<td style="text-align:left">Consistent Hashing Theory</td>
+<td style="text-align:left"><a href="papers/consistenthashing.pdf">Paper 1</a></td>
+<td style="text-align:left">Instructor <a href="notes/consistenthashing.pdf">Lecture notes</a></td>
+<td style="text-align:left"><strong>Paper report 5 Due</strong></td>
+</tr>
+<tr>
+<td style="text-align:left">Apr 16</td>
+<td style="text-align:left">Concurrent &amp; Resizable Hash tables</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Apr 23</td>
+<td style="text-align:left">Final Project Presentations I</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/&amp;text=Spring%202025:%20CS%207280%20Data%20Str%20&amp;amp;%20Alg%20Scalable%20Comp" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/&amp;t=Spring%202025:%20CS%207280%20Data%20Str%20&amp;amp;%20Alg%20Scalable%20Comp" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Spring%202025:%20CS%207280%20Data%20Str%20&amp;amp;%20Alg%20Scalable%20Comp&amp;body=/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/&amp;title=Spring%202025:%20CS%207280%20Data%20Str%20&amp;amp;%20Alg%20Scalable%20Comp" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Spring%202025:%20CS%207280%20Data%20Str%20&amp;amp;%20Alg%20Scalable%20Comp%20/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/&amp;title=Spring%202025:%20CS%207280%20Data%20Str%20&amp;amp;%20Alg%20Scalable%20Comp" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu466d262c1b0095c4a7262241c6831d9f_1447028_270x270_fill_q75_lanczos_center.jpg" alt="Prashant Pandey"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/">Prashant Pandey</a></h5>
+      <h6 class="card-subtitle">Assistant Professor</h6>
+      <p class="card-text">My research interests lie at the intersection of Systems and Algorithms. I design and build theoretically well-founded data structures for big data problems in computational biology, streaming, and file systems.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/ppandey0825" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=VO62HkEAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/prashantpandey" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2024 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.992ab4bf929c75fb2aff9ec73febac85.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
