@@ -127,12 +127,18 @@ Cheating will result in an E in the course and referral to the University Studen
 &lt;p&gt;Lectures will not be recorded.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;style&gt;
+thead {
+  background-color: #b2b2b2;
+  color: #f4f4f4;
+}
+&lt;/style&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:75px&#34;&gt;Date&lt;/div&gt;&lt;/th&gt;
 &lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:250px&#34;&gt;Topic&lt;/div&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:80px&#34;&gt;Reading List&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:100px&#34;&gt;Reading List&lt;/div&gt;&lt;/th&gt;
 &lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:100px&#34;&gt;Scribe Notes&lt;/div&gt;&lt;/th&gt;
 &lt;th style=&#34;text-align:left&#34;&gt;Deadlines&lt;/th&gt;
 &lt;/tr&gt;
