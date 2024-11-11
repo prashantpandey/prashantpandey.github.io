@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Spring 2025: CS 7280 Data Str &amp; Alg Scalable Comp</title>
-      <link>/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/</link>
+      <title>Spring 2025: CS 7280 Data Structures &amp; Algorithms for Scalable Computing</title>
+      <link>/teaching/spring-2025-cs-7280-data-structures-algorithms-for-scalable-computing/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/teaching/spring-2025-cs-7280-data-str-alg-scalable-comp/</guid>
+      <guid>/teaching/spring-2025-cs-7280-data-structures-algorithms-for-scalable-computing/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lectures&lt;/strong&gt;: MoWe / 02:50AM-04:30PM ET at WVH 366&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Instructor&lt;/strong&gt;: &lt;a href=&#34;http://prashantpandey.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prashant Pandey&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -33,16 +33,15 @@
 &lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
 &lt;p&gt;This course studies advanced data structures and algorithms for handling scalability challenges in large-scale data analysis and machine learning pipelines. It will cover modern hashing techniques, filters and sketching algorithms, locality-sensitive hashing, succinct data structures, string algorithms, graph algorithms, external memory algorithms, and ML-based learned indexes. This course is appropriate for both undergraduate and graduate students with intermediate data structure and algorithm skills. The course will also require intermediate programming skills in C/C++.&lt;/p&gt;
 &lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h3&gt;
-&lt;p&gt;Official Prerequisites:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;For grads: CS 5800 (Grad algorithms)&lt;/li&gt;
 &lt;li&gt;For undergrads:
 &lt;ul&gt;
 &lt;li&gt;CS 3000 Algorithms&lt;/li&gt;
-&lt;li&gt;CS 3500 Object-Oriented Design or DS 3500 Advanced Programming with Data&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;For grads: CS 6150 (Grad algorithms)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;Please email me if you&amp;rsquo;re interested in the course but don&amp;rsquo;t meet the prerequisites.&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;course-topics&#34;&gt;Course Topics&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Compact trees&lt;/li&gt;
@@ -64,7 +63,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Final project&lt;/strong&gt;: The main component of the grade is the final group project, where students will:
 &lt;ul&gt;
-&lt;li&gt;Work in groups of three,&lt;/li&gt;
+&lt;li&gt;Work in groups of 2-3 (exceptions possible),&lt;/li&gt;
 &lt;li&gt;Implement a project relevant to course material,&lt;/li&gt;
 &lt;li&gt;Ensure the project is unique and requires a significant theoretical or programming effort from all team members.
 The instructor will provide topic suggestions if needed.&lt;/li&gt;
