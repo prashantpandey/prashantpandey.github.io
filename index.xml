@@ -39,7 +39,7 @@
 &lt;p&gt;&lt;strong&gt;We will use Piazza for all Q&amp;amp;A&lt;/strong&gt;: TBD&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;#schedule&#34;&gt;Course Schedule&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
-&lt;p&gt;This course studies advanced data structures and algorithms for handling scalability challenges in large-scale data analysis and machine learning pipelines. It will cover modern hashing techniques, filters and sketching algorithms, locality-sensitive hashing, succinct data structures, string algorithms, graph algorithms, external memory algorithms, and ML-based learned indexes. This course is appropriate for both undergraduate and graduate students with intermediate data structure and algorithm skills. The course will also require intermediate programming skills in C/C++.&lt;/p&gt;
+&lt;p&gt;This course studies advanced data structures and algorithms for handling scalability challenges in large-scale data management and machine learning pipelines. It will cover modern hashing techniques, filters and sketching algorithms, locality-sensitive hashing, succinct data structures, string algorithms, graph algorithms, external memory algorithms, and ML-based learned indexes. This course is appropriate for both undergraduate and graduate students with intermediate data structure and algorithm skills. The course will also require intermediate programming skills in C/C++.&lt;/p&gt;
 &lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;For grads: CS 5800 (Grad algorithms)&lt;/li&gt;
