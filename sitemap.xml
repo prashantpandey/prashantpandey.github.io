@@ -4,15 +4,17 @@
   
   
   <url>
-    <loc>/publication-type/1/</loc><lastmod>2025-06-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication-type/1/</loc><lastmod>2025-07-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/</loc><lastmod>2025-07-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication_types/</loc><lastmod>2025-07-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/</loc><lastmod>2025-07-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/sigmod25_zombie/</loc><lastmod>2025-07-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/sigmod25/</loc><lastmod>2025-06-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/</loc><lastmod>2025-06-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication_types/</loc><lastmod>2025-06-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/publication/</loc><lastmod>2025-06-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/vldb24/</loc><lastmod>2024-08-17T01:10:36-06:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
