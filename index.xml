@@ -29,10 +29,42 @@
     </item>
     
     <item>
+      <title>Dynamic Graphs: Containers, Frameworks, and Benchmarks</title>
+      <link>/talk/dynamic-graphs-containers-frameworks-and-benchmarks/</link>
+      <pubDate>Sun, 02 Mar 2025 16:10:51 -0500</pubDate>
+      <guid>/talk/dynamic-graphs-containers-frameworks-and-benchmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Systems at Scale</title>
+      <link>/talk/data-systems-at-scale/</link>
+      <pubDate>Fri, 01 Nov 2024 16:06:32 -0500</pubDate>
+      <guid>/talk/data-systems-at-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers</title>
       <link>/publication/vldb24/</link>
       <pubDate>Sat, 17 Aug 2024 01:10:36 -0600</pubDate>
       <guid>/publication/vldb24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaotive Quotient Filters: How to Learn from Your Mistakes</title>
+      <link>/talk/adaotive-quotient-filters-how-to-learn-from-your-mistakes/</link>
+      <pubDate>Wed, 03 Jul 2024 15:58:18 -0500</pubDate>
+      <guid>/talk/adaotive-quotient-filters-how-to-learn-from-your-mistakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Bloom: A Tutorial on Future Feature-Rich Filters</title>
+      <link>/talk/beyond-bloom-a-tutorial-on-future-feature-rich-filters/</link>
+      <pubDate>Fri, 14 Jun 2024 15:50:07 -0500</pubDate>
+      <guid>/talk/beyond-bloom-a-tutorial-on-future-feature-rich-filters/</guid>
       <description></description>
     </item>
     
@@ -57,6 +89,14 @@
       <link>/publication/ppopp24/</link>
       <pubDate>Tue, 12 Mar 2024 19:26:39 -0700</pubDate>
       <guid>/publication/ppopp24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees</title>
+      <link>/talk/bp-tree-overcoming-the-point-range-operation-tradeoff-for-in-memory-b-trees/</link>
+      <pubDate>Fri, 09 Feb 2024 15:44:43 -0500</pubDate>
+      <guid>/talk/bp-tree-overcoming-the-point-range-operation-tradeoff-for-in-memory-b-trees/</guid>
       <description></description>
     </item>
     
@@ -213,7 +253,7 @@
     </item>
     
     <item>
-      <title>High-performance Filters for Modern Hardware (GPUs) and Workloads (Adaptive).</title>
+      <title>Adaptive and High-performance Filters for Modern Workloads</title>
       <link>/project/filter/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/project/filter/</guid>
