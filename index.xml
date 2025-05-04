@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>From Hash Tables to B-trees: Rethinking Core Data Structures for Scalable Performance</title>
+      <link>/talk/from-hash-tables-to-b-trees-rethinking-core-data-structures-for-scalable-performance/</link>
+      <pubDate>Fri, 02 May 2025 10:19:36 -0400</pubDate>
+      <guid>/talk/from-hash-tables-to-b-trees-rethinking-core-data-structures-for-scalable-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamic Graphs: Containers, Frameworks, and Benchmarks</title>
       <link>/talk/dynamic-graphs-containers-frameworks-and-benchmarks/</link>
       <pubDate>Sun, 02 Mar 2025 16:10:51 -0500</pubDate>

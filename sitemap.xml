@@ -18,9 +18,11 @@
   <url>
     <loc>/publication/sigmod25/</loc><lastmod>2025-06-05T05:51:17-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/talk/dynamic-graphs-containers-frameworks-and-benchmarks/</loc><lastmod>2025-03-02T16:10:51-05:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/talk/from-hash-tables-to-b-trees-rethinking-core-data-structures-for-scalable-performance/</loc><lastmod>2025-05-02T10:19:36-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/event/</loc><lastmod>2025-03-02T16:10:51-05:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/event/</loc><lastmod>2025-05-02T10:19:36-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/talk/dynamic-graphs-containers-frameworks-and-benchmarks/</loc><lastmod>2025-03-02T16:10:51-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/talk/data-systems-at-scale/</loc><lastmod>2024-11-01T16:06:32-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
