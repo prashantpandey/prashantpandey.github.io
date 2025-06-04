@@ -1,0 +1,86 @@
++++
+# A Recent Blog Posts section created with the Pages widget.
+# This section displays recent blog posts from `content/post/`.
+
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Media and Awards"
+subtitle = ""
+
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "media"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    exclude_featured = false
+  
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 1
+  
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
+# Awards
+- NSF CAREER: FACULTY EARLY CAREER DEVELOPMENT AWARD 2024
+- [IEEE-CS Early Career Researchers Award for Excellence in High Performance Computing 2023](https://tc.computer.org/tchpc/2023/09/06/2023-ieee-cs-tchpc-award-winners/)
+- [Catacosinos Fellowship for Excellence in Computer Science Research 2018](https://www.cs.stonybrook.edu/about-us/News/Three-CS-Students-Take-Home-Catacosinos-Fellowships)
+- [Best paper award at FAST 2016](https://www.usenix.org/conference/fast16/technical-sessions/presentation/yuan)
+- Runners-Up to the best paper award at FAST 2015
+
+# Grants
+- NSF CAREER Award (2024)
+- One Utah Data Science Hub Seed Grant (2024)
+- DOE Exascale Computing Project (ECP) Award (2022)
+
+# Media 
+- [Our IcebergHT paper from SIGMOD 2023 featured in Quanta Magazine](https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/)
+- [The Counting Quotient Filter featured on the Morning Paper](https://blog.acolyer.org/2017/08/08/a-general-purpose-counting-filter-making-every-bit-count/)
+- [Our Counting Quotient File Paper is one of eight ACM SIGMOD 2017 most reproducible papers](http://db-reproducibility.seas.harvard.edu/papers/)
+- [Our Computational Biology Research featured on VMware Research Blog](https://blogs.vmware.com/research/2018/04/18/scaling-computational-biology-vmware/)
+- [Cell Systems Publishes Research on Mantis (RECOMB 2018), a New Sequencing Search Tool](https://www.cs.stonybrook.edu/about-us/News/Finding-Needle-Field-Haystacks-Cell-Systems-publishes-research-Mantis-new-sequencing)
