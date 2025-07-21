@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Vector Search for Large-Scale Genomic Discovery</title>
+      <link>/talk/vector-search-for-large-scale-genomic-discovery/</link>
+      <pubDate>Fri, 18 Jul 2025 13:50:48 -0400</pubDate>
+      <guid>/talk/vector-search-for-large-scale-genomic-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Zombie Hashing: Reanimating Tombstones in a Graveyard</title>
       <link>/publication/sigmod25_zombie/</link>
       <pubDate>Sat, 05 Jul 2025 05:51:17 -0700</pubDate>
