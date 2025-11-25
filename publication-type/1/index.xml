@@ -5,12 +5,28 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 14:44:07 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 11:05:42 -0500</lastBuildDate>
     <image>
       <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Aeris Filter: A Strongly and Monotonically Adaptive Range Filter</title>
+      <link>/publication/sigmod26_aeris/</link>
+      <pubDate>Mon, 01 Jun 2026 11:05:42 -0500</pubDate>
+      <guid>/publication/sigmod26_aeris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breadcrumb Filters: Fast Fully Featured Filters</title>
+      <link>/publication/sigmod26_bread/</link>
+      <pubDate>Mon, 01 Jun 2026 11:05:35 -0500</pubDate>
+      <guid>/publication/sigmod26_bread/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>WarpSpeed: A High-Performance Library for Concurrent GPU Hash Tables</title>
