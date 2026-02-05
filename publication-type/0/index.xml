@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Prashant Pandey</title>
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Feb 2026 11:52:49 -0500</lastBuildDate>
+    <image>
+      <url>/media/icon_hu7877d6dae53df7039c44f2ff773100ab_7411_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>GPU-Accelerated ANNS: Quantized for Speed, Built for Change</title>
+      <link>/publication/arxiv26_jasper/</link>
+      <pubDate>Thu, 05 Feb 2026 11:52:49 -0500</pubDate>
+      <guid>/publication/arxiv26_jasper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>GPU-Accelerated ANNS: Quantized for Speed, Built for Change</title>
+      <link>/publication/arxiv26_jasper/</link>
+      <pubDate>Thu, 05 Feb 2026 11:52:49 -0500</pubDate>
+      <guid>/publication/arxiv26_jasper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster and Scalable Parallel External-Memory Construction of Colored Compacted de Bruijn Graphs with Cuttlefish 3</title>
+      <link>/publication/recomb26/</link>
+      <pubDate>Thu, 05 Feb 2026 11:32:35 -0500</pubDate>
+      <guid>/publication/recomb26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>WarpSpeed: A High-Performance Library for Concurrent GPU Hash Tables</title>
       <link>/publication/alenex25/</link>
       <pubDate>Fri, 09 Jan 2026 14:44:07 -0400</pubDate>
