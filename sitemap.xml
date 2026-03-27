@@ -18,6 +18,10 @@
   <url>
     <loc>/publication/sigmod26_bread/</loc><lastmod>2026-06-01T11:05:35-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/talk/filters-and-adaptivity/</loc><lastmod>2026-03-26T21:45:37-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/event/</loc><lastmod>2026-03-26T21:45:37-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/publication-type/0/</loc><lastmod>2026-02-05T11:52:49-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/arxiv26_jasper/</loc><lastmod>2026-02-05T11:52:49-05:00</lastmod><changefreq>weekly</changefreq></url>
@@ -26,13 +30,17 @@
   <url>
     <loc>/publication/alenex25/</loc><lastmod>2026-01-09T14:44:07-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>/talk/jasper-updatable-approximate-nearest-neighbor-search-on-gpu/</loc><lastmod>2025-12-26T21:45:34-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/publication/sc25/</loc><lastmod>2025-11-26T21:15:01-04:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/talk/memory-management-and-dynamic-data-structures-on-gpus/</loc><lastmod>2025-10-26T21:45:29-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication/icpp25/</loc><lastmod>2025-09-10T11:34:36-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/acda25/</loc><lastmod>2025-07-30T10:28:31-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/talk/zombie-hashing-reanimating-tombstones-in-a-graveyard/</loc><lastmod>2025-08-22T21:45:19-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/event/</loc><lastmod>2025-07-18T13:50:48-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/publication/acda25/</loc><lastmod>2025-07-30T10:28:31-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/talk/vector-search-for-large-scale-genomic-discovery/</loc><lastmod>2025-07-18T13:50:48-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

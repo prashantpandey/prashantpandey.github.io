@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Filters and Adaptivity</title>
+      <link>/talk/filters-and-adaptivity/</link>
+      <pubDate>Thu, 26 Mar 2026 21:45:37 -0400</pubDate>
+      <guid>/talk/filters-and-adaptivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GPU-Accelerated ANNS: Quantized for Speed, Built for Change</title>
       <link>/publication/arxiv26_jasper/</link>
       <pubDate>Thu, 05 Feb 2026 11:52:49 -0500</pubDate>
@@ -61,6 +69,14 @@
     </item>
     
     <item>
+      <title>Jasper: Updatable Approximate Nearest Neighbor Search on GPU</title>
+      <link>/talk/jasper-updatable-approximate-nearest-neighbor-search-on-gpu/</link>
+      <pubDate>Fri, 26 Dec 2025 21:45:34 -0400</pubDate>
+      <guid>/talk/jasper-updatable-approximate-nearest-neighbor-search-on-gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FaSTCC: Fast Sparse Tensor Contractions on CPUs</title>
       <link>/publication/sc25/</link>
       <pubDate>Wed, 26 Nov 2025 21:15:01 -0400</pubDate>
@@ -69,10 +85,26 @@
     </item>
     
     <item>
+      <title>Memory Management and Dynamic Data Structures on GPUs</title>
+      <link>/talk/memory-management-and-dynamic-data-structures-on-gpus/</link>
+      <pubDate>Sun, 26 Oct 2025 21:45:29 -0400</pubDate>
+      <guid>/talk/memory-management-and-dynamic-data-structures-on-gpus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist</title>
       <link>/publication/icpp25/</link>
       <pubDate>Wed, 10 Sep 2025 11:34:36 -0400</pubDate>
       <guid>/publication/icpp25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zombie hashing: Reanimating Tombstones in a Graveyard</title>
+      <link>/talk/zombie-hashing-reanimating-tombstones-in-a-graveyard/</link>
+      <pubDate>Fri, 22 Aug 2025 21:45:19 -0400</pubDate>
+      <guid>/talk/zombie-hashing-reanimating-tombstones-in-a-graveyard/</guid>
       <description></description>
     </item>
     
