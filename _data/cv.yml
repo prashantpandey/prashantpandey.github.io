@@ -1,0 +1,43 @@
+cv:
+  name: Prashant Pandey
+  label: Assistant Professor
+  email: p.pandey@northeastern.edu
+  location: Boston, MA
+  image: ""
+  summary: >
+    Assistant Professor in the Khoury College of Computer Sciences at Northeastern University.
+    My research lies at the intersection of Systems and Algorithms: I design and build
+    high-performance, theoretically well-founded data structures for large-scale data systems
+    across computational biology, streaming, and file systems.
+
+  social_networks:
+    - network: GitHub
+      username: prashantpandey
+    - network: X
+      username: ppandey0825
+    # Google Scholar: VO62HkEAAAAJ
+
+  address:
+    city: Boston
+    region: Massachusetts
+    countryCode: US
+
+  sections:
+    Education:
+      - institution: Stony Brook University
+        location: Stony Brook, NY, US
+        area: Computer Science
+        studyType: PhD
+        end_date: 2018
+
+    # TODO (real CV needed): the sections below are placeholders. Fill in from your
+    # full CV, or point `cv_pdf` in _pages/cv.md to your CV PDF and drop these.
+    Experience:
+      - company: Northeastern University
+        position: Assistant Professor, Khoury College of Computer Sciences
+        location: Boston, MA, US
+        summary: Research on high-performance data structures for large-scale data systems.
+
+    Interests:
+      - name: Research areas
+        keywords: "Large-Scale Data Systems, Graph Processing, Computational Biology, Filters & Indexes, Streaming"
