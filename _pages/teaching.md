@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses I Teach
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 - Spring 2026 [CS 7800/4810 Advanced Algorithms](https://khoury.northeastern.edu/home/pandey/courses/cs7800/spring26/)

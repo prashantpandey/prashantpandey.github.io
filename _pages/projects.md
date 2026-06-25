@@ -3,8 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: Research projects on high-performance data structures and large-scale data systems.
-nav: false
-nav_order: 3
+nav: true
+nav_order: 5
 display_categories: [research]
 horizontal: false
 ---

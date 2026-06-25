@@ -4,7 +4,7 @@ title: students
 permalink: /students/
 description: Students & Postdocs
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 - [Jamshed Khan](https://sites.google.com/view/jamshed/home) — Khoury Distinguished Postdoc (Started Fall 2025)
