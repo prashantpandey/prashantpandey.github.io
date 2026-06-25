@@ -1,0 +1,422 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> Data Science Fundamentals | Prashant Pandey </title> <meta name="author" content="Prashant Pandey"> <meta name="description" content="This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets."> <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website"> <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https:; connect-src 'self' https:;"> <style>
+  :root {
+    --max-content-width: 930px;
+  }
+</style> <link rel="stylesheet" href="/assets/css/tailwind.css?v=50c64c15cbb9fd1ce6056fdb8bcb4b62"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" integrity="sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css" integrity="sha256-SzrCOBJbGVFMahewkgjwnApaV2+av1DwMAA+/QGLyZw=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/scholar-icons@1.0.3/css/scholar-icons.css" integrity="sha256-VY3hHVj/hNX3fYG6wtbA6TcKJQl7+FthzGSyIB64klY=" crossorigin="anonymous"> <link defer rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&amp;display=swap"> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-github.css?v=591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css?v=f0b101217084a90093badfe99ff9a7d1"> <link rel="canonical" href="https://prashantpandey.github.io/teachings/data-science-fundamentals/"> <script src="/assets/js/theme.js?v=7af685e2ba20b37fef545c97b8064050"></script> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-native.css?v=5847e5ed4a4568527aa6cfab446049ca" media="none" id="highlight_theme_dark"> <script>
+    initTheme();
+  </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> <span class="font-weight-bold">Prashant</span> Pandey </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">about </a> </li> <li class="nav-item "> <a class="nav-link" href="/news/">news </a> </li> <li class="nav-item "> <a class="nav-link" href="/awards/">awards </a> </li> <li class="nav-item "> <a class="nav-link" href="/talks/">talks </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">publications </a> </li> <li class="nav-item "> <a class="nav-link" href="/teaching/">teaching </a> </li> <li class="nav-item "> <a class="nav-link" href="/students/">students </a> </li> <li class="nav-item "> <a class="nav-link" href="/service/">service </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">Data Science Fundamentals</h1> <p class="post-description">This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.</p> </header> <article> <div class="course"> <div class="course-info"> <p><strong>Instructor:</strong> Prof. Data</p> <p><strong>Term:</strong> Spring</p> <p><strong>Location:</strong> Science Building, Room 202</p> <p><strong>Time:</strong> Mondays and Wednesdays, 2:00-3:30 PM</p> </div> <h2 id="course-overview">Course Overview</h2> <p>This course provides a comprehensive introduction to data science principles and practices. Students will:</p> <ul> <li>Learn the end-to-end data science workflow</li> <li>Gain practical experience with data manipulation tools</li> <li>Develop skills in data visualization and communication</li> <li>Apply statistical methods to derive insights from data</li> </ul> <h2 id="prerequisites">Prerequisites</h2> <ul> <li>Basic programming knowledge (preferably in Python)</li> <li>Introductory statistics</li> <li>Comfort with basic algebra</li> </ul> <h2 id="textbooks">Textbooks</h2> <ul> <li>“Python for Data Analysis” by Wes McKinney</li> <li>“Data Science from Scratch” by Joel Grus</li> </ul> <h2 id="grading">Grading</h2> <ul> <li>Assignments: 50%</li> <li>Project: 40%</li> <li>Participation: 10%</li> </ul> <h2>Schedule</h2> <table class="table table-sm table-responsive"> <thead> <tr> <th>Week</th> <th>Date</th> <th>Topic</th> <th>Materials</th> </tr> </thead> <tbody> <tr> <td>1</td> <td>Feb 5</td> <td> <strong>Introduction to Data Science</strong> <div class="schedule-description"> <p>Overview of the data science workflow and key concepts.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Syllabus</a> </li> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Slides</a> </li> </ul> </td> </tr> <tr> <td>2</td> <td>Feb 12</td> <td> <strong>Data Collection and APIs</strong> <div class="schedule-description"> <p>Methods for collecting data through APIs, web scraping, and databases.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Lecture Notes</a> </li> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Assignment 1</a> </li> </ul> </td> </tr> <tr> <td>3</td> <td>Feb 19</td> <td> <strong>Data Cleaning and Preprocessing</strong> <div class="schedule-description"> <p>Techniques for handling missing values, outliers, and data transformation.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Lecture Notes</a> </li> <li> <a href="https://github.com/" target="_blank" rel="external nofollow noopener">Coding Lab</a> </li> </ul> </td> </tr> <tr> <td>4</td> <td>Feb 26</td> <td> <strong>Exploratory Data Analysis</strong> <div class="schedule-description"> <p>Descriptive statistics, visualization, and pattern discovery.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Lecture Notes</a> </li> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Assignment 2</a> </li> </ul> </td> </tr> <tr> <td>5</td> <td>Mar 4</td> <td> <strong>Statistical Analysis</strong> <div class="schedule-description"> <p>Hypothesis testing, confidence intervals, and statistical inference.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Lecture Notes</a> </li> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Review Materials</a> </li> </ul> </td> </tr> <tr> <td>6</td> <td>Mar 11</td> <td> <strong>Data Visualization</strong> <div class="schedule-description"> <p>Principles and tools for effective data visualization.</p> </div> </td> <td> <ul class="schedule-materials"> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Lecture Notes</a> </li> <li> <a href="/assets/pdf/example_pdf.pdf" target="_blank">Assignment 3</a> </li> </ul> </td> </tr> </tbody> </table> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Prashant Pandey. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
+  window.alFolio = {
+    compatBootstrap: false
+  };
+</script> <script src="/assets/js/nav-toggle.js?v=141bd79a73ebc0f0b6ea58e440ae79fc"></script> <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script> <script defer src="/assets/js/masonry.js?v=e49affc7bd2646f6acdad1dbe02c2359" type="text/javascript"></script> <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js" integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI=" crossorigin="anonymous"></script> <script src="/assets/al_math/js/mathjax-setup.js"></script> <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6" crossorigin="anonymous"></script> <script src="/assets/js/tooltips-setup.js?v=fe487e99db6c43751e6e7bdb2d6a0611"></script> <script src="/assets/js/no_defer.js?v=53b1b1a645525975c963ce8bf8bfefcf"></script> <script defer src="/assets/js/common.js?v=87baac90f765f2f3362dcf6aaf312a8a"></script> <script defer src="/assets/js/copy_code.js?v=c8a01c11a92744d44b093fc3bda915df" type="text/javascript"></script> <script defer src="/assets/js/jupyter_new_tab.js?v=896d254890d9b47f0281f63bfccf0dee"></script> <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script> <script async src="https://badge.dimensions.ai/badge.js"></script> <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js" integrity="sha256-ZgMyDAIYDYGxbcpJcfUnYwNevG/xi9OHKaR/8GK+jWc=" crossorigin="anonymous"></script> <script defer src="/assets/al_img_tools/js/zoom.js"></script> <script defer src="/assets/js/progress-bar.js?v=499464c5c63ced6cf7ad62509f1e2610" type="text/javascript"></script> <script src="https://cdn.jsdelivr.net/npm/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js" integrity="sha256-uMJJ3EoTyfRBoTbR+lrfu1uRQ87RZG8AR3cVNuQVeFg=" crossorigin="anonymous"></script> <script>
+    addBackToTop();
+  </script> <script type="module" src="/assets/al_search/js/search/ninja-keys.min.js"></script> <ninja-keys hidebreadcrumbs noautoloadmdicons placeholder="Type to start searching"></ninja-keys> <script src="/assets/al_search/js/search-setup.js"></script> <script>
+// get the ninja-keys element
+const ninja = document.querySelector('ninja-keys');
+
+// add the home and posts menu items
+ninja.data = [{
+    id: "nav-about",
+    title: "about",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "/";
+    },
+  },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "nav-awards",
+          title: "awards",
+          description: "Grants, awards, and media coverage.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/awards/";
+          },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "Invited talks, conference presentations, and tutorials.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "publications by categories in reversed chronological order. generated by jekyll-scholar.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Courses I Teach",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "nav-students",
+          title: "students",
+          description: "Students &amp; Postdocs",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/students/";
+          },
+        },{id: "nav-service",
+          title: "service",
+          description: "Academic Service",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/service/";
+          },
+        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        
+          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+          
+        },
+      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+        
+          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+          
+        },
+      },{id: "news-received-the-ieee-cs-early-career-researchers-award-for-excellence-in-high-performance-computing",
+          title: 'Received the IEEE-CS Early Career Researchers Award for Excellence in High Performance Computing....',
+          description: "",
+          section: "News",},{id: "news-received-the-nsf-career-award-covered-by-khoury-news-our-iceberght-paper-sigmod-2023-was-featured-in-quanta-magazine",
+          title: 'Received the NSF CAREER Award (covered by Khoury News). Our IcebergHT paper (SIGMOD...',
+          description: "",
+          section: "News",},{id: "news-adaptive-quotient-filters-and-zombie-hashing-appeared-at-sigmod-2025",
+          title: 'Adaptive Quotient Filters and Zombie Hashing appeared at SIGMOD 2025.',
+          description: "",
+          section: "News",},{id: "news-gave-a-talk-zombie-hashing-reanimating-tombstones-in-a-graveyard-at-dagstuhl-germany-the-paper-was-covered-by-dangling-pointers",
+          title: 'Gave a talk, Zombie Hashing: Reanimating Tombstones in a Graveyard, at Dagstuhl, Germany;...',
+          description: "",
+          section: "News",},{id: "news-received-an-nsf-cssi-elements-award-northeastern-global-news-covered-the-work",
+          title: 'Received an NSF CSSI Elements award; Northeastern Global News covered the work.',
+          description: "",
+          section: "News",},{id: "news-gave-a-talk-memory-management-and-dynamic-data-structures-on-gpus-at-the-simons-institute-uc-berkeley",
+          title: 'Gave a talk, Memory Management and Dynamic Data Structures on GPUs, at the...',
+          description: "",
+          section: "News",},{id: "news-gave-a-talk-on-jasper-updatable-approximate-nearest-neighbor-search-on-gpu-at-google-research-ny",
+          title: 'Gave a talk on Jasper: Updatable Approximate Nearest Neighbor Search on GPU at...',
+          description: "",
+          section: "News",},{id: "news-our-paper-warpspeed-a-high-performance-library-for-concurrent-gpu-hash-tables-won-the-best-artifact-award-at-alenex-2026-tada",
+          title: 'Our paper WarpSpeed: A High-Performance Library for Concurrent GPU Hash Tables won the...',
+          description: "",
+          section: "News",},{id: "news-cuttlefish-3-scalable-parallel-construction-of-colored-compacted-de-bruijn-graphs-accepted-to-recomb-2026",
+          title: 'Cuttlefish 3 — scalable parallel construction of colored compacted de Bruijn graphs —...',
+          description: "",
+          section: "News",},{id: "news-gave-a-talk-filters-and-adaptivity-at-boston-university-slides",
+          title: 'Gave a talk, Filters and Adaptivity, at Boston University. [slides]',
+          description: "",
+          section: "News",},{id: "news-three-papers-accepted-to-sigmod-2026-aeris-filter-breadcrumb-filters-and-to-adapt-or-not-to-adapt-that-is-the-ski-question-tada",
+          title: 'Three papers accepted to SIGMOD 2026: Aeris Filter, Breadcrumb Filters, and To Adapt...',
+          description: "",
+          section: "News",},{id: "projects-scalable-real-time-and-information-rich-sequence-search-over-sra",
+          title: 'Scalable, Real-Time, and Information-Rich Sequence Search Over SRA',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_comp-bio/";
+            },},{id: "projects-adaptive-and-high-performance-filters-for-modern-workloads",
+          title: 'Adaptive and High-performance Filters for Modern Workloads',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_filter/";
+            },},{id: "projects-a-compact-dynamic-and-distributed-gpu-data-structure-library",
+          title: 'A Compact, Dynamic, and Distributed GPU Data Structure Library',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_gpu/";
+            },},{id: "projects-a-comprehensive-dynamic-graph-system-for-modern-applications",
+          title: 'A Comprehensive Dynamic-Graph System for Modern Applications',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_graphs/";
+            },},{id: "projects-fast-and-space-efficient-in-memory-indexes-hash-tables-b-trees",
+          title: 'Fast and Space-Efficient In-Memory Indexes (Hash Tables, B-trees)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_inmemoryindexes/";
+            },},{id: "projects-scalable-and-real-time-stream-monitoring-using-external-memnory",
+          title: 'Scalable and Real-Time Stream Monitoring using External Memnory',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_streaming/";
+            },},{id: "talks-intel-software-guard-extensions-sgx",
+          title: 'Intel Software Guard Extensions (SGX)',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2015-08-25-sandia-sgx/";
+            },},{id: "talks-a-general-purpose-counting-filter-making-every-bit-count",
+          title: 'A General-Purpose Counting Filter: Making Every Bit Count',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2017-05-16-sigmod17/";
+            },},{id: "talks-debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph",
+          title: 'deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2017-07-25-ismb17/";
+            },},{id: "talks-debgr-an-efficient-and-near-exact-representation-of-the-weighted-de-bruijn-graph",
+          title: 'deBGR: An Efficient and Near-Exact Representation of the Weighted de Bruijn Graph',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2017-09-26-google-vmware-debgr17/";
+            },},{id: "talks-compact-representation-of-annotated-de-bruijn-graph",
+          title: 'Compact Representation of Annotated de Bruijn Graph',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2018-01-12-berkeleylab18/";
+            },},{id: "talks-scheduling-problems-in-write-optimized-key-value-stores",
+          title: 'Scheduling Problems in Write-Optimized Key-Value Stores',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2018-04-06-ausois18/";
+            },},{id: "talks-mantis-a-fast-small-and-exact-large-scale-sequence-search-index",
+          title: 'Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2018-04-22-recomb18/";
+            },},{id: "talks-buffered-count-min-sketch-on-ssd-theory-and-experiments",
+          title: 'Buffered Count-Min Sketch on SSD: Theory and Experiments',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2018-08-22-esa18/";
+            },},{id: "talks-fast-and-space-efficient-maps-shrinking-big-data-down-to-size",
+          title: 'Fast and Space-Efficient Maps: Shrinking Big Data Down to Size',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2018-10-31-defense/";
+            },},{id: "talks-small-refinements-to-the-dam-can-have-big-consequences-for-data-structure-design",
+          title: 'Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2019-06-24-spaa19/";
+            },},{id: "talks-timely-reporting-of-heavy-hitters-using-external-memory",
+          title: 'Timely Reporting of Heavy Hitters using External Memory',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2019-10-12-itu-umd-19/";
+            },},{id: "talks-timely-reporting-of-heavy-hitters-using-external-memory",
+          title: 'Timely Reporting of Heavy Hitters using External Memory',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2020-06-18-sigmod20/";
+            },},{id: "talks-variantstore-a-space-efficient-and-fast-variant-search-index",
+          title: 'VariantStore: A Space-Efficient and Fast Variant Search Index',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2020-07-13-ismb20/";
+            },},{id: "talks-applying-graph-neural-networks-to-metagenomics",
+          title: 'Applying Graph Neural Networks to Metagenomics',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2021-02-11-metagnn21/";
+            },},{id: "talks-data-systems-at-scale-scaling-up-by-scaling-down-and-out",
+          title: 'Data Systems at Scale: Scaling Up by Scaling Down and Out',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2021-02-22-jobtalk21/";
+            },},{id: "talks-terrace-a-hierarchical-graph-container-for-skewed-dynamic-graphs",
+          title: 'Terrace: A Hierarchical Graph Container for Skewed Dynamic Graphs',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2021-06-02-sigmod21-terrace/";
+            },},{id: "talks-vector-quotient-filters-overcoming-the-time-space-trade-off-in-filter-design",
+          title: 'Vector Quotient Filters: Overcoming the Time/Space Trade-Off in Filter Design',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2021-06-02-sigmod21-vqf/";
+            },},{id: "talks-time-to-change-your-filter",
+          title: 'Time to Change Your Filter',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2022-02-11-bu22/";
+            },},{id: "talks-data-systems-at-scale-scaling-up-by-scaling-down-and-out",
+          title: 'Data Systems at Scale: Scaling Up by Scaling Down and Out',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2022-03-02-jobtalk22/";
+            },},{id: "talks-vector-quotient-filters-overcoming-the-time-space-trade-off-in-filter-design",
+          title: 'Vector Quotient Filters: Overcoming the Time/Space Trade-Off in Filter Design',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2022-09-06-acda22/";
+            },},{id: "talks-scalability-challenges-in-large-scale-sequence-search",
+          title: 'Scalability Challenges in Large-Scale Sequence Search',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2022-09-28-ucds22/";
+            },},{id: "talks-designing-high-performance-and-feature-rich-gpu-filters-for-exascale-computing",
+          title: 'Designing High-Performance and Feature Rich GPU Filters For Exascale Computing',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2022-09-29-utahpnnl22/";
+            },},{id: "talks-iceberght-high-performance-hash-tables-through-stability-and-low-associativity",
+          title: 'IcebergHT: High Performance Hash Tables Through Stability and Low Associativity',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2023-02-24-dagstuhl23/";
+            },},{id: "talks-iceberght-high-performance-hash-tables-through-stability-and-low-associativity",
+          title: 'IcebergHT: High Performance Hash Tables Through Stability and Low Associativity',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2023-06-24-sigmod23/";
+            },},{id: "talks-high-performance-filters-for-gpus",
+          title: 'High-Performance Filters for GPUs',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2023-06-24-spaa23/";
+            },},{id: "talks-bp-tree-overcoming-the-point-range-operation-tradeoff-for-in-memory-b-trees",
+          title: 'BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2023-11-17-gatech23/";
+            },},{id: "talks-overview-of-computational-biology-research-in-the-lab",
+          title: 'Overview of Computational Biology Research in the Lab',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2024-01-10-nih24/";
+            },},{id: "talks-bp-tree-overcoming-the-point-range-operation-tradeoff-for-in-memory-b-trees",
+          title: 'BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2024-02-09-nwdbday24/";
+            },},{id: "talks-beyond-bloom-a-tutorial-on-future-feature-rich-filters",
+          title: 'Beyond Bloom: A Tutorial on Future Feature-Rich Filters',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2024-06-14-sigmod24/";
+            },},{id: "talks-adaptive-quotient-filters-how-to-learn-from-your-mistakes",
+          title: 'Adaptive Quotient Filters: How to Learn from Your Mistakes',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2024-07-03-shonan24/";
+            },},{id: "talks-data-systems-at-scale",
+          title: 'Data Systems at Scale',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2024-11-01-ucmerced24/";
+            },},{id: "talks-dynamic-graphs-containers-frameworks-and-benchmarks",
+          title: 'Dynamic Graphs: Containers, Frameworks, and Benchmarks',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2025-03-02-ppopp25/";
+            },},{id: "talks-from-hash-tables-to-b-trees-rethinking-core-data-structures-for-scalable-performance",
+          title: 'From Hash Tables to B-trees: Rethinking Core Data Structures for Scalable Performance',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2025-05-02-amd25/";
+            },},{id: "talks-vector-search-for-large-scale-genomic-discovery",
+          title: 'Vector Search for Large-Scale Genomic Discovery',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2025-07-18-icml25/";
+            },},{id: "talks-zombie-hashing-reanimating-tombstones-in-a-graveyard",
+          title: 'Zombie hashing: Reanimating Tombstones in a Graveyard',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2025-08-22-dagstuhl25/";
+            },},{id: "talks-memory-management-and-dynamic-data-structures-on-gpus",
+          title: 'Memory Management and Dynamic Data Structures on GPUs',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2025-10-26-simons25/";
+            },},{id: "talks-jasper-updatable-approximate-nearest-neighbor-search-on-gpu",
+          title: 'Jasper: Updatable Approximate Nearest Neighbor Search on GPU',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2025-12-26-google25/";
+            },},{id: "talks-filters-and-adaptivity",
+          title: 'Filters and Adaptivity',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/2026-03-26-bu26/";
+            },},{id: "teachings-data-science-fundamentals",
+          title: 'Data Science Fundamentals',
+          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/data-science-fundamentals/";
+            },},{id: "teachings-introduction-to-machine-learning",
+          title: 'Introduction to Machine Learning',
+          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/introduction-to-machine-learning/";
+            },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%70.%70%61%6E%64%65%79@%6E%6F%72%74%68%65%61%73%74%65%72%6E.%65%64%75", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/ppandey0825", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=VO62HkEAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/prashantpandey", "_blank");
+        },
+      },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/cv.pdf", "_blank");
+        },
+      },{
+      id: 'light-theme',
+      title: 'Change theme to light',
+      description: 'Change the theme of the site to Light',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("light");
+      },
+    },
+    {
+      id: 'dark-theme',
+      title: 'Change theme to dark',
+      description: 'Change the theme of the site to Dark',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("dark");
+      },
+    },
+    {
+      id: 'system-theme',
+      title: 'Use system default theme',
+      description: 'Change the theme of the site to System Default',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("system");
+      },
+    },];
+
+</script> <script src="/assets/al_search/js/shortcut-key.js"></script> </body> </html>
