@@ -2,7 +2,7 @@
 layout: page
 title: A Compact, Dynamic, and Distributed GPU Data Structure Library
 description: 
-img: assets/img/12.jpg
+img: assets/img/projects/gpu.png
 importance: 3
 category: research
 ---
