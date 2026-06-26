@@ -6,6 +6,7 @@ img: assets/img/projects/streaming.png
 importance: 6
 category: research
 related_publications: true
+published: false
 ---
 
 Many monitoring tasks — finding heavy hitters, detecting events, flagging security anomalies — must keep up with high-velocity streams while retaining long histories that far exceed RAM. This project designs external-memory data structures that report results in real time without sacrificing throughput.
