@@ -45,9 +45,6 @@ Beyond research, we enjoy spending time together — hikes, runs, and dinners.
     {% include figure.liquid loading="eager" path="assets/img/lab/lab-07.jpg" class="img-fluid rounded" %}
   </div>
   <div class="col">
-    {% include figure.liquid loading="eager" path="assets/img/lab/lab-08.jpg" class="img-fluid rounded" %}
-  </div>
-  <div class="col">
     {% include figure.liquid loading="eager" path="assets/img/lab/lab-09.jpg" class="img-fluid rounded" %}
   </div>
   <div class="col">
