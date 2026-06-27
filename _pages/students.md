@@ -26,7 +26,7 @@ Beyond research, we enjoy spending time together — hikes, runs, and dinners.
 <div class="row row-cols-1 row-cols-md-3 g-3 mt-2">
   {% for photo in lab_photos %}
   <div class="col">
-    {% include figure.liquid loading="eager" path=photo.image class="img-fluid rounded" caption=photo.caption %}
+    {% include figure.liquid loading="eager" path=photo.image class="img-fluid rounded" caption=photo.caption zoomable=true %}
   </div>
   {% endfor %}
 </div>
