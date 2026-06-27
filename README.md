@@ -16,6 +16,7 @@ This is your academic website built on **[al-folio](https://github.com/alshediva
    - [News / announcements](#news--announcements)
    - [Talks](#talks)
    - [Awards, Students, Teaching, Service (simple pages)](#simple-pages-awards-students-teaching-service)
+   - [Lab photo gallery (students page)](#lab-photo-gallery-students-page)
    - [Projects](#projects)
    - [Homepage bio & interests](#homepage-bio--interests)
    - [CV](#cv)
@@ -189,6 +190,40 @@ Example (adding a student to `_pages/students.md`):
 ```markdown
 - [New Student](https://their-site.com) — PhD (Started Fall 2027)
 ```
+
+### Lab photo gallery (students page)
+
+The bottom of `_pages/students.md` has a **"Lab life"** photo grid (hikes, runs, dinners). It's **data-driven**: the photo list lives in **`_data/lab_photos.yml`**, and the page loops over it **sorted by date, newest first**. You don't edit the page markup — only the YAML and the image files.
+
+Each entry has three fields:
+
+```yaml
+- date: 2025-06                 # YYYY-MM — controls the sort order (newest first)
+  image: assets/img/lab/lab-09.jpg
+  caption: "SIGMOD 2025, Berlin, Germany w/ ..."   # quote it; commas/apostrophes are fine
+```
+
+The images themselves live in **`assets/img/lab/`**, named `lab-NN.jpg`.
+
+**Before adding photos:** iPhone photos are usually **HEIC** (browsers can't display them) and several MB each. Convert and resize them to web JPEGs first. `sips` is built into macOS:
+
+```bash
+cd assets/img/lab
+# convert + resize one photo (max 1600px on the long edge) to the next free number
+sips -s format jpeg -Z 1600 ~/Desktop/IMG_1234.HEIC --out lab-15.jpg
+```
+
+**To add a photo:**
+1. Convert/resize it into `assets/img/lab/` as the next `lab-NN.jpg` (step above).
+2. Add an entry to `_data/lab_photos.yml` with its `date`, `image`, and `caption`. It auto-sorts into place by date — no need to position it manually.
+
+**To remove a photo — do _both_:**
+1. Delete its entry from `_data/lab_photos.yml`, **and**
+2. Delete the image file from `assets/img/lab/`.
+
+> The filename number is just a label; gallery order comes entirely from the `date` field. Numbering gaps (e.g. a missing `lab-08`) are harmless — no need to renumber.
+
+> **Caching:** after deploying, an old photo may linger because of browser/CDN caching. Hard-refresh (`Cmd+Shift+R`) or use a private window to confirm the change; the CDN clears within a few minutes.
 
 ### Projects
 

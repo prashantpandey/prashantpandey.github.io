@@ -1,0 +1,43 @@
+# Lab life photo gallery (shown on _pages/students.md).
+# The page loops over these and sorts by `date` (newest first).
+# To add a photo: add an entry with a YYYY-MM date, the image path, and a caption.
+# To remove one: delete its entry here AND the image file in assets/img/lab/.
+- date: 2025-09
+  image: assets/img/lab/lab-12.jpg
+  caption: "Charles River, Boston, Data Lab running group."
+- date: 2025-09
+  image: assets/img/lab/lab-13.jpg
+  caption: "Charles River, Boston, Data Lab running group."
+- date: 2025-07
+  image: assets/img/lab/lab-11.jpg
+  caption: "ACDA 2025, Montreal, Canada w/ Charles Leiserson, Martin Farach-Colton, Alex Conway, Hannah Komlos, David Eppstein, Michael Goodrich."
+- date: 2025-06
+  image: assets/img/lab/lab-09.jpg
+  caption: "SIGMOD 2025, Berlin, Germany w/ Yuvaraj Chesetti, Diandre Sabale, Wolfgang Gatterbauer."
+- date: 2025-06
+  image: assets/img/lab/lab-10.jpg
+  caption: "SIGMOD 2025, Berlin, Germany w/ Yuvaraj Chesetti, Diandre Sabale, Wolfgang Gatterbauer, Anna Fariha, Richard Wen."
+- date: 2024-07
+  image: assets/img/lab/lab-07.jpg
+  caption: "Shonan, Japan w/ Rob Johnson, Ethan Miller."
+- date: 2023-10
+  image: assets/img/lab/lab-05.jpg
+  caption: "Mt. Olympus hike w/ Hunter McCoy, Yuvaraj Chesetti."
+- date: 2023-10
+  image: assets/img/lab/lab-06.jpg
+  caption: "Mt. Olympus peak w/ Hunter McCoy."
+- date: 2023-09
+  image: assets/img/lab/lab-04.jpg
+  caption: "Sunrise Peak hike w/ David Tench, Hunter McCoy."
+- date: 2023-08
+  image: assets/img/lab/lab-03.jpg
+  caption: "Little Cottonwood Canyon hike w/ Hunter McCoy, Yuvaraj Chesetti."
+- date: 2023-05
+  image: assets/img/lab/lab-02.jpg
+  caption: "Loving Room hike w/ Hunter McCoy."
+- date: 2023-02
+  image: assets/img/lab/lab-01.jpg
+  caption: "PPoPP 2023, Montreal, Canada. Hunter's first conference, w/ Mary Hall, Rajeev Balasubramonian."
+- date: 2022-09
+  image: assets/img/lab/lab-14.jpg
+  caption: "Mt. Olympus peak w/ Hunter McCoy, Ana Marasovic."
