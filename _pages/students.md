@@ -8,10 +8,14 @@ nav_order: 7
 ---
 
 - [Jamshed Khan](https://sites.google.com/view/jamshed/home) — Khoury Distinguished Postdoc (Started Fall 2025)
-- [Hunter McCoy](https://huntermberkeley.github.io/) — PhD (Started Fall 2022)
-- [Yuvraj Chesetti](https://droidkid.github.io/) — PhD (Started Fall 2023)
-- [Zikun Wang](https://www.zikunw.com/) — PhD (Started Fall 2025)
-- [Quynh Pham](https://www.linkedin.com/in/quynhdp/) — PhD (Starting Fall 2026)
+- [Yuvraj Chesetti](https://droidkid.github.io/) — Ph.D. (Started Fall 2023)
+- [Zikun Wang](https://www.zikunw.com/) — Ph.D. (Started Fall 2025)
+- [Quynh Pham](https://www.linkedin.com/in/quynhdp/) — Ph.D. (Starting Fall 2026)
+- [Peter Li](https://peter.bio/about) — M.S. (Started Summer 2026)
+
+## Former students
+
+- [Hunter McCoy](https://huntermberkeley.github.io/) — Ph.D. (Fall 2022 – Summer 2026), now Amazon Redshift
 
 ## Lab life
 
