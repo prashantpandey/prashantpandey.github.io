@@ -8,9 +8,10 @@ nav_order: 8
 ---
 
 ### 2027
-- PC: SIGMOD 2027, VLDB 2027, ACDA 2027
+- PC: SIGMOD 2027, VLDB 2027, ACDA 2027, SPAA 2027
 
 ### 2026
+- Associate Editor: ACM Transactions on Parallel Computing (TOPC) (since Spring 2026)
 - PC: SIGMOD 2026, VLDB 2026, ICDE 2026, ALENEX 2026
 - PC: SC 2026, SPAA 2026
 
