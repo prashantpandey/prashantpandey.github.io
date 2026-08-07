@@ -13,11 +13,11 @@ nav_order: 7
 - [Quynh Pham](https://www.linkedin.com/in/quynhdp/) — Ph.D. (Starting Fall 2026)
 - [Peter Li](https://peter.bio/about) — M.S. (Started Summer 2026)
 
-## Former students
+## former students
 
 - [Hunter McCoy](https://huntermberkeley.github.io/) — Ph.D. (Fall 2022 – Summer 2026), now Amazon Redshift
 
-## Lab life
+## lab life
 
 Beyond research, we enjoy spending time together — hikes, runs, and dinners.
 
