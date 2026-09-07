@@ -2,6 +2,9 @@
 # The page loops over these and sorts by `date` (newest first).
 # To add a photo: add an entry with a YYYY-MM date, the image path, and a caption.
 # To remove one: delete its entry here AND the image file in assets/img/lab/.
+- date: 2026-09
+  image: assets/img/lab/lab-16.jpg
+  caption: "VLDB 2026, Boston, USA. The whole Data Lab — faculty and students."
 - date: 2026-07
   image: assets/img/lab/lab-15.jpg
   caption: "Hunter's PhD defense! From left: Mirek Riedewald, Prashant Pandey, Hunter McCoy, Yuvaraj Chesetti, Peter Li, Zikun Wang."
