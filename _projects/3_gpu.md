@@ -3,7 +3,7 @@ layout: page
 title: A Compact, Dynamic, and Distributed GPU Data Structure Library
 description: Compact, dynamic, and distributed data structures that exploit the massive parallelism of GPUs.
 img: assets/img/projects/gpu.png
-importance: 3
+importance: 4
 category: research
 related_publications: true
 ---

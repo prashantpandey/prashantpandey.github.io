@@ -3,7 +3,7 @@ layout: page
 title: Scalable, Real-Time, and Information-Rich Sequence Search Over SRA
 description: Compact, exact, and incrementally updatable indexes for searching petabyte-scale sequencing data.
 img: assets/img/projects/comp-bio.png
-importance: 1
+importance: 2
 category: research
 related_publications: true
 ---

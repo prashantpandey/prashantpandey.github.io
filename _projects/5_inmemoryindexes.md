@@ -3,7 +3,7 @@ layout: page
 title: Fast and Space-Efficient In-Memory Indexes (Hash Tables, B-trees)
 description: Cache- and space-efficient in-memory hash tables and ordered indexes for scalable systems.
 img: assets/img/projects/inmemoryindexes.png
-importance: 5
+importance: 6
 category: research
 related_publications: true
 ---

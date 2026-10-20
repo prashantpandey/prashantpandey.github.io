@@ -3,7 +3,7 @@ layout: page
 title: Adaptive and High-performance Filters for Modern Workloads
 description: Theoretically grounded, high-performance filters (approximate membership data structures) for modern workloads.
 img: assets/img/projects/filter.jpg
-importance: 2
+importance: 3
 category: research
 related_publications: true
 ---

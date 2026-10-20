@@ -3,7 +3,7 @@ layout: page
 title: Scalable and Real-Time Stream Monitoring using External Memory
 description: External-memory data structures for real-time monitoring of high-velocity data streams.
 img: assets/img/projects/streaming.png
-importance: 6
+importance: 7
 category: research
 related_publications: true
 published: false

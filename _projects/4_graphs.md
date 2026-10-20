@@ -3,7 +3,7 @@ layout: page
 title: Scalable Systems for Dynamic Graphs
 description: A unified system for storing, updating, and analyzing large, skewed, dynamic graphs.
 img: assets/img/projects/graphs.png
-importance: 4
+importance: 5
 category: research
 related_publications: true
 ---

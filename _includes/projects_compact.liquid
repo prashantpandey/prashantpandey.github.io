@@ -1,0 +1,11 @@
+<li class="project-compact">
+  <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
+    {% if project.img %}
+      <img class="project-compact-thumb" src="{{ project.img | relative_url }}" alt="" loading="lazy">
+    {% endif %}
+    <div class="project-compact-text">
+      <span class="project-compact-title">{{ project.title }}</span>
+      <span class="project-compact-desc">{{ project.description }}</span>
+    </div>
+  </a>
+</li>
