@@ -2,7 +2,7 @@
 layout: page
 title: GPU-Accelerated Vector Indexes for Approximate Nearest-Neighbor Search
 description: Compact, updatable vector indexes that exploit GPU parallelism for fast approximate nearest-neighbor search.
-img: assets/img/projects/gpu.png
+img: assets/img/projects/vectorindex.jpg
 importance: 6
 category: research
 related_publications: true
