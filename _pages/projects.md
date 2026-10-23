@@ -10,6 +10,8 @@ horizontal: false
 compact: true
 ---
 
+For more about these projects and the people behind them, visit the [SALT Systems Lab](https://saltsystemslab.github.io/) website.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

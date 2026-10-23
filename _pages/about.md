@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an Assistant Professor in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/people/prashant-pandey/) Northeastern University, Boston. I co-direct the [Data Lab](https://db.khoury.northeastern.edu/). I am also an Affiliate Faculty in the Performance and Algorithms Research Group at [Berkeley Lab](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/).
+I am an Assistant Professor in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/people/prashant-pandey/) Northeastern University, Boston, where I direct the [SALT Systems Lab](https://saltsystemslab.github.io/) and co-direct the [Data Lab](https://db.khoury.northeastern.edu/). I am also an Affiliate Faculty in the Performance and Algorithms Research Group at [Berkeley Lab](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/).
 
 My goal as a researcher is to build scalable data systems with strong theoretical guarantees and employ them to democratize next-generation data analyses. My work combines **filters and compact data structures**, **I/O-efficient algorithms**, and **high-performance and GPU computing**, applied across **computational biology**, stream processing, and storage.
 
